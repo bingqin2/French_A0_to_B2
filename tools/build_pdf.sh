@@ -62,5 +62,10 @@ for level in A1 A2 B1 B2; do
     "$OUT/词汇_Vocabulary/${level}_全部词汇_All_vocab.pdf"
 done
 
+# Most-important-words list
+md_to_html "$ROOT/词汇_Vocabulary/00_重要单词_Important_words.md" "$TMP/important.html"
+html_to_pdf "$TMP/important.html" "$OUT/词汇_Vocabulary/00_重要单词_Important_words.pdf"
+echo "✓ 词汇_Vocabulary/00_重要单词_Important_words.pdf"
+
 # Website (docs/) for GitHub Pages
 python3 "$ROOT/tools/build_site.py"

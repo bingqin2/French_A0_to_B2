@@ -10,3 +10,7 @@
 
 Rebuild everything (audio, word lists, Anki files, PDFs, website): `bash tools/build_pdf.sh`
 Website only: `python3 tools/build_site.py` (output in `docs/`)
+
+## Word importance ⭐
+Every word is rated ⭐⭐⭐ core / ⭐⭐ common / ⭐ good to know by how often it is used in spoken French. The full ranked list is in [词汇_Vocabulary/00_重要单词_Important_words.md](词汇_Vocabulary/00_重要单词_Important_words.md).
+Frequency data: [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords) (OpenSubtitles 2018, CC BY-SA 4.0), in `tools/data/fr_50k.txt`.

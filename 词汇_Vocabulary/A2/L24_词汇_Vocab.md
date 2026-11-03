@@ -2,33 +2,36 @@
 
 > 第 24 课 · 直接宾语代词 le / la / les  
 > 共 **14** 个词/短语 · *14 words & phrases*  
-> 📖 课文 Lesson：[L24_直接宾语代词_Direct_object_pronouns.md](../../A2/L24_直接宾语代词_Direct_object_pronouns.md)
+> 📖 课文 Lesson：[L24_直接宾语代词_Direct_object_pronouns.md](../../A2/L24_直接宾语代词_Direct_object_pronouns.md)  
+> 重要程度 Importance：⭐⭐⭐ 核心 9 · ⭐⭐ 常用 4 · ⭐ 了解 1（按法语日常使用频率 by how often French people use it）
+
+**时间不够时，先背 ⭐⭐⭐ 的词！** *Short on time? Learn the ⭐⭐⭐ words first.*
 
 <div class="vocab">
 
 ## 动词（都接直接宾语）Verbs with a direct object
 
-| 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
-|---|---|---|---|---|
-| **connaître** | [kɔ.nɛtʁ] | 认识；了解 | to know (a person, place) |  |
-| **appeler** | [a.ple] | 叫；打电话给 | to call |  |
-| **rencontrer** | [ʁɑ̃.kɔ̃.tʁe] | 遇见；结识 | to meet |  |
-| **inviter** | [ɛ̃.vi.te] | 邀请 | to invite |  |
-| **aider** | [e.de] | 帮助 | to help |  |
-| **porter** | [pɔʁ.te] | 穿着；拿着 | to wear; to carry |  |
-| **laisser** | [lɛ.se] | 留下；让 | to leave (sth); to let |  |
-| **garder** | [ɡaʁ.de] | 保留；照看 | to keep; to look after |  |
-| **quitter** | [ki.te] | 离开（某人、某地） | to leave (sb, a place) |  |
+| 重要 | 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
+|---|---|---|---|---|---|
+| ⭐⭐⭐ | **connaître** | [kɔ.nɛtʁ] | 认识；了解 | to know (a person, place) |  |
+| ⭐⭐⭐ | **appeler** | [a.ple] | 叫；打电话给 | to call |  |
+| ⭐⭐⭐ | **rencontrer** | [ʁɑ̃.kɔ̃.tʁe] | 遇见；结识 | to meet |  |
+| ⭐⭐⭐ | **aider** | [e.de] | 帮助 | to help |  |
+| ⭐⭐⭐ | **porter** | [pɔʁ.te] | 穿着；拿着 | to wear; to carry |  |
+| ⭐⭐⭐ | **laisser** | [lɛ.se] | 留下；让 | to leave (sth); to let |  |
+| ⭐⭐⭐ | **garder** | [ɡaʁ.de] | 保留；照看 | to keep; to look after |  |
+| ⭐⭐⭐ | **quitter** | [ki.te] | 离开（某人、某地） | to leave (sb, a place) |  |
+| ⭐⭐ | **inviter** | [ɛ̃.vi.te] | 邀请 | to invite |  |
 
 ## 名词 Nouns
 
-| 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
-|---|---|---|---|---|
-| **une clé** | [kle] | 钥匙 | key |  |
-| **un cadeau** | [ka.do] | 礼物 | gift |  |
-| **des lunettes (f.)** | [ly.nɛt] | 眼镜 | glasses |  |
-| **un portefeuille** | [pɔʁt.fœj] | 钱包 | wallet |  |
-| **un parapluie** | [pa.ʁa.plɥi] | 雨伞 | umbrella |  |
+| 重要 | 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
+|---|---|---|---|---|---|
+| ⭐⭐⭐ | **un cadeau** | [ka.do] | 礼物 | gift |  |
+| ⭐⭐ | **une clé** | [kle] | 钥匙 | key |  |
+| ⭐⭐ | **des lunettes (f.)** | [ly.nɛt] | 眼镜 | glasses |  |
+| ⭐⭐ | **un portefeuille** | [pɔʁt.fœj] | 钱包 | wallet |  |
+| ⭐ | **un parapluie** | [pa.ʁa.plɥi] | 雨伞 | umbrella |  |
 
 </div>
 

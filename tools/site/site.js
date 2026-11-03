@@ -80,14 +80,33 @@
   // ---- Dictation (vocabulary pages) ----
   const box = $("#dictation");
   if (!box) return;
-  const words = [...document.querySelectorAll("table button.say")]
-    .map((b) => ({ t: b.dataset.t, btn: b }))
+  // Importance of a word: the ⭐ cell in its row, or the ⭐ heading above its table.
+  const stars = (b) => {
+    const first = b.closest("tr").querySelector("td");
+    let m = first && first.textContent.trim().match(/^⭐+$/);
+    if (m) return m[0].length;
+    let el = b.closest("table");
+    while (el && (el = el.previousElementSibling || el.parentElement)) {
+      if (el.tagName === "H2") { m = el.textContent.match(/⭐+/); return m ? m[0].length : 0; }
+    }
+    return 0;
+  };
+  const all = [...document.querySelectorAll("table button.say")]
+    .map((b) => ({ t: b.dataset.t, btn: b, s: stars(b) }))
     .filter((w) => w.t && w.t.length < 60);
-  if (!words.length) { box.remove(); return; }
+  if (!all.length) { box.remove(); return; }
+  let words = all;
 
   box.innerHTML = `
     <h3>🎧 听写练习 Dictation</h3>
     <div>听发音，写出法语（带冠词，标点可以不写）。<i>Listen and type the French.</i></div>
+    <div>练习范围 Words:
+      <select id="d-tier">
+        <option value="0">全部 All</option>
+        <option value="3">只练 ⭐⭐⭐ 核心 Core only</option>
+        <option value="2">⭐⭐ 及以上 Common + Core</option>
+      </select>
+    </div>
     <div>
       <button id="d-new">▶ 下一个 Next</button>
       <button id="d-again">🔁 再听 Again</button>
@@ -104,6 +123,15 @@
   const res = $("#d-res"), inp = $("#d-in");
   const score = () => ($("#d-score").textContent = total ? `得分 Score: ${right} / ${total}` : "");
 
+  const tierSel = $("#d-tier");
+  tierSel.value = localStorage.getItem("fr-tier") || "0";
+  const applyTier = () => {
+    const min = parseInt(tierSel.value, 10);
+    words = min ? all.filter((w) => w.s >= min) : all;
+    if (!words.length) words = all;
+    localStorage.setItem("fr-tier", tierSel.value);
+  };
+  tierSel.onchange = applyTier; applyTier();
   $("#d-new").onclick = () => {
     cur = words[Math.floor(Math.random() * words.length)];
     inp.value = ""; res.textContent = ""; inp.focus();

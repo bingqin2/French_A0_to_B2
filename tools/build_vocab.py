@@ -13,6 +13,8 @@ import hashlib
 import os
 import re
 
+from importance import TIERS, tier
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "词汇_Vocabulary")
 LEVELS = ["A1", "A2", "B1", "B2"]
@@ -196,20 +198,27 @@ def md_escape(s):
     return s.replace("|", "\\|")
 
 
-def write_md(path, title, num, groups, lesson_rel):
+def write_md(path, title, num, groups, lesson_rel, level):
     total = sum(len(r) for _, r in groups)
+    counts = [0, 0, 0]
+    for _, rows in groups:
+        for r in rows:
+            counts[tier(r["fr"], level)[0]] += 1
     lines = [f"# 第 {num} 课 词汇表 / Lesson {num} Vocabulary", "",
              f"> {title}  ",
              f"> 共 **{total}** 个词/短语 · *{total} words & phrases*  ",
-             f"> 📖 课文 Lesson：[{os.path.basename(lesson_rel)}]({lesson_rel})", "",
+             f"> 📖 课文 Lesson：[{os.path.basename(lesson_rel)}]({lesson_rel})  ",
+             f"> 重要程度 Importance：⭐⭐⭐ 核心 {counts[0]} · ⭐⭐ 常用 {counts[1]} · ⭐ 了解 {counts[2]}"
+             "（按法语日常使用频率 by how often French people use it）", "",
+             "**时间不够时，先背 ⭐⭐⭐ 的词！** *Short on time? Learn the ⭐⭐⭐ words first.*", "",
              '<div class="vocab">', ""]
     for g, rows in groups:
         lines += [f"## {g or '常用词 Words'}", "",
-                  "| 法语 French | 音标 IPA | 中文 | English | 备注 Notes |",
-                  "|---|---|---|---|---|"]
-        for r in rows:
+                  "| 重要 | 法语 French | 音标 IPA | 中文 | English | 备注 Notes |",
+                  "|---|---|---|---|---|---|"]
+        for r in sorted(rows, key=lambda r: tier(r["fr"], level)[0]):
             lines.append("| " + " | ".join(md_escape(x) for x in
-                         (f"**{r['fr']}**", r["ipa"], r["zh"], r["en"], r["note"])) + " |")
+                         (tier(r["fr"], level)[1], f"**{r['fr']}**", r["ipa"], r["zh"], r["en"], r["note"])) + " |")
         lines.append("")
     lines += ["</div>", "", "---", "",
               "✅ 背完后：遮住法语那一列，看着中文 / English 说出法语（带冠词！）。",
@@ -240,10 +249,12 @@ def all_words():
                     yield level, num, r
 
 
-def anki_line(r, tag, deck):
+def anki_line(r, tag, deck, level):
+    t, stars, _ = tier(r["fr"], level)
+    tag += " " + ["importance::1_core", "importance::2_common", "importance::3_extra"][t]
     front = " / ".join(x for x in (r["zh"], r["en"]) if x)
     sound = audio_name(r["fr"])
-    back = r["fr"] + (f"<br>{r['ipa']}" if r["ipa"] else "") + \
+    back = r["fr"] + (f"<br>{r['ipa']}" if r["ipa"] else "") + f"<br><small>{stars}</small>" + \
         (f"<br><small>{r['note']}</small>" if r["note"] else "") + \
         (f"[sound:{sound}]" if os.path.exists(os.path.join(AUDIO_DIR, sound)) else "")
     return "\t".join(x.replace("\t", " ") for x in (front, back, tag, deck))
@@ -263,13 +274,59 @@ def main():
             num = int(re.match(r"L(\d+)", name).group(1))
             groups = add_supplements(parse_lesson(path), num)
             out = os.path.join(OUT, level, f"L{num:02d}_词汇_Vocab.md")
-            total = write_md(out, lesson_title(path), num, groups, f"../../{level}/{name}")
+            total = write_md(out, lesson_title(path), num, groups, f"../../{level}/{name}", level)
             for _, rows in groups:
                 deck = f"法语 French::{level}::L{num:02d} " + lesson_title(path).split("·", 1)[-1].strip()
-                anki += [anki_line(r, f"French::{level}::L{num:02d}", deck) for r in rows]
+                anki += [anki_line(r, f"French::{level}::L{num:02d}", deck, level) for r in rows]
             print(f"✓ {level}/L{num:02d}_词汇_Vocab.md  ({total})")
         open(os.path.join(OUT, "Anki", f"{level}_Anki.txt"), "w", encoding="utf-8").write("\n".join(anki) + "\n")
         print(f"✓ Anki/{level}_Anki.txt  ({len(anki) - 5} cards)")
+    write_important()
+
+
+def write_important():
+    """One page with every word, most important first: 词汇_Vocabulary/00_重要单词_Important_words.md"""
+    seen, by_tier = set(), {0: [], 1: [], 2: []}
+    titles = {}
+    for level, num, r in all_words():
+        if r["fr"] in seen:
+            continue
+        seen.add(r["fr"])
+        by_tier[tier(r["fr"], level)[0]].append((level, num, r))
+    for level in LEVELS:
+        for p in glob.glob(os.path.join(ROOT, level, "L*.md")):
+            titles[int(re.match(r"L(\d+)", os.path.basename(p)).group(1))] = (level, os.path.basename(p))
+    n = [len(by_tier[i]) for i in range(3)]
+    lines = ["# 重要单词 / Most Important Words", "",
+             "> 全部课程的单词，按**重要程度**排列。重要程度 = 法国人日常说话时用这个词有多频繁"
+             "（根据法语影视字幕的词频统计），数字、星期、月份等基础词一律算核心。  ",
+             "> *Every word in the course, most important first — ranked by how often it is used in "
+             "everyday spoken French (film & TV subtitles).*", "",
+             f"| 等级 | 意思 | 词数 | 建议 |", "|---|---|---|---|",
+             f"| ⭐⭐⭐ 核心 Core | 最常用的约 1,000 个词之一 | {n[0]} | **必须会听、会说、会写** |",
+             f"| ⭐⭐ 常用 Common | 最常用的 1,000–4,000 词 | {n[1]} | 会听、会读，常用的会说 |",
+             f"| ⭐ 了解 Good to know | 较少用或较正式 | {n[2]} | 认识就行，阅读和考试时用 |", "",
+             "💡 **怎么用**：每天打开这一页，用最上面的 🎧 听写练习，先把 ⭐⭐⭐ 全部练到能听写正确。"
+             "Anki 里也可以只学核心词：在浏览器里搜 `tag:importance::1_core`。", "",
+             '<div class="important">', ""]
+    for i in range(3):
+        stars, label = TIERS[i][1], TIERS[i][2]
+        lines += [f"## {stars} {label}（{n[i]}）", ""]
+        for level in LEVELS:
+            rows = [x for x in by_tier[i] if x[0] == level]
+            if not rows:
+                continue
+            lines += [f"### {level}（{len(rows)}）", "",
+                      "| 法语 French | 中文 | English | 课 Lesson |", "|---|---|---|---|"]
+            for lv, num, r in rows:
+                lv2, fname = titles[num]
+                link = f"[L{num:02d}]({lv2}/L{num:02d}_词汇_Vocab.md)"
+                lines.append("| " + " | ".join(md_escape(x) for x in
+                             (f"**{r['fr']}**", r["zh"], r["en"])) + f" | {link} |")
+            lines.append("")
+    lines += ["</div>", ""]
+    open(os.path.join(OUT, "00_重要单词_Important_words.md"), "w", encoding="utf-8").write("\n".join(lines))
+    print(f"✓ 00_重要单词_Important_words.md  (⭐⭐⭐ {n[0]} · ⭐⭐ {n[1]} · ⭐ {n[2]})")
 
 
 if __name__ == "__main__":

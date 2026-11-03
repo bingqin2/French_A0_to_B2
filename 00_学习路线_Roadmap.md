@@ -24,6 +24,8 @@
    *After every 5 lessons, take one day to redo the exercises.*
 
 ### 📒 词汇表和 Anki / Vocabulary lists & Anki
+- ⭐ **[重要单词 Most important words](词汇_Vocabulary/00_重要单词_Important_words.md)**：全部 1,300 多个词按重要程度排列。每个词都标了 **⭐⭐⭐ 核心 / ⭐⭐ 常用 / ⭐ 了解**（按法国人日常使用的频率）。**时间不够时，先背 ⭐⭐⭐！**
+  *Every word is rated by how often French people use it. Short on time? Learn the ⭐⭐⭐ words first.*
 - **每课的单词表**在 `词汇_Vocabulary/A1/`、`词汇_Vocabulary/A2/` 等文件夹里（例如 `L01_词汇_Vocab.md`），PDF 版在 `PDF/词汇_Vocabulary/`。
   *Each lesson's word list is in 词汇_Vocabulary/, with PDFs in PDF/词汇_Vocabulary/.*
 - **Anki 导入文件（带发音 🔊）**：`词汇_Vocabulary/Anki/A1_Anki.txt`（每个级别一个）。不用自己做卡片了！每张卡片的背面都会**自动播放法语发音**。
@@ -31,7 +33,7 @@
   2. **先把发音文件复制到 Anki 里**（只需做一次；以后有新课再做一次）：在终端运行
      `cp ~/Documents/UIUC/French/French_A0_to_B2/词汇_Vocabulary/Anki/audio/*.mp3 ~/Library/Application\ Support/Anki2/"User 1"/collection.media/`
   3. 打开 Anki → **文件 File → 导入 Import** → 选择 `A1_Anki.txt`，笔记类型选 **Basic（基础）**，确认字段 1 = 正面（中文 / English），字段 2 = 背面（法语 + 音标 + 发音）
-  4. 每张卡片都带标签，比如 `French::A1::L05`。每天在浏览器里搜 `tag:French::A1::L05`，只学当天那一课的卡片。
+  4. 每张卡片都带标签，比如 `French::A1::L05`。每天在浏览器里搜 `tag:French::A1::L05`，只学当天那一课的卡片。只想学核心词：搜 `tag:importance::1_core`（⭐⭐ 是 `2_common`，⭐ 是 `3_extra`）。
   5. 想在手机上学：注册 AnkiWeb（免费），在电脑上点 **同步 Sync**，再在手机 App 里登录同步——发音也会一起同步。
   *Copy the mp3s into Anki's collection.media folder, then import A1_Anki.txt (note type Basic). Sync via AnkiWeb to use it on your phone, audio included.*
 - 发音由 macOS 自带的法语语音（Thomas）生成，清楚标准，但仍是电脑合成音。遇到拿不准的词，用「法语助手」或 forvo.com 听**真人**发音。

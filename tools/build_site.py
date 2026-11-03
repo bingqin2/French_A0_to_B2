@@ -20,6 +20,7 @@ import sys
 import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from importance import tier  # noqa: E402
 from build_vocab import AUDIO_DIR, LEVELS, ROOT, audio_name, speech_text  # noqa: E402
 
 SITE = os.path.join(ROOT, "docs")
@@ -86,7 +87,7 @@ def forvo(word):
             f' title="真人发音 Native speakers (Forvo)">👤</a>')
 
 
-def add_buttons_to_tables(body, depth):
+def add_buttons_to_tables(body, depth, level=None):
     prefix = "../" * depth
 
     def fix_table(m):
@@ -118,6 +119,8 @@ def add_buttons_to_tables(body, depth):
                 extra = button(text, mp3 and prefix + "audio/" + mp3)
                 if is_vocab:
                     extra += forvo(text)
+                    if level and not any("重要" in h for h in heads):
+                        extra += f' <span class="stars">{tier(fr_cell, level)[1]}</span>'
                 new = f'<td{c.group(1)}><span class="fr">{c.group(2)}</span> {extra}</td>'
                 row = row[:c.start()] + new + row[c.end():]
             return row
@@ -173,7 +176,8 @@ def render(md_text, src_path, depth, title):
     body = body.replace(f'href="{ROADMAP[:-3]}.html"', 'href="index.html"')
     body = re.sub(r'href="((?:\.\./)+)' + re.escape(ROADMAP[:-3]) + r'\.html"', r'href="\1index.html"', body)
     body = re.sub(r'(<a\s+href="[^"]+\.html">[^<]*?)\.md</a>', r"\1</a>", body)
-    body = add_buttons_to_tables(body, depth)
+    lv = next((x for x in LEVELS if f"{os.sep}{x}{os.sep}" in src_path), None)
+    body = add_buttons_to_tables(body, depth, lv if "词汇_Vocabulary" not in src_path else None)
     body = add_buttons_to_italics(body)
     is_vocab = "词汇_Vocabulary" in src_path
     up = "../" * depth
@@ -207,6 +211,10 @@ def main():
             build_page(src, os.path.join(SITE, "词汇_Vocabulary", level,
                                          os.path.basename(src)[:-3] + ".html"), 2)
             count += 1
+    imp = os.path.join(ROOT, "词汇_Vocabulary", "00_重要单词_Important_words.md")
+    if os.path.exists(imp):
+        build_page(imp, os.path.join(SITE, "词汇_Vocabulary", "00_重要单词_Important_words.html"), 1)
+        count += 1
     shutil.copy(os.path.join(ASSETS, "site.css"), SITE)
     shutil.copy(os.path.join(ASSETS, "site.js"), SITE)
     shutil.copytree(AUDIO_DIR, os.path.join(SITE, "audio"))

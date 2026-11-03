@@ -2,36 +2,39 @@
 
 > 第 31 课 · 关系代词 qui / que  
 > 共 **17** 个词/短语 · *17 words & phrases*  
-> 📖 课文 Lesson：[L31_关系代词qui_que_Relative_qui_que.md](../../A2/L31_关系代词qui_que_Relative_qui_que.md)
+> 📖 课文 Lesson：[L31_关系代词qui_que_Relative_qui_que.md](../../A2/L31_关系代词qui_que_Relative_qui_que.md)  
+> 重要程度 Importance：⭐⭐⭐ 核心 3 · ⭐⭐ 常用 9 · ⭐ 了解 5（按法语日常使用频率 by how often French people use it）
+
+**时间不够时，先背 ⭐⭐⭐ 的词！** *Short on time? Learn the ⭐⭐⭐ words first.*
 
 <div class="vocab">
 
 ## 文化与娱乐 Culture & entertainment
 
-| 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
-|---|---|---|---|---|
-| **un roman** | [ʁɔ.mɑ̃] | 小说 | novel |  |
-| **un écrivain** | [e.kʁi.vɛ̃] | 作家 | writer |  |
-| **une chanson** | [ʃɑ̃.sɔ̃] | 歌曲 | song |  |
-| **un chanteur / une chanteuse** | [ʃɑ̃.tœʁ] / [ʃɑ̃.tøz] | 歌手 | singer |  |
-| **un acteur / une actrice** | [ak.tœʁ] / [ak.tʁis] | 演员 | actor / actress |  |
-| **une série** | [se.ʁi] | 电视剧 | TV series |  |
-| **un musée** | [my.ze] | 博物馆 | museum |  |
-| **un tableau** | [ta.blo] | 画 | painting |  |
-| **une exposition** | [ɛks.po.zi.sjɔ̃] | 展览 | exhibition |  |
-| **un spectacle** | [spɛk.takl] | 演出 | show |  |
+| 重要 | 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
+|---|---|---|---|---|---|
+| ⭐⭐ | **un roman** | [ʁɔ.mɑ̃] | 小说 | novel |  |
+| ⭐⭐ | **une chanson** | [ʃɑ̃.sɔ̃] | 歌曲 | song |  |
+| ⭐⭐ | **un acteur / une actrice** | [ak.tœʁ] / [ak.tʁis] | 演员 | actor / actress |  |
+| ⭐⭐ | **une série** | [se.ʁi] | 电视剧 | TV series |  |
+| ⭐⭐ | **un musée** | [my.ze] | 博物馆 | museum |  |
+| ⭐⭐ | **un tableau** | [ta.blo] | 画 | painting |  |
+| ⭐⭐ | **un spectacle** | [spɛk.takl] | 演出 | show |  |
+| ⭐ | **un écrivain** | [e.kʁi.vɛ̃] | 作家 | writer |  |
+| ⭐ | **un chanteur / une chanteuse** | [ʃɑ̃.tœʁ] / [ʃɑ̃.tøz] | 歌手 | singer |  |
+| ⭐ | **une exposition** | [ɛks.po.zi.sjɔ̃] | 展览 | exhibition |  |
 
 ## 评价 Opinions
 
-| 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
-|---|---|---|---|---|
-| **drôle** | [dʁol] | 好笑的 | funny |  |
-| **émouvant / émouvante** | [e.mu.vɑ̃] / [e.mu.vɑ̃t] | 感人的 | moving |  |
-| **ennuyeux / ennuyeuse** | [ɑ̃.nɥi.jø] / [ɑ̃.nɥi.jøz] | 无聊的 | boring |  |
-| **connu / connue** | [kɔ.ny] | 有名的 | well-known |  |
-| **recommander** | [ʁə.kɔ.mɑ̃.de] | 推荐 | to recommend |  |
-| **là-bas** | [la.ba] | 那边 | over there |  |
-| **à côté** | [a ko.te] | 在旁边；隔壁 | next door |  |
+| 重要 | 法语 French | 音标 IPA | 中文 | English | 备注 Notes |
+|---|---|---|---|---|---|
+| ⭐⭐⭐ | **drôle** | [dʁol] | 好笑的 | funny |  |
+| ⭐⭐⭐ | **là-bas** | [la.ba] | 那边 | over there |  |
+| ⭐⭐⭐ | **à côté** | [a ko.te] | 在旁边；隔壁 | next door |  |
+| ⭐⭐ | **ennuyeux / ennuyeuse** | [ɑ̃.nɥi.jø] / [ɑ̃.nɥi.jøz] | 无聊的 | boring |  |
+| ⭐⭐ | **connu / connue** | [kɔ.ny] | 有名的 | well-known |  |
+| ⭐ | **émouvant / émouvante** | [e.mu.vɑ̃] / [e.mu.vɑ̃t] | 感人的 | moving |  |
+| ⭐ | **recommander** | [ʁə.kɔ.mɑ̃.de] | 推荐 | to recommend |  |
 
 </div>
 

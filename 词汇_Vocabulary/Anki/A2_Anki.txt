@@ -3,315 +3,315 @@
 #notetype:Basic
 #tags column:3
 #deck column:4
-昨天 / yesterday	hier<br>[jɛʁ][sound:fr_71c796885965.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-昨晚 / last night	hier soir<br>[jɛʁ swaʁ][sound:fr_f07686d88670.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-前天 / the day before yesterday	avant-hier<br>[a.vɑ̃.tjɛʁ][sound:fr_84092de8be28.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-上周 / last week	la semaine dernière<br>[dɛʁ.njɛʁ][sound:fr_dcc0bdcdc46a.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-上个月 / last month	le mois dernier<br>[dɛʁ.nje][sound:fr_ec36664df950.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-去年 / last year	l'année dernière[sound:fr_b08f2c9128fb.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-……以前 / … ago	il y a (+ 时间)<br>[il.ja][sound:fr_9af1b8b0bedc.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-已经 / already	déjà<br>[de.ʒa][sound:fr_42e1caaa6b22.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-从来（不） / never; ever	jamais<br>[ʒa.mɛ][sound:fr_efe25fc9c383.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-读 / to read	lire<br>[liʁ]<br><small>过去分词: lu</small>[sound:fr_18baf1cc4ef9.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-写 / to write	écrire<br>[e.kʁiʁ]<br><small>过去分词: écrit</small>[sound:fr_5dd7e28ae14d.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-打开 / to open	ouvrir<br>[u.vʁiʁ]<br><small>过去分词: ouvert</small>[sound:fr_8164212e99f5.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-收到 / to receive	recevoir<br>[ʁə.sə.vwaʁ]<br><small>过去分词: reçu</small>[sound:fr_64d018fff98f.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-忘记 / to forget	oublier<br>[u.bli.je]<br><small>过去分词: oublié</small>[sound:fr_d10eaef91101.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-找到；觉得 / to find	trouver<br>[tʁu.ve]<br><small>过去分词: trouvé</small>[sound:fr_7e977752a1cc.mp3]	French::A2::L21	法语 French::A2::L21 复合过去时（用 avoir）
-上去；上车 / to go up; to get on	monter<br>[mɔ̃.te]<br><small>过去分词: monté</small>[sound:fr_2803e03a9bd2.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-出生 / to be born	naître<br>[nɛtʁ]<br><small>过去分词: né</small>[sound:fr_6d04261efff8.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-死亡 / to die	mourir<br>[mu.ʁiʁ]<br><small>过去分词: mort</small>[sound:fr_e1066162cc2a.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-留下，待着 / to stay	rester<br>[ʁɛs.te]<br><small>过去分词: resté</small>[sound:fr_f557ddb31613.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-摔倒；掉下 / to fall	tomber<br>[tɔ̃.be]<br><small>过去分词: tombé</small>[sound:fr_130629d7be71.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-回去 / to go back	retourner<br>[ʁə.tuʁ.ne]<br><small>过去分词: retourné</small>[sound:fr_ff6a8c6528ac.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-经过；顺路去 / to pass by; to drop in	passer<br>[pa.se]<br><small>过去分词: passé</small>[sound:fr_0f5949436371.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-旅行 / trip	un voyage<br>[vwa.jaʒ][sound:fr_d7128fecb3b8.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-楼层 / floor (of a building)	l'étage (m.)<br>[e.taʒ][sound:fr_9ab8c336d8e3.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-楼梯 / stairs	l'escalier (m.)<br>[ɛs.ka.lje][sound:fr_66ad74f8aaa4.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-生病的 / sick	malade<br>[ma.lad][sound:fr_20013dd93297.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-晚 / 早 / late / early	tard / tôt<br>[taʁ] / [to][sound:fr_76b1a904d493.mp3]	French::A2::L22	法语 French::A2::L22 复合过去时（用 être）
-醒来 / to wake up	se réveiller<br>[sə ʁe.ve.je][sound:fr_82a8e91aa818.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-起床 / to get up	se lever<br>[sə lə.ve][sound:fr_5538a914a4b1.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-洗漱；洗澡 / to wash (oneself)	se laver<br>[sə la.ve][sound:fr_c4a5610e966f.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-淋浴 / to shower	se doucher<br>[sə du.ʃe][sound:fr_2d75dc7d4570.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-刷牙 / to brush one's teeth	se brosser les dents<br>[sə bʁɔ.se le dɑ̃][sound:fr_1632fdd92600.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-穿衣服 / to get dressed	s'habiller<br>[sa.bi.je][sound:fr_013d14603b5a.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-化妆 / to put on makeup	se maquiller<br>[sə ma.ki.je][sound:fr_f6bd2c85b052.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-刮胡子 / to shave	se raser<br>[sə ʁa.ze][sound:fr_e57ba1a2d087.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-上床睡觉 / to go to bed	se coucher<br>[sə ku.ʃe][sound:fr_9102adfbd476.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-休息 / to rest	se reposer<br>[sə ʁə.po.ze][sound:fr_e9fb2ffe6a2c.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-赶紧 / to hurry	se dépêcher<br>[sə de.pɛ.ʃe][sound:fr_347d40e4e3e1.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-玩得开心 / to have fun	s'amuser<br>[sa.my.ze][sound:fr_4b9427a7a7da.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-散步 / to go for a walk	se promener<br>[sə pʁɔm.ne][sound:fr_2cba53d0f16a.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-坐下 / to sit down	s'asseoir<br>[sa.swaʁ][sound:fr_cd92e7d03f80.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-牙齿 / teeth	les dents (f.)<br>[dɑ̃][sound:fr_2a08f5651846.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-手 / hands	les mains (f.)<br>[mɛ̃][sound:fr_d47d4428726c.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-头发 / hair	les cheveux (m.)<br>[ʃə.vø][sound:fr_dbcfb982d590.mp3]	French::A2::L23	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
-认识；了解 / to know (a person, place)	connaître<br>[kɔ.nɛtʁ][sound:fr_8f1b2ec10ecd.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-叫；打电话给 / to call	appeler<br>[a.ple][sound:fr_c52f64ec94f2.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-遇见；结识 / to meet	rencontrer<br>[ʁɑ̃.kɔ̃.tʁe][sound:fr_2cbf55e629b6.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-邀请 / to invite	inviter<br>[ɛ̃.vi.te][sound:fr_9c6825e8033c.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-帮助 / to help	aider<br>[e.de][sound:fr_d6302fb3e2d6.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-穿着；拿着 / to wear; to carry	porter<br>[pɔʁ.te][sound:fr_d8680a9bda00.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-留下；让 / to leave (sth); to let	laisser<br>[lɛ.se][sound:fr_378982cefae0.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-保留；照看 / to keep; to look after	garder<br>[ɡaʁ.de][sound:fr_1552a842e3a8.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-离开（某人、某地） / to leave (sb, a place)	quitter<br>[ki.te][sound:fr_c261edcd3dfd.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-钥匙 / key	une clé<br>[kle][sound:fr_749c3831d3c5.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-礼物 / gift	un cadeau<br>[ka.do][sound:fr_8d751e460d71.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-眼镜 / glasses	des lunettes (f.)<br>[ly.nɛt][sound:fr_d2233a081eb9.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-钱包 / wallet	un portefeuille<br>[pɔʁt.fœj][sound:fr_24216ba71b75.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-雨伞 / umbrella	un parapluie<br>[pa.ʁa.plɥi][sound:fr_3b9b062c0ac0.mp3]	French::A2::L24	法语 French::A2::L24 直接宾语代词 le / la / les
-给 / to give	donner (à)<br>[dɔ.ne][sound:fr_7b23a3a467f0.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-问；要求 / to ask	demander (à)<br>[də.mɑ̃.de][sound:fr_01fdfa889403.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-寄；发送 / to send	envoyer (à)<br>[ɑ̃.vwa.je][sound:fr_41e0fa794320.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-送（礼物） / to offer, give (a gift)	offrir (à)<br>[ɔ.fʁiʁ][sound:fr_000cecfe736a.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-给……看 / to show	montrer (à)<br>[mɔ̃.tʁe][sound:fr_7906cbd75af0.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-借给 / to lend	prêter (à)<br>[pʁɛ.te][sound:fr_eb154f614add.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-解释 / to explain	expliquer (à)<br>[ɛks.pli.ke][sound:fr_8f91a564973e.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-像 / to look like	ressembler (à)<br>[ʁə.sɑ̃.ble][sound:fr_b9ec5de89341.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-讨……喜欢 / to please	plaire (à)<br>[plɛʁ][sound:fr_5537e6c6ad9f.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-消息；短信 / message	un message<br>[me.saʒ][sound:fr_5d2326556d43.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-电子邮件 / email	un mail<br>[mɛl][sound:fr_e6c8a645ba5c.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-信 / letter	une lettre<br>[lɛtʁ][sound:fr_9c09633257de.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-建议 / (piece of) advice	un conseil<br>[kɔ̃.sɛj][sound:fr_a424a6402f32.mp3]	French::A2::L25	法语 French::A2::L25 间接宾语代词 lui / leur
-想着 / to think about	penser à<br>[pɑ̃.se a][sound:fr_a0e0d2a09a64.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-参加 / to take part in	participer à<br>[paʁ.ti.si.pe a][sound:fr_9158319474fe.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-习惯于 / to get used to	s'habituer à<br>[sa.bi.tɥe a][sound:fr_1638e714ee51.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-需要 / to need	avoir besoin de<br>[a.vwaʁ bə.zwɛ̃ də][sound:fr_8afe46911e6d.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-想要 / to feel like	avoir envie de<br>[a.vwaʁ ɑ̃.vi də][sound:fr_f91cefbba093.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-谈论 / to talk about	parler de<br>[paʁ.le də][sound:fr_842ad46d7930.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-照顾；处理 / to take care of	s'occuper de<br>[sɔ.ky.pe də][sound:fr_2f6d68ad6a08.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-记得 / to remember	se souvenir de<br>[sə su.və.niʁ də][sound:fr_bb0d7bbaf50b.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-害怕 / to be afraid of	avoir peur de<br>[a.vwaʁ pœʁ də][sound:fr_9975cdaf389e.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-我们走吧！ / Let's go!	On y va ! / Allons-y !<br>[ɔ̃.ni.va] / [a.lɔ̃.zi][sound:fr_c2c833e652b5.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-去吧！加油！ / Go ahead!	Vas-y ! / Allez-y !<br>[va.zi] / [a.le.zi][sound:fr_599ded75cb63.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-有（一些）。 / There is some.	Il y en a.<br>[il.jɑ̃.na][sound:fr_94dec0dd946b.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-没有了。 / There's none left.	Il n'y en a plus.<br>[il njɑ̃.na ply][sound:fr_3087b76cf5a5.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-好了！搞定了！ / That's it! Done!	Ça y est !<br>[sa.jɛ][sound:fr_d870b9a0b70b.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-我受够了！ / I'm fed up!	J'en ai marre !<br>[ʒɑ̃.ne maʁ]<br><small>口语</small>[sound:fr_f84cb4aa385e.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-我走了。 / I'm leaving.	Je m'en vais.<br>[ʒə mɑ̃ vɛ][sound:fr_a4fb8cf845ae.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-冰淇淋；冰 / ice cream; ice	une glace<br>[ɡlas][sound:fr_5593d1691ff1.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-一块 / a piece (of)	un morceau (de)<br>[mɔʁ.so][sound:fr_f20e03b9f25d.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-不再 / no more, no longer	plus (ne … plus)<br>[ply][sound:fr_ac89553a041f.mp3]	French::A2::L26	法语 French::A2::L26 代词 y 和 en
-童年 / childhood	l'enfance (f.)<br>[ɑ̃.fɑ̃s][sound:fr_0e17de38d960.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-我小时候 / when I was little	quand j'étais petit(e)<br>[kɑ̃ ʒe.tɛ pə.ti(t)][sound:fr_73c51459af10.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-以前 / before, in the past	avant<br>[a.vɑ̃][sound:fr_d513b2a96931.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-从前 / in the old days	autrefois<br>[o.tʁə.fwa][sound:fr_7e72db782948.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-那时候 / at that time	à cette époque<br>[a sɛ.te.pɔk][sound:fr_39edb7049555.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-每天 / every day	tous les jours<br>[tu le ʒuʁ][sound:fr_1374306be383.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-通常 / usually	d'habitude<br>[da.bi.tyd][sound:fr_c073cf7cac52.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-乡下 / countryside	la campagne<br>[kɑ̃.paɲ][sound:fr_fb00409a06a0.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-村庄 / village	un village<br>[vi.laʒ][sound:fr_f8eb55f58675.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-街区 / neighborhood	un quartier<br>[kaʁ.tje][sound:fr_4776e0cb39e3.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-邻居 / neighbor	un voisin / une voisine<br>[vwa.zɛ̃] / [vwa.zin][sound:fr_c5be2f69f775.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-初中 / middle school	le collège<br>[kɔ.lɛʒ][sound:fr_7757d9e9f5bd.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-高中 / high school	le lycée<br>[li.se][sound:fr_8377a7d1c613.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-玩具 / toy	un jouet<br>[ʒwɛ][sound:fr_9daacdfb74d1.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-动画片 / cartoon	un dessin animé<br>[de.sɛ̃ a.ni.me][sound:fr_79a171272fee.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-害羞的 / shy	timide<br>[ti.mid][sound:fr_70d9a70778c7.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-乖的（小孩）；明智的 / well-behaved; wise	sage<br>[saʒ][sound:fr_840c3c0c1f04.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-太棒了（口语） / great, awesome	génial(e)<br>[ʒe.njal][sound:fr_c34d7cc787bd.mp3]	French::A2::L27	法语 French::A2::L27 未完成过去时 imparfait
-首先 / first	d'abord<br>[da.bɔʁ][sound:fr_fcc22baee37d.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-然后 / then	ensuite / puis<br>[ɑ̃.sɥit] / [pɥi][sound:fr_cb80c50dce39.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-之后 / after(wards)	après<br>[a.pʁɛ][sound:fr_12008d6edd1f.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-最后；终于 / finally	enfin<br>[ɑ̃.fɛ̃][sound:fr_1d565661922e.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-有一天 / one day	un jour<br>[œ̃ ʒuʁ][sound:fr_26fac7bf926e.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-突然 / suddenly	soudain<br>[su.dɛ̃][sound:fr_f77d7a0a26d7.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-突然 / all of a sudden	tout à coup<br>[tu.ta.ku][sound:fr_cf614be1ccd1.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-在……的时候 / while	pendant que<br>[pɑ̃.dɑ̃ kə][sound:fr_8a28058f3d5f.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-就在那时 / at that moment	à ce moment-là<br>[a sə mɔ.mɑ̃ la][sound:fr_09d8b2172819.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-（铃）响 / to ring	sonner<br>[sɔ.ne]<br><small>过去分词: sonné</small>[sound:fr_754550fa2582.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-喊叫 / to shout	crier<br>[kʁi.je]<br><small>过去分词: crié</small>[sound:fr_a06354acaaeb.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-跑 / to run	courir<br>[ku.ʁiʁ]<br><small>过去分词: couru</small>[sound:fr_3af09a04b26e.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-停下 / to stop	s'arrêter<br>[sa.ʁɛ.te]<br><small>过去分词: arrêté</small>[sound:fr_d837aa468917.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-发生 / to happen	se passer<br>[sə pa.se]<br><small>过去分词: passé</small>[sound:fr_241489ec8794.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-难过的 / sad	triste<br>[tʁist][sound:fr_ae4bd5063156.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-三明治 / sandwich	un sandwich<br>[sɑ̃d.witʃ][sound:fr_f6432d93c322.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-人（很多人） / people (a crowd)	du monde<br>[dy mɔ̃d][sound:fr_313f3c9cb89a.mp3]	French::A2::L28	法语 French::A2::L28 复合过去时 vs 未完成过去时
-快的 / fast	rapide<br>[ʁa.pid][sound:fr_d2c6f16b30df.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-慢的 / slow	lent / lente<br>[lɑ̃] / [lɑ̃t][sound:fr_ba823eb627d3.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-强壮的；擅长的 / strong; good at	fort / forte<br>[fɔʁ] / [fɔʁt][sound:fr_b4d2f2894eb8.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-富有的 / rich	riche<br>[ʁiʃ][sound:fr_9b9d2fca0b71.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-穷的 / poor	pauvre<br>[povʁ][sound:fr_95709f386ddb.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-著名的 / famous	célèbre<br>[se.lɛbʁ][sound:fr_399cb92ca5dc.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-重要的 / important	important / importante<br>[ɛ̃.pɔʁ.tɑ̃(t)][sound:fr_7b467d802cbb.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-聪明的 / intelligent	intelligent / intelligente<br>[ɛ̃.te.li.ʒɑ̃(t)][sound:fr_f525611e645d.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-年长的 / old (person)	âgé / âgée<br>[ɑ.ʒe][sound:fr_ef0ba9214b13.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-比……更 / more … than	plus … que<br>[ply … kə][sound:fr_1153b5a65b2f.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-不如…… / less … than	moins … que<br>[mwɛ̃ … kə][sound:fr_e3177df75b08.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-和……一样 / as … as	aussi … que<br>[o.si … kə][sound:fr_2a4dc14b22ce.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-和……一样多 / as much / many as	autant (de) … que<br>[o.tɑ̃][sound:fr_b690acf8c1c7.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-更好的 / better (adj.)	meilleur(e)<br>[mɛ.jœʁ][sound:fr_1808283773b4.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-更好地 / better (adv.)	mieux<br>[mjø][sound:fr_ab67f62c3cf5.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-更糟的 / worse	pire<br>[piʁ][sound:fr_46e31eab9262.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-快地 / quickly	vite<br>[vit][sound:fr_f11c30600ba7.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-世界 / world	le monde<br>[mɔ̃d][sound:fr_8f5019493965.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-班级；教室 / class	la classe<br>[klas][sound:fr_acd8e8336990.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-生活；生命 / life	la vie<br>[vi][sound:fr_6f26f267ab17.mp3]	French::A2::L29	法语 French::A2::L29 比较级与最高级
-未来 / the future	l'avenir (m.)<br>[av.niʁ][sound:fr_ed1b0813cd89.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-以后 / later	plus tard<br>[ply taʁ][sound:fr_d737483cd9bb.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-有一天（将来） / one day, someday	un jour<br>[œ̃ ʒuʁ][sound:fr_26fac7bf926e.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-十年后 / in ten years	dans dix ans<br>[dɑ̃ di.zɑ̃][sound:fr_668ac1ffa21f.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-将来 / in the future	à l'avenir<br>[a.lav.niʁ][sound:fr_fe36041c4fa5.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-计划 / plan, project	un projet<br>[pʁɔ.ʒɛ][sound:fr_cce316bab3a4.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-梦想；梦 / dream	un rêve<br>[ʁɛv][sound:fr_568ef8603361.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-职业 / job, profession	un métier<br>[me.tje][sound:fr_09bb61db1a57.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-结婚 / to get married	se marier<br>[sə ma.ʁje][sound:fr_4da4ef42c781.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-找到工作 / to find a job	trouver un travail<br>[tʁu.ve œ̃ tʁa.vaj][sound:fr_b00072c75beb.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-搬家 / to move (house)	déménager<br>[de.me.na.ʒe][sound:fr_e4c2f1a7c8c0.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-希望 / to hope	espérer<br>[ɛs.pe.ʁe][sound:fr_2b3db1b8a903.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-承诺 / to promise	promettre<br>[pʁɔ.mɛtʁ][sound:fr_fe0f73baa4dc.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-保证！ / promise!	promis !<br>[pʁɔ.mi][sound:fr_4fe9d07fcb2e.mp3]	French::A2::L30	法语 French::A2::L30 简单将来时 futur simple
-小说 / novel	un roman<br>[ʁɔ.mɑ̃][sound:fr_53bfa48f8f54.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-作家 / writer	un écrivain<br>[e.kʁi.vɛ̃][sound:fr_dd8d111f687d.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-歌曲 / song	une chanson<br>[ʃɑ̃.sɔ̃][sound:fr_e9d08224330a.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-歌手 / singer	un chanteur / une chanteuse<br>[ʃɑ̃.tœʁ] / [ʃɑ̃.tøz][sound:fr_35b859172f4a.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-演员 / actor / actress	un acteur / une actrice<br>[ak.tœʁ] / [ak.tʁis][sound:fr_2ac44bc8d409.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-电视剧 / TV series	une série<br>[se.ʁi][sound:fr_8bad3ebd5815.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-博物馆 / museum	un musée<br>[my.ze][sound:fr_fffb3469ec0a.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-画 / painting	un tableau<br>[ta.blo][sound:fr_1a380c76a1cd.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-展览 / exhibition	une exposition<br>[ɛks.po.zi.sjɔ̃][sound:fr_05683157f4d2.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-演出 / show	un spectacle<br>[spɛk.takl][sound:fr_5857a4c2b187.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-好笑的 / funny	drôle<br>[dʁol][sound:fr_614cd8101499.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-感人的 / moving	émouvant / émouvante<br>[e.mu.vɑ̃] / [e.mu.vɑ̃t][sound:fr_76f66145d5d2.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-无聊的 / boring	ennuyeux / ennuyeuse<br>[ɑ̃.nɥi.jø] / [ɑ̃.nɥi.jøz][sound:fr_c0b92e80f0ba.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-有名的 / well-known	connu / connue<br>[kɔ.ny][sound:fr_31e3041b6c70.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-推荐 / to recommend	recommander<br>[ʁə.kɔ.mɑ̃.de][sound:fr_c28fa44973bd.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-那边 / over there	là-bas<br>[la.ba][sound:fr_49e3eb14ef70.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-在旁边；隔壁 / next door	à côté<br>[a ko.te][sound:fr_7b8b3e2b46a1.mp3]	French::A2::L31	法语 French::A2::L31 关系代词 qui / que
-地方 / place, spot	un endroit<br>[ɑ̃.dʁwa][sound:fr_96ac590cb868.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-地区 / region	une région<br>[ʁe.ʒjɔ̃][sound:fr_b263576ec887.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-大海 / sea	la mer<br>[mɛʁ][sound:fr_129ed36eaff2.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-山 / mountain(s)	la montagne<br>[mɔ̃.taɲ][sound:fr_f33b8534723b.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-湖 / lake	un lac<br>[lak][sound:fr_c5798cc5b3b7.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-岛 / island	une île<br>[il][sound:fr_eca3b20f0b78.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-森林 / forest	une forêt<br>[fɔ.ʁɛ][sound:fr_2dc00e7d4575.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-市中心 / downtown	le centre-ville<br>[sɑ̃.tʁə.vil][sound:fr_7f586d08beb9.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-回忆；纪念品 / memory; souvenir	un souvenir<br>[su.v(ə).niʁ][sound:fr_10e859a5934f.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-时刻 / moment	un moment<br>[mɔ.mɑ̃][sound:fr_59cd3bb6f48b.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-梦想；梦见 / to dream of	rêver de<br>[ʁɛ.ve də][sound:fr_43ff9cbcbc48.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-为……骄傲 / to be proud of	être fier / fière de<br>[fjɛʁ][sound:fr_b58992c5d9e4.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-工具 / tool	un outil<br>[u.ti]<br><small>⚠️ l 不发音</small>[sound:fr_01a007136aa7.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-在……的时候 / at the moment when	au moment où<br>[o mɔ.mɑ̃ u][sound:fr_b4d6ce672874.mp3]	French::A2::L32	法语 French::A2::L32 关系代词 où / dont
-真的 / really	vraiment<br>[vʁɛ.mɑ̃][sound:fr_25602b5ca0b8.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-幸好 / fortunately	heureusement<br>[œ.ʁøz.mɑ̃][sound:fr_cebab5d2f88d.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-不幸的是 / unfortunately	malheureusement<br>[ma.lœ.ʁøz.mɑ̃][sound:fr_0b1a044e7fbe.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-慢慢地 / slowly	lentement<br>[lɑ̃t.mɑ̃][sound:fr_675eba068578.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-轻轻地；慢慢地 / gently; quietly	doucement<br>[dus.mɑ̃][sound:fr_98cdb0b661d4.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-完全地 / completely	complètement<br>[kɔ̃.plɛt.mɑ̃][sound:fr_f675fc3f04b3.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-认真地 / seriously	sérieusement<br>[se.ʁjøz.mɑ̃][sound:fr_3572bc68563d.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-当然；显然 / obviously, of course	évidemment<br>[e.vi.da.mɑ̃][sound:fr_7554bbd1416c.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-最近 / recently	récemment<br>[ʁe.sa.mɑ̃][sound:fr_b9814b75f4b7.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-最后；终究 / finally, in the end	finalement<br>[fi.nal.mɑ̃][sound:fr_db8442260b5f.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-只，仅仅 / only	seulement<br>[sœl.mɑ̃][sound:fr_c69a1804d01f.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-有时 / sometimes	parfois<br>[paʁ.fwa][sound:fr_5a52479d8f91.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-很少 / rarely	rarement<br>[ʁaʁ.mɑ̃][sound:fr_706dbefd1f07.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-几乎 / almost	presque<br>[pʁɛsk][sound:fr_0e4b59222585.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-那么；非常 / so (much)	tellement<br>[tɛl.mɑ̃][sound:fr_77161658afb1.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-差，不好 / badly	mal<br>[mal][sound:fr_b260da383b55.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-到处 / everywhere	partout<br>[paʁ.tu][sound:fr_7ae37d911ea1.mp3]	French::A2::L33	法语 French::A2::L33 副词（-ment 结尾）
-必须；需要 / one must; it takes	il faut<br>[il fo][sound:fr_65a3f877d479.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-不准 / one must not	il ne faut pas<br>[il nə fo pa][sound:fr_c1984615a994.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-最好 / it's better to	il vaut mieux<br>[il vo mjø][sound:fr_c92459c7aa90.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-不得不 / to have to, be forced to	être obligé(e) de<br>[ɔ.bli.ʒe][sound:fr_e6f698a5dd4d.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-不必 / no need (to)	ce n'est pas la peine (de)<br>[sə nɛ pa la pɛn][sound:fr_e308415c8145.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-禁止的 / forbidden	interdit / interdite<br>[ɛ̃.tɛʁ.di] / [ɛ̃.tɛʁ.dit][sound:fr_945f377e14ef.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-必须的，强制的 / compulsory	obligatoire<br>[ɔ.bli.ɡa.twaʁ][sound:fr_4be26852ea87.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-必要的 / necessary	nécessaire<br>[ne.se.sɛʁ][sound:fr_d6fb5f04b5cc.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-护照 / passport	un passeport<br>[pas.pɔʁ][sound:fr_218ff227a365.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-签证 / visa	un visa<br>[vi.za][sound:fr_6559d5d923b5.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-票 / ticket	un billet<br>[bi.jɛ][sound:fr_edd75c58a35e.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-行李箱 / suitcase	une valise<br>[va.liz][sound:fr_b5948573c8e2.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-预订 / to book	réserver<br>[ʁe.zɛʁ.ve][sound:fr_22a451c360a0.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-规则 / rule	une règle<br>[ʁɛɡl][sound:fr_e5e3aa88fba7.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-遵守；尊重 / to respect, follow	respecter<br>[ʁɛs.pɛk.te][sound:fr_7a85bc56aa3a.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-有耐心的 / patient	patient / patiente<br>[pa.sjɑ̃] / [pa.sjɑ̃t][sound:fr_2dbad71beef6.mp3]	French::A2::L34	法语 French::A2::L34 il faut 与义务表达
-从……以来 / since, for	depuis<br>[də.pɥi][sound:fr_e19c11f2c60e.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-在……期间 / during, for	pendant<br>[pɑ̃.dɑ̃][sound:fr_3089927f04ad.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-……已经……了 / it's been … since	ça fait … que<br>[sa fɛ … kə][sound:fr_26ccc457224c.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-从……开始 / from, starting	à partir de<br>[a paʁ.tiʁ də][sound:fr_8420df62a888.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-直到 / until	jusqu'à<br>[ʒys.ka][sound:fr_6e0ba07bf6d9.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-很久 / a long time	longtemps<br>[lɔ̃.tɑ̃][sound:fr_a22002733972.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-多久了 / how long	depuis combien de temps<br>[də.pɥi kɔ̃.bjɛ̃ də tɑ̃][sound:fr_27d6302fd187.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-一整天 / day (whole)	une journée<br>[ʒuʁ.ne][sound:fr_4deb01cba3dc.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-整个晚上；晚会 / evening; party	une soirée<br>[swa.ʁe][sound:fr_b207eb777237.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-整个上午 / morning (whole)	une matinée<br>[ma.ti.ne][sound:fr_78673a31eee3.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-秒 / second	une seconde<br>[sə.ɡɔ̃d] / [ɡ]<br><small>⚠️ c 读</small>[sound:fr_c1a494878121.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-世纪 / century	un siècle<br>[sjɛkl][sound:fr_ac107fcec430.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-到达 / arrival	l'arrivée (f.)<br>[a.ʁi.ve][sound:fr_aceedbaf0308.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-出发 / departure	le départ<br>[de.paʁ][sound:fr_f724062ac445.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-祝你今天愉快！ / Have a nice day!	Bonne journée !<br>[bɔn ʒuʁ.ne][sound:fr_8cb3e5176c89.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-晚上愉快！ / Have a nice evening!	Bonne soirée !<br>[bɔn swa.ʁe][sound:fr_04869c605c74.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-周末愉快！ / Have a nice weekend!	Bon week-end !<br>[bɔ̃ wi.kɛnd][sound:fr_a80806892573.mp3]	French::A2::L35	法语 French::A2::L35 时间表达 depuis / pendant / il y a
-从不 / never	ne … jamais<br>[nə … ʒa.mɛ][sound:fr_63833738f703.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-不再 / no longer	ne … plus<br>[nə … ply][sound:fr_58e2aed04c84.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-什么都不 / nothing	ne … rien<br>[nə … ʁjɛ̃][sound:fr_991350cca292.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-谁都不 / nobody	ne … personne<br>[nə … pɛʁ.sɔn][sound:fr_ce270caffca3.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-还没 / not yet	ne … pas encore<br>[nə … pa.zɑ̃.kɔʁ][sound:fr_c10bce747ac9.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-只 / only	ne … que<br>[nə … kə][sound:fr_9fabf823f39c.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-我也不 / me neither	moi non plus<br>[mwa nɔ̃ ply][sound:fr_a3c8f1ac8664.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-总是；一直 / always; still	toujours<br>[tu.ʒuʁ][sound:fr_a595431ae00e.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-还；再 / still; again	encore<br>[ɑ̃.kɔʁ][sound:fr_27d42ca7dcb7.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-已经 / already	déjà<br>[de.ʒa][sound:fr_42e1caaa6b22.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-某事；某物 / something	quelque chose<br>[kɛl.kə ʃoz][sound:fr_3d9e2449b2ee.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-某人 / someone	quelqu'un<br>[kɛl.kœ̃][sound:fr_5cb96692436f.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-有时 / sometimes	quelquefois<br>[kɛl.kə.fwa][sound:fr_6b5fadeac14e.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-抽烟 / to smoke	fumer<br>[fy.me][sound:fr_5568f4d84d5d.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-肉 / meat	la viande<br>[vjɑ̃d][sound:fr_119a29a1a407.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-没关系。 / It's no big deal.	C'est pas grave.<br>[sɛ pa ɡʁav][sound:fr_7cd860b5c3cf.mp3]	French::A2::L36	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
-我 / me	moi<br>[mwa][sound:fr_299f6138211f.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-你 / you	toi<br>[twa][sound:fr_64115e0cdfec.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-他 / him	lui<br>[lɥi][sound:fr_0e02c7858603.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-他们 / them	eux<br>[ø][sound:fr_75eabd9c1f99.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-自己 / oneself	soi<br>[swa][sound:fr_92a35a1facf2.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-我自己 / myself	moi-même<br>[mwa.mɛm][sound:fr_bf239199baa2.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-在我家；回我家 / at/to my place	chez moi<br>[ʃe mwa][sound:fr_bee09374ffc9.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-是我！ / It's me!	C'est moi !<br>[sɛ mwa][sound:fr_867fd091b838.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-你呢？ / And you?	Et toi ?<br>[e twa][sound:fr_bc8333fffe6f.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-和……一起 / with	avec<br>[a.vɛk][sound:fr_cc2caa6676fe.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-没有 / without	sans<br>[sɑ̃][sound:fr_3ea220e4b792.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-为了；给 / for	pour<br>[puʁ][sound:fr_e8f81358fad5.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-在……旁边 / next to	à côté de<br>[a ko.te də][sound:fr_590d434574a7.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-想到；想念 / to think of	penser à<br>[pɑ̃.se a][sound:fr_a0e0d2a09a64.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-有道理；对 / to be right	avoir raison<br>[a.vwaʁ ʁɛ.zɔ̃][sound:fr_29279511aa3a.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-错 / to be wrong	avoir tort<br>[a.vwaʁ tɔʁ][sound:fr_342dc9e0d19e.mp3]	French::A2::L37	法语 French::A2::L37 重读人称代词 moi, toi, lui…
-知道；会 / to know (facts, how to)	savoir<br>[sa.vwaʁ][sound:fr_aa591b52b4d1.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-认识；熟悉 / to know (people, places)	connaître<br>[kɔ.nɛtʁ][sound:fr_8f1b2ec10ecd.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-认出 / to recognize	reconnaître<br>[ʁə.kɔ.nɛtʁ][sound:fr_92769db479a1.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-游泳 / to swim	nager<br>[na.ʒe][sound:fr_478d351d5446.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-开车 / to drive	conduire<br>[kɔ̃.dɥiʁ][sound:fr_13288ea7fb6d.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-做饭 / to cook	cuisiner<br>[kɥi.zi.ne][sound:fr_5489c0560e7e.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-弹钢琴 / to play the piano	jouer du piano<br>[ʒwe dy pja.no][sound:fr_177451d71272.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-答案；回答 / answer	la réponse<br>[ʁe.pɔ̃s][sound:fr_fe431cb49477.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-问题 / question	la question<br>[kɛs.tjɔ̃][sound:fr_60d6b93d35f4.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-认识；知识 / acquaintance; knowledge	la connaissance<br>[kɔ.nɛ.sɑ̃s][sound:fr_cc86624ece16.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-结识 / to meet (for the first time)	faire la connaissance de<br>[fɛʁ la kɔ.nɛ.sɑ̃s də][sound:fr_29dda975c28a.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-驾照 / driver's license	le permis de conduire<br>[pɛʁ.mi də kɔ̃.dɥiʁ][sound:fr_a1113bdbc2bb.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-是否 / whether, if	si<br>[si][sound:fr_9b784b731616.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-怎样 / how	comment<br>[kɔ.mɑ̃][sound:fr_eb8e0d4fa9df.mp3]	French::A2::L38	法语 French::A2::L38 savoir 与 connaître
-我的 / mine	le mien / la mienne<br>[lə mjɛ̃ / la mjɛn][sound:fr_07cb6bcf6d66.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-你的 / yours	le tien / la tienne<br>[lə tjɛ̃ / la tjɛn][sound:fr_40f497ac950a.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-他的；她的 / his; hers	le sien / la sienne<br>[lə sjɛ̃ / la sjɛn][sound:fr_d446df510f4f.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-我们的 / ours	le nôtre<br>[lə notʁ][sound:fr_1865a372e0fd.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-您的；你们的 / yours	le vôtre<br>[lə votʁ][sound:fr_fc55bf666e51.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-他们的 / theirs	le leur<br>[lə lœʁ][sound:fr_73308db317dc.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-所有人 / everybody	tout le monde<br>[tu lə mɔ̃d][sound:fr_b7ac081cacbc.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-每天 / every day	tous les jours<br>[tu le ʒuʁ][sound:fr_1374306be383.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-马上 / right away	tout de suite<br>[tut.sɥit][sound:fr_9b52672673ad.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-完全（同意） / absolutely	tout à fait<br>[tu.ta.fɛ][sound:fr_0c256b32f295.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-一点也不 / not at all	pas du tout<br>[pa dy tu][sound:fr_23e78d44962a.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-待会儿见！ / See you later!	À tout à l'heure !<br>[a tu.ta.lœʁ][sound:fr_a6cf780ef06f.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-独自 / all alone	tout seul<br>[tu sœl][sound:fr_9d8ecc0dd984.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-总共 / in total	en tout<br>[ɑ̃ tu][sound:fr_a5d16f5559da.mp3]	French::A2::L39	法语 French::A2::L39 主有代词与 tout
-首先 / first	d'abord<br>[da.bɔʁ][sound:fr_fcc22baee37d.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-然后 / then, next	ensuite<br>[ɑ̃.sɥit][sound:fr_30e34a35aafb.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-然后 / then	puis<br>[pɥi][sound:fr_a34663017d62.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-最后；终于 / finally	enfin<br>[ɑ̃.fɛ̃][sound:fr_1d565661922e.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-因为 / because	parce que<br>[paʁs.kə][sound:fr_808b7f8034c7.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-所以 / so	donc<br>[dɔ̃k][sound:fr_70c612cc3045.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-但是 / but	mais<br>[mɛ][sound:fr_b4f5b15dff0c.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-然而 / yet, however	pourtant<br>[puʁ.tɑ̃][sound:fr_e6d69ed28a31.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-那么；于是 / so, then	alors<br>[a.lɔʁ][sound:fr_f5b8fead84c8.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-例如 / for example	par exemple<br>[paʁ ɛɡ.zɑ̃pl][sound:fr_05755fbb9097.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-其实 / actually	en fait<br>[ɑ̃ fɛt][sound:fr_046617d4f263.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
-通常 / usually	d'habitude<br>[da.bi.tyd][sound:fr_c073cf7cac52.mp3]	French::A2::L40	法语 French::A2::L40 A2 总复习
+昨天 / yesterday	hier<br>[jɛʁ]<br><small>⭐⭐⭐</small>[sound:fr_71c796885965.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+昨晚 / last night	hier soir<br>[jɛʁ swaʁ]<br><small>⭐⭐⭐</small>[sound:fr_f07686d88670.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+前天 / the day before yesterday	avant-hier<br>[a.vɑ̃.tjɛʁ]<br><small>⭐⭐⭐</small>[sound:fr_84092de8be28.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+上周 / last week	la semaine dernière<br>[dɛʁ.njɛʁ]<br><small>⭐⭐⭐</small>[sound:fr_dcc0bdcdc46a.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+上个月 / last month	le mois dernier<br>[dɛʁ.nje]<br><small>⭐⭐⭐</small>[sound:fr_ec36664df950.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+去年 / last year	l'année dernière<br><small>⭐⭐⭐</small>[sound:fr_b08f2c9128fb.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+……以前 / … ago	il y a (+ 时间)<br>[il.ja]<br><small>⭐⭐⭐</small>[sound:fr_9af1b8b0bedc.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+已经 / already	déjà<br>[de.ʒa]<br><small>⭐⭐⭐</small>[sound:fr_42e1caaa6b22.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+从来（不） / never; ever	jamais<br>[ʒa.mɛ]<br><small>⭐⭐⭐</small>[sound:fr_efe25fc9c383.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+读 / to read	lire<br>[liʁ]<br><small>⭐⭐⭐</small><br><small>过去分词: lu</small>[sound:fr_18baf1cc4ef9.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+写 / to write	écrire<br>[e.kʁiʁ]<br><small>⭐⭐⭐</small><br><small>过去分词: écrit</small>[sound:fr_5dd7e28ae14d.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+打开 / to open	ouvrir<br>[u.vʁiʁ]<br><small>⭐⭐⭐</small><br><small>过去分词: ouvert</small>[sound:fr_8164212e99f5.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+收到 / to receive	recevoir<br>[ʁə.sə.vwaʁ]<br><small>⭐⭐</small><br><small>过去分词: reçu</small>[sound:fr_64d018fff98f.mp3]	French::A2::L21 importance::2_common	法语 French::A2::L21 复合过去时（用 avoir）
+忘记 / to forget	oublier<br>[u.bli.je]<br><small>⭐⭐⭐</small><br><small>过去分词: oublié</small>[sound:fr_d10eaef91101.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+找到；觉得 / to find	trouver<br>[tʁu.ve]<br><small>⭐⭐⭐</small><br><small>过去分词: trouvé</small>[sound:fr_7e977752a1cc.mp3]	French::A2::L21 importance::1_core	法语 French::A2::L21 复合过去时（用 avoir）
+上去；上车 / to go up; to get on	monter<br>[mɔ̃.te]<br><small>⭐⭐⭐</small><br><small>过去分词: monté</small>[sound:fr_2803e03a9bd2.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+出生 / to be born	naître<br>[nɛtʁ]<br><small>⭐</small><br><small>过去分词: né</small>[sound:fr_6d04261efff8.mp3]	French::A2::L22 importance::3_extra	法语 French::A2::L22 复合过去时（用 être）
+死亡 / to die	mourir<br>[mu.ʁiʁ]<br><small>⭐⭐⭐</small><br><small>过去分词: mort</small>[sound:fr_e1066162cc2a.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+留下，待着 / to stay	rester<br>[ʁɛs.te]<br><small>⭐⭐⭐</small><br><small>过去分词: resté</small>[sound:fr_f557ddb31613.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+摔倒；掉下 / to fall	tomber<br>[tɔ̃.be]<br><small>⭐⭐⭐</small><br><small>过去分词: tombé</small>[sound:fr_130629d7be71.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+回去 / to go back	retourner<br>[ʁə.tuʁ.ne]<br><small>⭐⭐⭐</small><br><small>过去分词: retourné</small>[sound:fr_ff6a8c6528ac.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+经过；顺路去 / to pass by; to drop in	passer<br>[pa.se]<br><small>⭐⭐⭐</small><br><small>过去分词: passé</small>[sound:fr_0f5949436371.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+旅行 / trip	un voyage<br>[vwa.jaʒ]<br><small>⭐⭐⭐</small>[sound:fr_d7128fecb3b8.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+楼层 / floor (of a building)	l'étage (m.)<br>[e.taʒ]<br><small>⭐⭐</small>[sound:fr_9ab8c336d8e3.mp3]	French::A2::L22 importance::2_common	法语 French::A2::L22 复合过去时（用 être）
+楼梯 / stairs	l'escalier (m.)<br>[ɛs.ka.lje]<br><small>⭐⭐</small>[sound:fr_66ad74f8aaa4.mp3]	French::A2::L22 importance::2_common	法语 French::A2::L22 复合过去时（用 être）
+生病的 / sick	malade<br>[ma.lad]<br><small>⭐⭐⭐</small>[sound:fr_20013dd93297.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+晚 / 早 / late / early	tard / tôt<br>[taʁ] / [to]<br><small>⭐⭐⭐</small>[sound:fr_76b1a904d493.mp3]	French::A2::L22 importance::1_core	法语 French::A2::L22 复合过去时（用 être）
+醒来 / to wake up	se réveiller<br>[sə ʁe.ve.je]<br><small>⭐⭐</small>[sound:fr_82a8e91aa818.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+起床 / to get up	se lever<br>[sə lə.ve]<br><small>⭐⭐</small>[sound:fr_5538a914a4b1.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+洗漱；洗澡 / to wash (oneself)	se laver<br>[sə la.ve]<br><small>⭐⭐</small>[sound:fr_c4a5610e966f.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+淋浴 / to shower	se doucher<br>[sə du.ʃe]<br><small>⭐⭐</small>[sound:fr_2d75dc7d4570.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+刷牙 / to brush one's teeth	se brosser les dents<br>[sə bʁɔ.se le dɑ̃]<br><small>⭐</small>[sound:fr_1632fdd92600.mp3]	French::A2::L23 importance::3_extra	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+穿衣服 / to get dressed	s'habiller<br>[sa.bi.je]<br><small>⭐⭐</small>[sound:fr_013d14603b5a.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+化妆 / to put on makeup	se maquiller<br>[sə ma.ki.je]<br><small>⭐</small>[sound:fr_f6bd2c85b052.mp3]	French::A2::L23 importance::3_extra	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+刮胡子 / to shave	se raser<br>[sə ʁa.ze]<br><small>⭐</small>[sound:fr_e57ba1a2d087.mp3]	French::A2::L23 importance::3_extra	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+上床睡觉 / to go to bed	se coucher<br>[sə ku.ʃe]<br><small>⭐⭐⭐</small>[sound:fr_9102adfbd476.mp3]	French::A2::L23 importance::1_core	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+休息 / to rest	se reposer<br>[sə ʁə.po.ze]<br><small>⭐⭐</small>[sound:fr_e9fb2ffe6a2c.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+赶紧 / to hurry	se dépêcher<br>[sə de.pɛ.ʃe]<br><small>⭐⭐</small>[sound:fr_347d40e4e3e1.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+玩得开心 / to have fun	s'amuser<br>[sa.my.ze]<br><small>⭐⭐</small>[sound:fr_4b9427a7a7da.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+散步 / to go for a walk	se promener<br>[sə pʁɔm.ne]<br><small>⭐</small>[sound:fr_2cba53d0f16a.mp3]	French::A2::L23 importance::3_extra	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+坐下 / to sit down	s'asseoir<br>[sa.swaʁ]<br><small>⭐⭐</small>[sound:fr_cd92e7d03f80.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+牙齿 / teeth	les dents (f.)<br>[dɑ̃]<br><small>⭐⭐</small>[sound:fr_2a08f5651846.mp3]	French::A2::L23 importance::2_common	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+手 / hands	les mains (f.)<br>[mɛ̃]<br><small>⭐⭐⭐</small>[sound:fr_d47d4428726c.mp3]	French::A2::L23 importance::1_core	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+头发 / hair	les cheveux (m.)<br>[ʃə.vø]<br><small>⭐⭐⭐</small>[sound:fr_dbcfb982d590.mp3]	French::A2::L23 importance::1_core	法语 French::A2::L23 代词式动词（se lever, s'habiller…）
+认识；了解 / to know (a person, place)	connaître<br>[kɔ.nɛtʁ]<br><small>⭐⭐⭐</small>[sound:fr_8f1b2ec10ecd.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+叫；打电话给 / to call	appeler<br>[a.ple]<br><small>⭐⭐⭐</small>[sound:fr_c52f64ec94f2.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+遇见；结识 / to meet	rencontrer<br>[ʁɑ̃.kɔ̃.tʁe]<br><small>⭐⭐⭐</small>[sound:fr_2cbf55e629b6.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+邀请 / to invite	inviter<br>[ɛ̃.vi.te]<br><small>⭐⭐</small>[sound:fr_9c6825e8033c.mp3]	French::A2::L24 importance::2_common	法语 French::A2::L24 直接宾语代词 le / la / les
+帮助 / to help	aider<br>[e.de]<br><small>⭐⭐⭐</small>[sound:fr_d6302fb3e2d6.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+穿着；拿着 / to wear; to carry	porter<br>[pɔʁ.te]<br><small>⭐⭐⭐</small>[sound:fr_d8680a9bda00.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+留下；让 / to leave (sth); to let	laisser<br>[lɛ.se]<br><small>⭐⭐⭐</small>[sound:fr_378982cefae0.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+保留；照看 / to keep; to look after	garder<br>[ɡaʁ.de]<br><small>⭐⭐⭐</small>[sound:fr_1552a842e3a8.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+离开（某人、某地） / to leave (sb, a place)	quitter<br>[ki.te]<br><small>⭐⭐⭐</small>[sound:fr_c261edcd3dfd.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+钥匙 / key	une clé<br>[kle]<br><small>⭐⭐</small>[sound:fr_749c3831d3c5.mp3]	French::A2::L24 importance::2_common	法语 French::A2::L24 直接宾语代词 le / la / les
+礼物 / gift	un cadeau<br>[ka.do]<br><small>⭐⭐⭐</small>[sound:fr_8d751e460d71.mp3]	French::A2::L24 importance::1_core	法语 French::A2::L24 直接宾语代词 le / la / les
+眼镜 / glasses	des lunettes (f.)<br>[ly.nɛt]<br><small>⭐⭐</small>[sound:fr_d2233a081eb9.mp3]	French::A2::L24 importance::2_common	法语 French::A2::L24 直接宾语代词 le / la / les
+钱包 / wallet	un portefeuille<br>[pɔʁt.fœj]<br><small>⭐⭐</small>[sound:fr_24216ba71b75.mp3]	French::A2::L24 importance::2_common	法语 French::A2::L24 直接宾语代词 le / la / les
+雨伞 / umbrella	un parapluie<br>[pa.ʁa.plɥi]<br><small>⭐</small>[sound:fr_3b9b062c0ac0.mp3]	French::A2::L24 importance::3_extra	法语 French::A2::L24 直接宾语代词 le / la / les
+给 / to give	donner (à)<br>[dɔ.ne]<br><small>⭐⭐⭐</small>[sound:fr_7b23a3a467f0.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+问；要求 / to ask	demander (à)<br>[də.mɑ̃.de]<br><small>⭐⭐⭐</small>[sound:fr_01fdfa889403.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+寄；发送 / to send	envoyer (à)<br>[ɑ̃.vwa.je]<br><small>⭐⭐⭐</small>[sound:fr_41e0fa794320.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+送（礼物） / to offer, give (a gift)	offrir (à)<br>[ɔ.fʁiʁ]<br><small>⭐⭐</small>[sound:fr_000cecfe736a.mp3]	French::A2::L25 importance::2_common	法语 French::A2::L25 间接宾语代词 lui / leur
+给……看 / to show	montrer (à)<br>[mɔ̃.tʁe]<br><small>⭐⭐⭐</small>[sound:fr_7906cbd75af0.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+借给 / to lend	prêter (à)<br>[pʁɛ.te]<br><small>⭐⭐⭐</small>[sound:fr_eb154f614add.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+解释 / to explain	expliquer (à)<br>[ɛks.pli.ke]<br><small>⭐⭐⭐</small>[sound:fr_8f91a564973e.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+像 / to look like	ressembler (à)<br>[ʁə.sɑ̃.ble]<br><small>⭐⭐⭐</small>[sound:fr_b9ec5de89341.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+讨……喜欢 / to please	plaire (à)<br>[plɛʁ]<br><small>⭐⭐⭐</small>[sound:fr_5537e6c6ad9f.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+消息；短信 / message	un message<br>[me.saʒ]<br><small>⭐⭐⭐</small>[sound:fr_5d2326556d43.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+电子邮件 / email	un mail<br>[mɛl]<br><small>⭐</small>[sound:fr_e6c8a645ba5c.mp3]	French::A2::L25 importance::3_extra	法语 French::A2::L25 间接宾语代词 lui / leur
+信 / letter	une lettre<br>[lɛtʁ]<br><small>⭐⭐⭐</small>[sound:fr_9c09633257de.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+建议 / (piece of) advice	un conseil<br>[kɔ̃.sɛj]<br><small>⭐⭐⭐</small>[sound:fr_a424a6402f32.mp3]	French::A2::L25 importance::1_core	法语 French::A2::L25 间接宾语代词 lui / leur
+想着 / to think about	penser à<br>[pɑ̃.se a]<br><small>⭐⭐⭐</small>[sound:fr_a0e0d2a09a64.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+参加 / to take part in	participer à<br>[paʁ.ti.si.pe a]<br><small>⭐⭐</small>[sound:fr_9158319474fe.mp3]	French::A2::L26 importance::2_common	法语 French::A2::L26 代词 y 和 en
+习惯于 / to get used to	s'habituer à<br>[sa.bi.tɥe a]<br><small>⭐</small>[sound:fr_1638e714ee51.mp3]	French::A2::L26 importance::3_extra	法语 French::A2::L26 代词 y 和 en
+需要 / to need	avoir besoin de<br>[a.vwaʁ bə.zwɛ̃ də]<br><small>⭐⭐⭐</small>[sound:fr_8afe46911e6d.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+想要 / to feel like	avoir envie de<br>[a.vwaʁ ɑ̃.vi də]<br><small>⭐⭐⭐</small>[sound:fr_f91cefbba093.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+谈论 / to talk about	parler de<br>[paʁ.le də]<br><small>⭐⭐⭐</small>[sound:fr_842ad46d7930.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+照顾；处理 / to take care of	s'occuper de<br>[sɔ.ky.pe də]<br><small>⭐⭐⭐</small>[sound:fr_2f6d68ad6a08.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+记得 / to remember	se souvenir de<br>[sə su.və.niʁ də]<br><small>⭐⭐</small>[sound:fr_bb0d7bbaf50b.mp3]	French::A2::L26 importance::2_common	法语 French::A2::L26 代词 y 和 en
+害怕 / to be afraid of	avoir peur de<br>[a.vwaʁ pœʁ də]<br><small>⭐⭐⭐</small>[sound:fr_9975cdaf389e.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+我们走吧！ / Let's go!	On y va ! / Allons-y !<br>[ɔ̃.ni.va] / [a.lɔ̃.zi]<br><small>⭐⭐⭐</small>[sound:fr_c2c833e652b5.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+去吧！加油！ / Go ahead!	Vas-y ! / Allez-y !<br>[va.zi] / [a.le.zi]<br><small>⭐⭐⭐</small>[sound:fr_599ded75cb63.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+有（一些）。 / There is some.	Il y en a.<br>[il.jɑ̃.na]<br><small>⭐⭐⭐</small>[sound:fr_94dec0dd946b.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+没有了。 / There's none left.	Il n'y en a plus.<br>[il njɑ̃.na ply]<br><small>⭐⭐⭐</small>[sound:fr_3087b76cf5a5.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+好了！搞定了！ / That's it! Done!	Ça y est !<br>[sa.jɛ]<br><small>⭐⭐⭐</small>[sound:fr_d870b9a0b70b.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+我受够了！ / I'm fed up!	J'en ai marre !<br>[ʒɑ̃.ne maʁ]<br><small>⭐⭐</small><br><small>口语</small>[sound:fr_f84cb4aa385e.mp3]	French::A2::L26 importance::2_common	法语 French::A2::L26 代词 y 和 en
+我走了。 / I'm leaving.	Je m'en vais.<br>[ʒə mɑ̃ vɛ]<br><small>⭐⭐⭐</small>[sound:fr_a4fb8cf845ae.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+冰淇淋；冰 / ice cream; ice	une glace<br>[ɡlas]<br><small>⭐⭐</small>[sound:fr_5593d1691ff1.mp3]	French::A2::L26 importance::2_common	法语 French::A2::L26 代词 y 和 en
+一块 / a piece (of)	un morceau (de)<br>[mɔʁ.so]<br><small>⭐⭐</small>[sound:fr_f20e03b9f25d.mp3]	French::A2::L26 importance::2_common	法语 French::A2::L26 代词 y 和 en
+不再 / no more, no longer	plus (ne … plus)<br>[ply]<br><small>⭐⭐⭐</small>[sound:fr_ac89553a041f.mp3]	French::A2::L26 importance::1_core	法语 French::A2::L26 代词 y 和 en
+童年 / childhood	l'enfance (f.)<br>[ɑ̃.fɑ̃s]<br><small>⭐⭐</small>[sound:fr_0e17de38d960.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+我小时候 / when I was little	quand j'étais petit(e)<br>[kɑ̃ ʒe.tɛ pə.ti(t)]<br><small>⭐⭐⭐</small>[sound:fr_73c51459af10.mp3]	French::A2::L27 importance::1_core	法语 French::A2::L27 未完成过去时 imparfait
+以前 / before, in the past	avant<br>[a.vɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_d513b2a96931.mp3]	French::A2::L27 importance::1_core	法语 French::A2::L27 未完成过去时 imparfait
+从前 / in the old days	autrefois<br>[o.tʁə.fwa]<br><small>⭐⭐</small>[sound:fr_7e72db782948.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+那时候 / at that time	à cette époque<br>[a sɛ.te.pɔk]<br><small>⭐⭐</small>[sound:fr_39edb7049555.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+每天 / every day	tous les jours<br>[tu le ʒuʁ]<br><small>⭐⭐⭐</small>[sound:fr_1374306be383.mp3]	French::A2::L27 importance::1_core	法语 French::A2::L27 未完成过去时 imparfait
+通常 / usually	d'habitude<br>[da.bi.tyd]<br><small>⭐⭐⭐</small>[sound:fr_c073cf7cac52.mp3]	French::A2::L27 importance::1_core	法语 French::A2::L27 未完成过去时 imparfait
+乡下 / countryside	la campagne<br>[kɑ̃.paɲ]<br><small>⭐⭐</small>[sound:fr_fb00409a06a0.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+村庄 / village	un village<br>[vi.laʒ]<br><small>⭐⭐</small>[sound:fr_f8eb55f58675.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+街区 / neighborhood	un quartier<br>[kaʁ.tje]<br><small>⭐⭐</small>[sound:fr_4776e0cb39e3.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+邻居 / neighbor	un voisin / une voisine<br>[vwa.zɛ̃] / [vwa.zin]<br><small>⭐⭐</small>[sound:fr_c5be2f69f775.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+初中 / middle school	le collège<br>[kɔ.lɛʒ]<br><small>⭐</small>[sound:fr_7757d9e9f5bd.mp3]	French::A2::L27 importance::3_extra	法语 French::A2::L27 未完成过去时 imparfait
+高中 / high school	le lycée<br>[li.se]<br><small>⭐⭐</small>[sound:fr_8377a7d1c613.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+玩具 / toy	un jouet<br>[ʒwɛ]<br><small>⭐</small>[sound:fr_9daacdfb74d1.mp3]	French::A2::L27 importance::3_extra	法语 French::A2::L27 未完成过去时 imparfait
+动画片 / cartoon	un dessin animé<br>[de.sɛ̃ a.ni.me]<br><small>⭐</small>[sound:fr_79a171272fee.mp3]	French::A2::L27 importance::3_extra	法语 French::A2::L27 未完成过去时 imparfait
+害羞的 / shy	timide<br>[ti.mid]<br><small>⭐</small>[sound:fr_70d9a70778c7.mp3]	French::A2::L27 importance::3_extra	法语 French::A2::L27 未完成过去时 imparfait
+乖的（小孩）；明智的 / well-behaved; wise	sage<br>[saʒ]<br><small>⭐⭐</small>[sound:fr_840c3c0c1f04.mp3]	French::A2::L27 importance::2_common	法语 French::A2::L27 未完成过去时 imparfait
+太棒了（口语） / great, awesome	génial(e)<br>[ʒe.njal]<br><small>⭐⭐⭐</small>[sound:fr_c34d7cc787bd.mp3]	French::A2::L27 importance::1_core	法语 French::A2::L27 未完成过去时 imparfait
+首先 / first	d'abord<br>[da.bɔʁ]<br><small>⭐⭐⭐</small>[sound:fr_fcc22baee37d.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+然后 / then	ensuite / puis<br>[ɑ̃.sɥit] / [pɥi]<br><small>⭐⭐⭐</small>[sound:fr_cb80c50dce39.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+之后 / after(wards)	après<br>[a.pʁɛ]<br><small>⭐⭐⭐</small>[sound:fr_12008d6edd1f.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+最后；终于 / finally	enfin<br>[ɑ̃.fɛ̃]<br><small>⭐⭐⭐</small>[sound:fr_1d565661922e.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+有一天 / one day	un jour<br>[œ̃ ʒuʁ]<br><small>⭐⭐⭐</small>[sound:fr_26fac7bf926e.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+突然 / suddenly	soudain<br>[su.dɛ̃]<br><small>⭐⭐</small>[sound:fr_f77d7a0a26d7.mp3]	French::A2::L28 importance::2_common	法语 French::A2::L28 复合过去时 vs 未完成过去时
+突然 / all of a sudden	tout à coup<br>[tu.ta.ku]<br><small>⭐⭐⭐</small>[sound:fr_cf614be1ccd1.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+在……的时候 / while	pendant que<br>[pɑ̃.dɑ̃ kə]<br><small>⭐⭐⭐</small>[sound:fr_8a28058f3d5f.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+就在那时 / at that moment	à ce moment-là<br>[a sə mɔ.mɑ̃ la]<br><small>⭐⭐⭐</small>[sound:fr_09d8b2172819.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+（铃）响 / to ring	sonner<br>[sɔ.ne]<br><small>⭐⭐</small><br><small>过去分词: sonné</small>[sound:fr_754550fa2582.mp3]	French::A2::L28 importance::2_common	法语 French::A2::L28 复合过去时 vs 未完成过去时
+喊叫 / to shout	crier<br>[kʁi.je]<br><small>⭐⭐</small><br><small>过去分词: crié</small>[sound:fr_a06354acaaeb.mp3]	French::A2::L28 importance::2_common	法语 French::A2::L28 复合过去时 vs 未完成过去时
+跑 / to run	courir<br>[ku.ʁiʁ]<br><small>⭐⭐</small><br><small>过去分词: couru</small>[sound:fr_3af09a04b26e.mp3]	French::A2::L28 importance::2_common	法语 French::A2::L28 复合过去时 vs 未完成过去时
+停下 / to stop	s'arrêter<br>[sa.ʁɛ.te]<br><small>⭐⭐⭐</small><br><small>过去分词: arrêté</small>[sound:fr_d837aa468917.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+发生 / to happen	se passer<br>[sə pa.se]<br><small>⭐⭐⭐</small><br><small>过去分词: passé</small>[sound:fr_241489ec8794.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+难过的 / sad	triste<br>[tʁist]<br><small>⭐⭐⭐</small>[sound:fr_ae4bd5063156.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+三明治 / sandwich	un sandwich<br>[sɑ̃d.witʃ]<br><small>⭐⭐</small>[sound:fr_f6432d93c322.mp3]	French::A2::L28 importance::2_common	法语 French::A2::L28 复合过去时 vs 未完成过去时
+人（很多人） / people (a crowd)	du monde<br>[dy mɔ̃d]<br><small>⭐⭐⭐</small>[sound:fr_313f3c9cb89a.mp3]	French::A2::L28 importance::1_core	法语 French::A2::L28 复合过去时 vs 未完成过去时
+快的 / fast	rapide<br>[ʁa.pid]<br><small>⭐⭐</small>[sound:fr_d2c6f16b30df.mp3]	French::A2::L29 importance::2_common	法语 French::A2::L29 比较级与最高级
+慢的 / slow	lent / lente<br>[lɑ̃] / [lɑ̃t]<br><small>⭐</small>[sound:fr_ba823eb627d3.mp3]	French::A2::L29 importance::3_extra	法语 French::A2::L29 比较级与最高级
+强壮的；擅长的 / strong; good at	fort / forte<br>[fɔʁ] / [fɔʁt]<br><small>⭐⭐⭐</small>[sound:fr_b4d2f2894eb8.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+富有的 / rich	riche<br>[ʁiʃ]<br><small>⭐⭐</small>[sound:fr_9b9d2fca0b71.mp3]	French::A2::L29 importance::2_common	法语 French::A2::L29 比较级与最高级
+穷的 / poor	pauvre<br>[povʁ]<br><small>⭐⭐⭐</small>[sound:fr_95709f386ddb.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+著名的 / famous	célèbre<br>[se.lɛbʁ]<br><small>⭐⭐</small>[sound:fr_399cb92ca5dc.mp3]	French::A2::L29 importance::2_common	法语 French::A2::L29 比较级与最高级
+重要的 / important	important / importante<br>[ɛ̃.pɔʁ.tɑ̃(t)]<br><small>⭐⭐⭐</small>[sound:fr_7b467d802cbb.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+聪明的 / intelligent	intelligent / intelligente<br>[ɛ̃.te.li.ʒɑ̃(t)]<br><small>⭐⭐</small>[sound:fr_f525611e645d.mp3]	French::A2::L29 importance::2_common	法语 French::A2::L29 比较级与最高级
+年长的 / old (person)	âgé / âgée<br>[ɑ.ʒe]<br><small>⭐</small>[sound:fr_ef0ba9214b13.mp3]	French::A2::L29 importance::3_extra	法语 French::A2::L29 比较级与最高级
+比……更 / more … than	plus … que<br>[ply … kə]<br><small>⭐⭐⭐</small>[sound:fr_1153b5a65b2f.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+不如…… / less … than	moins … que<br>[mwɛ̃ … kə]<br><small>⭐⭐⭐</small>[sound:fr_e3177df75b08.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+和……一样 / as … as	aussi … que<br>[o.si … kə]<br><small>⭐⭐⭐</small>[sound:fr_2a4dc14b22ce.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+和……一样多 / as much / many as	autant (de) … que<br>[o.tɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_b690acf8c1c7.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+更好的 / better (adj.)	meilleur(e)<br>[mɛ.jœʁ]<br><small>⭐⭐⭐</small>[sound:fr_1808283773b4.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+更好地 / better (adv.)	mieux<br>[mjø]<br><small>⭐⭐⭐</small>[sound:fr_ab67f62c3cf5.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+更糟的 / worse	pire<br>[piʁ]<br><small>⭐⭐⭐</small>[sound:fr_46e31eab9262.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+快地 / quickly	vite<br>[vit]<br><small>⭐⭐⭐</small>[sound:fr_f11c30600ba7.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+世界 / world	le monde<br>[mɔ̃d]<br><small>⭐⭐⭐</small>[sound:fr_8f5019493965.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+班级；教室 / class	la classe<br>[klas]<br><small>⭐⭐⭐</small>[sound:fr_acd8e8336990.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+生活；生命 / life	la vie<br>[vi]<br><small>⭐⭐⭐</small>[sound:fr_6f26f267ab17.mp3]	French::A2::L29 importance::1_core	法语 French::A2::L29 比较级与最高级
+未来 / the future	l'avenir (m.)<br>[av.niʁ]<br><small>⭐⭐</small>[sound:fr_ed1b0813cd89.mp3]	French::A2::L30 importance::2_common	法语 French::A2::L30 简单将来时 futur simple
+以后 / later	plus tard<br>[ply taʁ]<br><small>⭐⭐⭐</small>[sound:fr_d737483cd9bb.mp3]	French::A2::L30 importance::1_core	法语 French::A2::L30 简单将来时 futur simple
+有一天（将来） / one day, someday	un jour<br>[œ̃ ʒuʁ]<br><small>⭐⭐⭐</small>[sound:fr_26fac7bf926e.mp3]	French::A2::L30 importance::1_core	法语 French::A2::L30 简单将来时 futur simple
+十年后 / in ten years	dans dix ans<br>[dɑ̃ di.zɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_668ac1ffa21f.mp3]	French::A2::L30 importance::1_core	法语 French::A2::L30 简单将来时 futur simple
+将来 / in the future	à l'avenir<br>[a.lav.niʁ]<br><small>⭐⭐</small>[sound:fr_fe36041c4fa5.mp3]	French::A2::L30 importance::2_common	法语 French::A2::L30 简单将来时 futur simple
+计划 / plan, project	un projet<br>[pʁɔ.ʒɛ]<br><small>⭐⭐</small>[sound:fr_cce316bab3a4.mp3]	French::A2::L30 importance::2_common	法语 French::A2::L30 简单将来时 futur simple
+梦想；梦 / dream	un rêve<br>[ʁɛv]<br><small>⭐⭐⭐</small>[sound:fr_568ef8603361.mp3]	French::A2::L30 importance::1_core	法语 French::A2::L30 简单将来时 futur simple
+职业 / job, profession	un métier<br>[me.tje]<br><small>⭐⭐</small>[sound:fr_09bb61db1a57.mp3]	French::A2::L30 importance::2_common	法语 French::A2::L30 简单将来时 futur simple
+结婚 / to get married	se marier<br>[sə ma.ʁje]<br><small>⭐⭐</small>[sound:fr_4da4ef42c781.mp3]	French::A2::L30 importance::2_common	法语 French::A2::L30 简单将来时 futur simple
+找到工作 / to find a job	trouver un travail<br>[tʁu.ve œ̃ tʁa.vaj]<br><small>⭐⭐⭐</small>[sound:fr_b00072c75beb.mp3]	French::A2::L30 importance::1_core	法语 French::A2::L30 简单将来时 futur simple
+搬家 / to move (house)	déménager<br>[de.me.na.ʒe]<br><small>⭐</small>[sound:fr_e4c2f1a7c8c0.mp3]	French::A2::L30 importance::3_extra	法语 French::A2::L30 简单将来时 futur simple
+希望 / to hope	espérer<br>[ɛs.pe.ʁe]<br><small>⭐⭐</small>[sound:fr_2b3db1b8a903.mp3]	French::A2::L30 importance::2_common	法语 French::A2::L30 简单将来时 futur simple
+承诺 / to promise	promettre<br>[pʁɔ.mɛtʁ]<br><small>⭐</small>[sound:fr_fe0f73baa4dc.mp3]	French::A2::L30 importance::3_extra	法语 French::A2::L30 简单将来时 futur simple
+保证！ / promise!	promis !<br>[pʁɔ.mi]<br><small>⭐⭐⭐</small>[sound:fr_4fe9d07fcb2e.mp3]	French::A2::L30 importance::1_core	法语 French::A2::L30 简单将来时 futur simple
+小说 / novel	un roman<br>[ʁɔ.mɑ̃]<br><small>⭐⭐</small>[sound:fr_53bfa48f8f54.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+作家 / writer	un écrivain<br>[e.kʁi.vɛ̃]<br><small>⭐</small>[sound:fr_dd8d111f687d.mp3]	French::A2::L31 importance::3_extra	法语 French::A2::L31 关系代词 qui / que
+歌曲 / song	une chanson<br>[ʃɑ̃.sɔ̃]<br><small>⭐⭐</small>[sound:fr_e9d08224330a.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+歌手 / singer	un chanteur / une chanteuse<br>[ʃɑ̃.tœʁ] / [ʃɑ̃.tøz]<br><small>⭐</small>[sound:fr_35b859172f4a.mp3]	French::A2::L31 importance::3_extra	法语 French::A2::L31 关系代词 qui / que
+演员 / actor / actress	un acteur / une actrice<br>[ak.tœʁ] / [ak.tʁis]<br><small>⭐⭐</small>[sound:fr_2ac44bc8d409.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+电视剧 / TV series	une série<br>[se.ʁi]<br><small>⭐⭐</small>[sound:fr_8bad3ebd5815.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+博物馆 / museum	un musée<br>[my.ze]<br><small>⭐⭐</small>[sound:fr_fffb3469ec0a.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+画 / painting	un tableau<br>[ta.blo]<br><small>⭐⭐</small>[sound:fr_1a380c76a1cd.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+展览 / exhibition	une exposition<br>[ɛks.po.zi.sjɔ̃]<br><small>⭐</small>[sound:fr_05683157f4d2.mp3]	French::A2::L31 importance::3_extra	法语 French::A2::L31 关系代词 qui / que
+演出 / show	un spectacle<br>[spɛk.takl]<br><small>⭐⭐</small>[sound:fr_5857a4c2b187.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+好笑的 / funny	drôle<br>[dʁol]<br><small>⭐⭐⭐</small>[sound:fr_614cd8101499.mp3]	French::A2::L31 importance::1_core	法语 French::A2::L31 关系代词 qui / que
+感人的 / moving	émouvant / émouvante<br>[e.mu.vɑ̃] / [e.mu.vɑ̃t]<br><small>⭐</small>[sound:fr_76f66145d5d2.mp3]	French::A2::L31 importance::3_extra	法语 French::A2::L31 关系代词 qui / que
+无聊的 / boring	ennuyeux / ennuyeuse<br>[ɑ̃.nɥi.jø] / [ɑ̃.nɥi.jøz]<br><small>⭐⭐</small>[sound:fr_c0b92e80f0ba.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+有名的 / well-known	connu / connue<br>[kɔ.ny]<br><small>⭐⭐</small>[sound:fr_31e3041b6c70.mp3]	French::A2::L31 importance::2_common	法语 French::A2::L31 关系代词 qui / que
+推荐 / to recommend	recommander<br>[ʁə.kɔ.mɑ̃.de]<br><small>⭐</small>[sound:fr_c28fa44973bd.mp3]	French::A2::L31 importance::3_extra	法语 French::A2::L31 关系代词 qui / que
+那边 / over there	là-bas<br>[la.ba]<br><small>⭐⭐⭐</small>[sound:fr_49e3eb14ef70.mp3]	French::A2::L31 importance::1_core	法语 French::A2::L31 关系代词 qui / que
+在旁边；隔壁 / next door	à côté<br>[a ko.te]<br><small>⭐⭐⭐</small>[sound:fr_7b8b3e2b46a1.mp3]	French::A2::L31 importance::1_core	法语 French::A2::L31 关系代词 qui / que
+地方 / place, spot	un endroit<br>[ɑ̃.dʁwa]<br><small>⭐⭐⭐</small>[sound:fr_96ac590cb868.mp3]	French::A2::L32 importance::1_core	法语 French::A2::L32 关系代词 où / dont
+地区 / region	une région<br>[ʁe.ʒjɔ̃]<br><small>⭐⭐</small>[sound:fr_b263576ec887.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+大海 / sea	la mer<br>[mɛʁ]<br><small>⭐⭐⭐</small>[sound:fr_129ed36eaff2.mp3]	French::A2::L32 importance::1_core	法语 French::A2::L32 关系代词 où / dont
+山 / mountain(s)	la montagne<br>[mɔ̃.taɲ]<br><small>⭐⭐</small>[sound:fr_f33b8534723b.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+湖 / lake	un lac<br>[lak]<br><small>⭐⭐</small>[sound:fr_c5798cc5b3b7.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+岛 / island	une île<br>[il]<br><small>⭐⭐</small>[sound:fr_eca3b20f0b78.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+森林 / forest	une forêt<br>[fɔ.ʁɛ]<br><small>⭐⭐</small>[sound:fr_2dc00e7d4575.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+市中心 / downtown	le centre-ville<br>[sɑ̃.tʁə.vil]<br><small>⭐⭐</small>[sound:fr_7f586d08beb9.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+回忆；纪念品 / memory; souvenir	un souvenir<br>[su.v(ə).niʁ]<br><small>⭐⭐</small>[sound:fr_10e859a5934f.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+时刻 / moment	un moment<br>[mɔ.mɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_59cd3bb6f48b.mp3]	French::A2::L32 importance::1_core	法语 French::A2::L32 关系代词 où / dont
+梦想；梦见 / to dream of	rêver de<br>[ʁɛ.ve də]<br><small>⭐⭐⭐</small>[sound:fr_43ff9cbcbc48.mp3]	French::A2::L32 importance::1_core	法语 French::A2::L32 关系代词 où / dont
+为……骄傲 / to be proud of	être fier / fière de<br>[fjɛʁ]<br><small>⭐⭐</small>[sound:fr_b58992c5d9e4.mp3]	French::A2::L32 importance::2_common	法语 French::A2::L32 关系代词 où / dont
+工具 / tool	un outil<br>[u.ti]<br><small>⭐</small><br><small>⚠️ l 不发音</small>[sound:fr_01a007136aa7.mp3]	French::A2::L32 importance::3_extra	法语 French::A2::L32 关系代词 où / dont
+在……的时候 / at the moment when	au moment où<br>[o mɔ.mɑ̃ u]<br><small>⭐⭐⭐</small>[sound:fr_b4d6ce672874.mp3]	French::A2::L32 importance::1_core	法语 French::A2::L32 关系代词 où / dont
+真的 / really	vraiment<br>[vʁɛ.mɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_25602b5ca0b8.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+幸好 / fortunately	heureusement<br>[œ.ʁøz.mɑ̃]<br><small>⭐⭐</small>[sound:fr_cebab5d2f88d.mp3]	French::A2::L33 importance::2_common	法语 French::A2::L33 副词（-ment 结尾）
+不幸的是 / unfortunately	malheureusement<br>[ma.lœ.ʁøz.mɑ̃]<br><small>⭐⭐</small>[sound:fr_0b1a044e7fbe.mp3]	French::A2::L33 importance::2_common	法语 French::A2::L33 副词（-ment 结尾）
+慢慢地 / slowly	lentement<br>[lɑ̃t.mɑ̃]<br><small>⭐⭐</small>[sound:fr_675eba068578.mp3]	French::A2::L33 importance::2_common	法语 French::A2::L33 副词（-ment 结尾）
+轻轻地；慢慢地 / gently; quietly	doucement<br>[dus.mɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_98cdb0b661d4.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+完全地 / completely	complètement<br>[kɔ̃.plɛt.mɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_f675fc3f04b3.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+认真地 / seriously	sérieusement<br>[se.ʁjøz.mɑ̃]<br><small>⭐⭐</small>[sound:fr_3572bc68563d.mp3]	French::A2::L33 importance::2_common	法语 French::A2::L33 副词（-ment 结尾）
+当然；显然 / obviously, of course	évidemment<br>[e.vi.da.mɑ̃]<br><small>⭐⭐</small>[sound:fr_7554bbd1416c.mp3]	French::A2::L33 importance::2_common	法语 French::A2::L33 副词（-ment 结尾）
+最近 / recently	récemment<br>[ʁe.sa.mɑ̃]<br><small>⭐⭐</small>[sound:fr_b9814b75f4b7.mp3]	French::A2::L33 importance::2_common	法语 French::A2::L33 副词（-ment 结尾）
+最后；终究 / finally, in the end	finalement<br>[fi.nal.mɑ̃]<br><small>⭐⭐</small>[sound:fr_db8442260b5f.mp3]	French::A2::L33 importance::2_common	法语 French::A2::L33 副词（-ment 结尾）
+只，仅仅 / only	seulement<br>[sœl.mɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_c69a1804d01f.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+有时 / sometimes	parfois<br>[paʁ.fwa]<br><small>⭐⭐⭐</small>[sound:fr_5a52479d8f91.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+很少 / rarely	rarement<br>[ʁaʁ.mɑ̃]<br><small>⭐</small>[sound:fr_706dbefd1f07.mp3]	French::A2::L33 importance::3_extra	法语 French::A2::L33 副词（-ment 结尾）
+几乎 / almost	presque<br>[pʁɛsk]<br><small>⭐⭐⭐</small>[sound:fr_0e4b59222585.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+那么；非常 / so (much)	tellement<br>[tɛl.mɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_77161658afb1.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+差，不好 / badly	mal<br>[mal]<br><small>⭐⭐⭐</small>[sound:fr_b260da383b55.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+到处 / everywhere	partout<br>[paʁ.tu]<br><small>⭐⭐⭐</small>[sound:fr_7ae37d911ea1.mp3]	French::A2::L33 importance::1_core	法语 French::A2::L33 副词（-ment 结尾）
+必须；需要 / one must; it takes	il faut<br>[il fo]<br><small>⭐⭐⭐</small>[sound:fr_65a3f877d479.mp3]	French::A2::L34 importance::1_core	法语 French::A2::L34 il faut 与义务表达
+不准 / one must not	il ne faut pas<br>[il nə fo pa]<br><small>⭐⭐⭐</small>[sound:fr_c1984615a994.mp3]	French::A2::L34 importance::1_core	法语 French::A2::L34 il faut 与义务表达
+最好 / it's better to	il vaut mieux<br>[il vo mjø]<br><small>⭐⭐⭐</small>[sound:fr_c92459c7aa90.mp3]	French::A2::L34 importance::1_core	法语 French::A2::L34 il faut 与义务表达
+不得不 / to have to, be forced to	être obligé(e) de<br>[ɔ.bli.ʒe]<br><small>⭐⭐</small>[sound:fr_e6f698a5dd4d.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+不必 / no need (to)	ce n'est pas la peine (de)<br>[sə nɛ pa la pɛn]<br><small>⭐⭐⭐</small>[sound:fr_e308415c8145.mp3]	French::A2::L34 importance::1_core	法语 French::A2::L34 il faut 与义务表达
+禁止的 / forbidden	interdit / interdite<br>[ɛ̃.tɛʁ.di] / [ɛ̃.tɛʁ.dit]<br><small>⭐⭐</small>[sound:fr_945f377e14ef.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+必须的，强制的 / compulsory	obligatoire<br>[ɔ.bli.ɡa.twaʁ]<br><small>⭐</small>[sound:fr_4be26852ea87.mp3]	French::A2::L34 importance::3_extra	法语 French::A2::L34 il faut 与义务表达
+必要的 / necessary	nécessaire<br>[ne.se.sɛʁ]<br><small>⭐⭐</small>[sound:fr_d6fb5f04b5cc.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+护照 / passport	un passeport<br>[pas.pɔʁ]<br><small>⭐</small>[sound:fr_218ff227a365.mp3]	French::A2::L34 importance::3_extra	法语 French::A2::L34 il faut 与义务表达
+签证 / visa	un visa<br>[vi.za]<br><small>⭐</small>[sound:fr_6559d5d923b5.mp3]	French::A2::L34 importance::3_extra	法语 French::A2::L34 il faut 与义务表达
+票 / ticket	un billet<br>[bi.jɛ]<br><small>⭐⭐</small>[sound:fr_edd75c58a35e.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+行李箱 / suitcase	une valise<br>[va.liz]<br><small>⭐⭐</small>[sound:fr_b5948573c8e2.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+预订 / to book	réserver<br>[ʁe.zɛʁ.ve]<br><small>⭐⭐</small>[sound:fr_22a451c360a0.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+规则 / rule	une règle<br>[ʁɛɡl]<br><small>⭐⭐</small>[sound:fr_e5e3aa88fba7.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+遵守；尊重 / to respect, follow	respecter<br>[ʁɛs.pɛk.te]<br><small>⭐⭐</small>[sound:fr_7a85bc56aa3a.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+有耐心的 / patient	patient / patiente<br>[pa.sjɑ̃] / [pa.sjɑ̃t]<br><small>⭐⭐</small>[sound:fr_2dbad71beef6.mp3]	French::A2::L34 importance::2_common	法语 French::A2::L34 il faut 与义务表达
+从……以来 / since, for	depuis<br>[də.pɥi]<br><small>⭐⭐⭐</small>[sound:fr_e19c11f2c60e.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+在……期间 / during, for	pendant<br>[pɑ̃.dɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_3089927f04ad.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+……已经……了 / it's been … since	ça fait … que<br>[sa fɛ … kə]<br><small>⭐⭐⭐</small>[sound:fr_26ccc457224c.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+从……开始 / from, starting	à partir de<br>[a paʁ.tiʁ də]<br><small>⭐⭐⭐</small>[sound:fr_8420df62a888.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+直到 / until	jusqu'à<br>[ʒys.ka]<br><small>⭐⭐</small>[sound:fr_6e0ba07bf6d9.mp3]	French::A2::L35 importance::2_common	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+很久 / a long time	longtemps<br>[lɔ̃.tɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_a22002733972.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+多久了 / how long	depuis combien de temps<br>[də.pɥi kɔ̃.bjɛ̃ də tɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_27d6302fd187.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+一整天 / day (whole)	une journée<br>[ʒuʁ.ne]<br><small>⭐⭐⭐</small>[sound:fr_4deb01cba3dc.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+整个晚上；晚会 / evening; party	une soirée<br>[swa.ʁe]<br><small>⭐⭐⭐</small>[sound:fr_b207eb777237.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+整个上午 / morning (whole)	une matinée<br>[ma.ti.ne]<br><small>⭐⭐</small>[sound:fr_78673a31eee3.mp3]	French::A2::L35 importance::2_common	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+秒 / second	une seconde<br>[sə.ɡɔ̃d] / [ɡ]<br><small>⭐⭐⭐</small><br><small>⚠️ c 读</small>[sound:fr_c1a494878121.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+世纪 / century	un siècle<br>[sjɛkl]<br><small>⭐⭐</small>[sound:fr_ac107fcec430.mp3]	French::A2::L35 importance::2_common	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+到达 / arrival	l'arrivée (f.)<br>[a.ʁi.ve]<br><small>⭐⭐⭐</small>[sound:fr_aceedbaf0308.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+出发 / departure	le départ<br>[de.paʁ]<br><small>⭐⭐</small>[sound:fr_f724062ac445.mp3]	French::A2::L35 importance::2_common	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+祝你今天愉快！ / Have a nice day!	Bonne journée !<br>[bɔn ʒuʁ.ne]<br><small>⭐⭐⭐</small>[sound:fr_8cb3e5176c89.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+晚上愉快！ / Have a nice evening!	Bonne soirée !<br>[bɔn swa.ʁe]<br><small>⭐⭐⭐</small>[sound:fr_04869c605c74.mp3]	French::A2::L35 importance::1_core	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+周末愉快！ / Have a nice weekend!	Bon week-end !<br>[bɔ̃ wi.kɛnd]<br><small>⭐</small>[sound:fr_a80806892573.mp3]	French::A2::L35 importance::3_extra	法语 French::A2::L35 时间表达 depuis / pendant / il y a
+从不 / never	ne … jamais<br>[nə … ʒa.mɛ]<br><small>⭐⭐⭐</small>[sound:fr_63833738f703.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+不再 / no longer	ne … plus<br>[nə … ply]<br><small>⭐⭐⭐</small>[sound:fr_58e2aed04c84.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+什么都不 / nothing	ne … rien<br>[nə … ʁjɛ̃]<br><small>⭐⭐⭐</small>[sound:fr_991350cca292.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+谁都不 / nobody	ne … personne<br>[nə … pɛʁ.sɔn]<br><small>⭐⭐⭐</small>[sound:fr_ce270caffca3.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+还没 / not yet	ne … pas encore<br>[nə … pa.zɑ̃.kɔʁ]<br><small>⭐⭐⭐</small>[sound:fr_c10bce747ac9.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+只 / only	ne … que<br>[nə … kə]<br><small>⭐⭐⭐</small>[sound:fr_9fabf823f39c.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+我也不 / me neither	moi non plus<br>[mwa nɔ̃ ply]<br><small>⭐⭐⭐</small>[sound:fr_a3c8f1ac8664.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+总是；一直 / always; still	toujours<br>[tu.ʒuʁ]<br><small>⭐⭐⭐</small>[sound:fr_a595431ae00e.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+还；再 / still; again	encore<br>[ɑ̃.kɔʁ]<br><small>⭐⭐⭐</small>[sound:fr_27d42ca7dcb7.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+已经 / already	déjà<br>[de.ʒa]<br><small>⭐⭐⭐</small>[sound:fr_42e1caaa6b22.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+某事；某物 / something	quelque chose<br>[kɛl.kə ʃoz]<br><small>⭐⭐⭐</small>[sound:fr_3d9e2449b2ee.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+某人 / someone	quelqu'un<br>[kɛl.kœ̃]<br><small>⭐⭐⭐</small>[sound:fr_5cb96692436f.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+有时 / sometimes	quelquefois<br>[kɛl.kə.fwa]<br><small>⭐</small>[sound:fr_6b5fadeac14e.mp3]	French::A2::L36 importance::3_extra	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+抽烟 / to smoke	fumer<br>[fy.me]<br><small>⭐⭐</small>[sound:fr_5568f4d84d5d.mp3]	French::A2::L36 importance::2_common	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+肉 / meat	la viande<br>[vjɑ̃d]<br><small>⭐⭐</small>[sound:fr_119a29a1a407.mp3]	French::A2::L36 importance::2_common	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+没关系。 / It's no big deal.	C'est pas grave.<br>[sɛ pa ɡʁav]<br><small>⭐⭐⭐</small>[sound:fr_7cd860b5c3cf.mp3]	French::A2::L36 importance::1_core	法语 French::A2::L36 其他否定 ne … jamais / rien / personne / plus
+我 / me	moi<br>[mwa]<br><small>⭐⭐⭐</small>[sound:fr_299f6138211f.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+你 / you	toi<br>[twa]<br><small>⭐⭐⭐</small>[sound:fr_64115e0cdfec.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+他 / him	lui<br>[lɥi]<br><small>⭐⭐⭐</small>[sound:fr_0e02c7858603.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+他们 / them	eux<br>[ø]<br><small>⭐⭐⭐</small>[sound:fr_75eabd9c1f99.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+自己 / oneself	soi<br>[swa]<br><small>⭐⭐⭐</small>[sound:fr_92a35a1facf2.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+我自己 / myself	moi-même<br>[mwa.mɛm]<br><small>⭐⭐⭐</small>[sound:fr_bf239199baa2.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+在我家；回我家 / at/to my place	chez moi<br>[ʃe mwa]<br><small>⭐⭐⭐</small>[sound:fr_bee09374ffc9.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+是我！ / It's me!	C'est moi !<br>[sɛ mwa]<br><small>⭐⭐⭐</small>[sound:fr_867fd091b838.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+你呢？ / And you?	Et toi ?<br>[e twa]<br><small>⭐⭐⭐</small>[sound:fr_bc8333fffe6f.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+和……一起 / with	avec<br>[a.vɛk]<br><small>⭐⭐⭐</small>[sound:fr_cc2caa6676fe.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+没有 / without	sans<br>[sɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_3ea220e4b792.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+为了；给 / for	pour<br>[puʁ]<br><small>⭐⭐⭐</small>[sound:fr_e8f81358fad5.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+在……旁边 / next to	à côté de<br>[a ko.te də]<br><small>⭐⭐⭐</small>[sound:fr_590d434574a7.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+想到；想念 / to think of	penser à<br>[pɑ̃.se a]<br><small>⭐⭐⭐</small>[sound:fr_a0e0d2a09a64.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+有道理；对 / to be right	avoir raison<br>[a.vwaʁ ʁɛ.zɔ̃]<br><small>⭐⭐⭐</small>[sound:fr_29279511aa3a.mp3]	French::A2::L37 importance::1_core	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+错 / to be wrong	avoir tort<br>[a.vwaʁ tɔʁ]<br><small>⭐⭐</small>[sound:fr_342dc9e0d19e.mp3]	French::A2::L37 importance::2_common	法语 French::A2::L37 重读人称代词 moi, toi, lui…
+知道；会 / to know (facts, how to)	savoir<br>[sa.vwaʁ]<br><small>⭐⭐⭐</small>[sound:fr_aa591b52b4d1.mp3]	French::A2::L38 importance::1_core	法语 French::A2::L38 savoir 与 connaître
+认识；熟悉 / to know (people, places)	connaître<br>[kɔ.nɛtʁ]<br><small>⭐⭐⭐</small>[sound:fr_8f1b2ec10ecd.mp3]	French::A2::L38 importance::1_core	法语 French::A2::L38 savoir 与 connaître
+认出 / to recognize	reconnaître<br>[ʁə.kɔ.nɛtʁ]<br><small>⭐⭐</small>[sound:fr_92769db479a1.mp3]	French::A2::L38 importance::2_common	法语 French::A2::L38 savoir 与 connaître
+游泳 / to swim	nager<br>[na.ʒe]<br><small>⭐⭐</small>[sound:fr_478d351d5446.mp3]	French::A2::L38 importance::2_common	法语 French::A2::L38 savoir 与 connaître
+开车 / to drive	conduire<br>[kɔ̃.dɥiʁ]<br><small>⭐⭐</small>[sound:fr_13288ea7fb6d.mp3]	French::A2::L38 importance::2_common	法语 French::A2::L38 savoir 与 connaître
+做饭 / to cook	cuisiner<br>[kɥi.zi.ne]<br><small>⭐⭐⭐</small>[sound:fr_5489c0560e7e.mp3]	French::A2::L38 importance::1_core	法语 French::A2::L38 savoir 与 connaître
+弹钢琴 / to play the piano	jouer du piano<br>[ʒwe dy pja.no]<br><small>⭐⭐</small>[sound:fr_177451d71272.mp3]	French::A2::L38 importance::2_common	法语 French::A2::L38 savoir 与 connaître
+答案；回答 / answer	la réponse<br>[ʁe.pɔ̃s]<br><small>⭐⭐⭐</small>[sound:fr_fe431cb49477.mp3]	French::A2::L38 importance::1_core	法语 French::A2::L38 savoir 与 connaître
+问题 / question	la question<br>[kɛs.tjɔ̃]<br><small>⭐⭐⭐</small>[sound:fr_60d6b93d35f4.mp3]	French::A2::L38 importance::1_core	法语 French::A2::L38 savoir 与 connaître
+认识；知识 / acquaintance; knowledge	la connaissance<br>[kɔ.nɛ.sɑ̃s]<br><small>⭐⭐</small>[sound:fr_cc86624ece16.mp3]	French::A2::L38 importance::2_common	法语 French::A2::L38 savoir 与 connaître
+结识 / to meet (for the first time)	faire la connaissance de<br>[fɛʁ la kɔ.nɛ.sɑ̃s də]<br><small>⭐⭐</small>[sound:fr_29dda975c28a.mp3]	French::A2::L38 importance::2_common	法语 French::A2::L38 savoir 与 connaître
+驾照 / driver's license	le permis de conduire<br>[pɛʁ.mi də kɔ̃.dɥiʁ]<br><small>⭐⭐</small>[sound:fr_a1113bdbc2bb.mp3]	French::A2::L38 importance::2_common	法语 French::A2::L38 savoir 与 connaître
+是否 / whether, if	si<br>[si]<br><small>⭐⭐⭐</small>[sound:fr_9b784b731616.mp3]	French::A2::L38 importance::1_core	法语 French::A2::L38 savoir 与 connaître
+怎样 / how	comment<br>[kɔ.mɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_eb8e0d4fa9df.mp3]	French::A2::L38 importance::1_core	法语 French::A2::L38 savoir 与 connaître
+我的 / mine	le mien / la mienne<br>[lə mjɛ̃ / la mjɛn]<br><small>⭐⭐</small>[sound:fr_07cb6bcf6d66.mp3]	French::A2::L39 importance::2_common	法语 French::A2::L39 主有代词与 tout
+你的 / yours	le tien / la tienne<br>[lə tjɛ̃ / la tjɛn]<br><small>⭐⭐⭐</small>[sound:fr_40f497ac950a.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+他的；她的 / his; hers	le sien / la sienne<br>[lə sjɛ̃ / la sjɛn]<br><small>⭐</small>[sound:fr_d446df510f4f.mp3]	French::A2::L39 importance::3_extra	法语 French::A2::L39 主有代词与 tout
+我们的 / ours	le nôtre<br>[lə notʁ]<br><small>⭐⭐</small>[sound:fr_1865a372e0fd.mp3]	French::A2::L39 importance::2_common	法语 French::A2::L39 主有代词与 tout
+您的；你们的 / yours	le vôtre<br>[lə votʁ]<br><small>⭐⭐</small>[sound:fr_fc55bf666e51.mp3]	French::A2::L39 importance::2_common	法语 French::A2::L39 主有代词与 tout
+他们的 / theirs	le leur<br>[lə lœʁ]<br><small>⭐⭐⭐</small>[sound:fr_73308db317dc.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+所有人 / everybody	tout le monde<br>[tu lə mɔ̃d]<br><small>⭐⭐⭐</small>[sound:fr_b7ac081cacbc.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+每天 / every day	tous les jours<br>[tu le ʒuʁ]<br><small>⭐⭐⭐</small>[sound:fr_1374306be383.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+马上 / right away	tout de suite<br>[tut.sɥit]<br><small>⭐⭐⭐</small>[sound:fr_9b52672673ad.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+完全（同意） / absolutely	tout à fait<br>[tu.ta.fɛ]<br><small>⭐⭐⭐</small>[sound:fr_0c256b32f295.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+一点也不 / not at all	pas du tout<br>[pa dy tu]<br><small>⭐⭐⭐</small>[sound:fr_23e78d44962a.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+待会儿见！ / See you later!	À tout à l'heure !<br>[a tu.ta.lœʁ]<br><small>⭐⭐⭐</small>[sound:fr_a6cf780ef06f.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+独自 / all alone	tout seul<br>[tu sœl]<br><small>⭐⭐⭐</small>[sound:fr_9d8ecc0dd984.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+总共 / in total	en tout<br>[ɑ̃ tu]<br><small>⭐⭐⭐</small>[sound:fr_a5d16f5559da.mp3]	French::A2::L39 importance::1_core	法语 French::A2::L39 主有代词与 tout
+首先 / first	d'abord<br>[da.bɔʁ]<br><small>⭐⭐⭐</small>[sound:fr_fcc22baee37d.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+然后 / then, next	ensuite<br>[ɑ̃.sɥit]<br><small>⭐⭐⭐</small>[sound:fr_30e34a35aafb.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+然后 / then	puis<br>[pɥi]<br><small>⭐⭐⭐</small>[sound:fr_a34663017d62.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+最后；终于 / finally	enfin<br>[ɑ̃.fɛ̃]<br><small>⭐⭐⭐</small>[sound:fr_1d565661922e.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+因为 / because	parce que<br>[paʁs.kə]<br><small>⭐⭐⭐</small>[sound:fr_808b7f8034c7.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+所以 / so	donc<br>[dɔ̃k]<br><small>⭐⭐⭐</small>[sound:fr_70c612cc3045.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+但是 / but	mais<br>[mɛ]<br><small>⭐⭐⭐</small>[sound:fr_b4f5b15dff0c.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+然而 / yet, however	pourtant<br>[puʁ.tɑ̃]<br><small>⭐⭐⭐</small>[sound:fr_e6d69ed28a31.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+那么；于是 / so, then	alors<br>[a.lɔʁ]<br><small>⭐⭐⭐</small>[sound:fr_f5b8fead84c8.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+例如 / for example	par exemple<br>[paʁ ɛɡ.zɑ̃pl]<br><small>⭐⭐</small>[sound:fr_05755fbb9097.mp3]	French::A2::L40 importance::2_common	法语 French::A2::L40 A2 总复习
+其实 / actually	en fait<br>[ɑ̃ fɛt]<br><small>⭐⭐⭐</small>[sound:fr_046617d4f263.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习
+通常 / usually	d'habitude<br>[da.bi.tyd]<br><small>⭐⭐⭐</small>[sound:fr_c073cf7cac52.mp3]	French::A2::L40 importance::1_core	法语 French::A2::L40 A2 总复习

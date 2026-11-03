@@ -38,3 +38,4 @@ a.forvo:hover { opacity: 1; }
 #dictation button { font: inherit; margin: .2rem .3rem .2rem 0; padding: .25rem .7rem; cursor: pointer; }
 #dictation .result { margin-top: .4rem; min-height: 1.5em; }
 #dictation .ok { color: #1a8a3a; } #dictation .no { color: #c0392b; }
+.stars { font-size: .7em; white-space: nowrap; }
