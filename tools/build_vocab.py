@@ -1,0 +1,276 @@
+#!/usr/bin/env python3
+"""Build per-lesson vocabulary lists from the lesson files.
+
+Reads the "## 2. 单词 Vocabulary" section of every lesson (A1/, A2/, B1/, B2/),
+plus the extra words in SUPPLEMENTS (words taught in prose or grammar tables),
+and writes:
+  词汇_Vocabulary/<level>/Lxx_词汇_Vocab.md    one word list per lesson
+  词汇_Vocabulary/Anki/<level>_Anki.txt        tab-separated, ready for Anki import
+Usage: python3 tools/build_vocab.py
+"""
+import glob
+import hashlib
+import os
+import re
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUT = os.path.join(ROOT, "词汇_Vocabulary")
+LEVELS = ["A1", "A2", "B1", "B2"]
+# Pronunciation audio made by build_anki_audio.py (macOS French voice)
+VOICE, RATE = "Thomas", "150"
+AUDIO_DIR = os.path.join(OUT, "Anki", "audio")
+
+# Words a lesson teaches outside its vocabulary tables.
+# lesson number -> list of (group heading, French, IPA, 中文, English, note)
+SUPPLEMENTS = {
+    2: [("喜好短语", "j'aime …", "[ʒɛm]", "我喜欢……", "I like …", ""),
+        ("喜好短语", "je n'aime pas …", "[ʒə nɛm pa]", "我不喜欢……", "I don't like …", ""),
+        ("喜好短语", "j'adore …", "[ʒa.dɔʁ]", "我非常喜欢……", "I love …", ""),
+        ("喜好短语", "je déteste …", "[ʒə de.tɛst]", "我讨厌……", "I hate …", "")],
+    3: [("自我介绍短语", "Je m'appelle …", "[ʒə ma.pɛl]", "我叫……", "My name is …", ""),
+        ("自我介绍短语", "Enchanté(e) !", "[ɑ̃.ʃɑ̃.te]", "很高兴认识你！", "Nice to meet you!", "")],
+    4: [("感觉", "avoir faim", "[fɛ̃]", "饿", "to be hungry", ""),
+        ("感觉", "avoir soif", "[swaf]", "渴", "to be thirsty", ""),
+        ("感觉", "avoir chaud", "[ʃo]", "（人）觉得热", "to be hot", ""),
+        ("感觉", "avoir froid", "[fʁwa]", "（人）觉得冷", "to be cold", ""),
+        ("感觉", "avoir peur", "[pœʁ]", "害怕", "to be afraid", ""),
+        ("感觉", "avoir sommeil", "[sɔ.mɛj]", "困", "to be sleepy", ""),
+        ("其他", "il y a", "[il.ja]", "有（存在）", "there is / there are", ""),
+        ("其他", "Tu as quel âge ?", "[ty a kɛ.lɑʒ]", "你几岁？", "How old are you?", ""),
+        ("数字", "un", "[œ̃]", "1", "one", "un‿an [œ̃.nɑ̃]"),
+        ("数字", "deux", "[dø]", "2", "two", "deux‿ans [dø.zɑ̃]"),
+        ("数字", "trois", "[tʁwa]", "3", "three", "trois‿ans [tʁwa.zɑ̃]"),
+        ("数字", "quatre", "[katʁ]", "4", "four", ""),
+        ("数字", "cinq", "[sɛ̃k]", "5", "five", ""),
+        ("数字", "six", "[sis]", "6", "six", "six‿ans [si.zɑ̃]"),
+        ("数字", "sept", "[sɛt]", "7", "seven", "p 不发音"),
+        ("数字", "huit", "[ɥit]", "8", "eight", ""),
+        ("数字", "neuf", "[nœf]", "9", "nine", "neuf‿ans [nœ.vɑ̃]，f 读 [v]"),
+        ("数字", "dix", "[dis]", "10", "ten", "dix‿ans [di.zɑ̃]")],
+    7: [("疑问词", "qui", "[ki]", "谁", "who", ""),
+        ("疑问词", "que / qu'est-ce que", "[kə] / [kɛs.kə]", "什么", "what", "句首用"),
+        ("疑问词", "quoi", "[kwa]", "什么", "what", "口语，句尾用"),
+        ("疑问词", "où", "[u]", "哪里", "where", "≠ ou（或者）"),
+        ("疑问词", "quand", "[kɑ̃]", "什么时候", "when", ""),
+        ("疑问词", "comment", "[kɔ.mɑ̃]", "怎么样；如何", "how", ""),
+        ("疑问词", "pourquoi", "[puʁ.kwa]", "为什么", "why", ""),
+        ("疑问词", "parce que", "[paʁs.kə]", "因为", "because", ""),
+        ("疑问词", "combien (de)", "[kɔ̃.bjɛ̃]", "多少", "how much / how many", ""),
+        ("疑问词", "quel / quelle / quels / quelles", "[kɛl]", "哪个；什么", "which / what", "和名词配合")],
+    9: [("数字 Numbers", w, ipa, zh, en, "") for w, ipa, zh, en in [
+        ("zéro", "[ze.ʁo]", "0", "zero"), ("onze", "[ɔ̃z]", "11", "eleven"),
+        ("douze", "[duz]", "12", "twelve"), ("treize", "[tʁɛz]", "13", "thirteen"),
+        ("quatorze", "[ka.tɔʁz]", "14", "fourteen"), ("quinze", "[kɛ̃z]", "15", "fifteen"),
+        ("seize", "[sɛz]", "16", "sixteen"), ("dix-sept", "[di.sɛt]", "17", "seventeen"),
+        ("dix-huit", "[di.zɥit]", "18", "eighteen"), ("dix-neuf", "[diz.nœf]", "19", "nineteen"),
+        ("vingt", "[vɛ̃]", "20", "twenty"), ("vingt et un", "[vɛ̃.te.œ̃]", "21", "twenty-one"),
+        ("trente", "[tʁɑ̃t]", "30", "thirty"), ("quarante", "[ka.ʁɑ̃t]", "40", "forty"),
+        ("cinquante", "[sɛ̃.kɑ̃t]", "50", "fifty"), ("soixante", "[swa.sɑ̃t]", "60", "sixty"),
+        ("soixante-dix", "[swa.sɑ̃t.dis]", "70", "seventy"),
+        ("soixante et onze", "[swa.sɑ̃.te.ɔ̃z]", "71", "seventy-one"),
+        ("quatre-vingts", "[ka.tʁə.vɛ̃]", "80", "eighty"),
+        ("quatre-vingt-un", "[ka.tʁə.vɛ̃.œ̃]", "81", "eighty-one"),
+        ("quatre-vingt-dix", "[ka.tʁə.vɛ̃.dis]", "90", "ninety"),
+        ("cent", "[sɑ̃]", "100", "one hundred")]],
+    12: [],  # English for the country table is filled in by COUNTRY_EN below
+    13: [("四季", "le printemps", "[pʁɛ̃.tɑ̃]", "春天", "spring", "au printemps"),
+         ("四季", "l'été (m.)", "[e.te]", "夏天", "summer", "en été"),
+         ("四季", "l'automne (m.)", "[o.tɔn]", "秋天", "autumn", "en automne；m 不发音"),
+         ("四季", "l'hiver (m.)", "[i.vɛʁ]", "冬天", "winter", "en hiver"),
+         ("天气表达 Weather", "Quel temps fait-il ?", "[kɛl tɑ̃ fɛ.til]", "天气怎么样？", "What's the weather like?", ""),
+         ("天气表达 Weather", "Il fait beau / mauvais.", "[il fɛ bo / mɔ.vɛ]", "天气好 / 不好。", "The weather is nice / bad.", ""),
+         ("天气表达 Weather", "Il fait chaud / froid.", "[il fɛ ʃo / fʁwa]", "天气热 / 冷。", "It's hot / cold.", ""),
+         ("天气表达 Weather", "Il pleut.", "[il plø]", "下雨。", "It's raining.", ""),
+         ("天气表达 Weather", "Il neige.", "[il nɛʒ]", "下雪。", "It's snowing.", "")],
+    14: [("星期 Days", d, ipa, zh, en, "小写，阳性") for d, ipa, zh, en in [
+        ("lundi", "[lœ̃.di]", "星期一", "Monday"), ("mardi", "[maʁ.di]", "星期二", "Tuesday"),
+        ("mercredi", "[mɛʁ.kʁə.di]", "星期三", "Wednesday"), ("jeudi", "[ʒø.di]", "星期四", "Thursday"),
+        ("vendredi", "[vɑ̃.dʁə.di]", "星期五", "Friday"), ("samedi", "[sam.di]", "星期六", "Saturday"),
+        ("dimanche", "[di.mɑ̃ʃ]", "星期日", "Sunday")]]
+        + [("月份 Months", m, ipa, zh, en, note) for m, ipa, zh, en, note in [
+        ("janvier", "[ʒɑ̃.vje]", "一月", "January", ""), ("février", "[fe.vʁi.je]", "二月", "February", ""),
+        ("mars", "[maʁs]", "三月", "March", "s 发音"), ("avril", "[a.vʁil]", "四月", "April", ""),
+        ("mai", "[mɛ]", "五月", "May", ""), ("juin", "[ʒɥɛ̃]", "六月", "June", ""),
+        ("juillet", "[ʒɥi.jɛ]", "七月", "July", ""), ("août", "[u] / [ut]", "八月", "August", ""),
+        ("septembre", "[sɛp.tɑ̃bʁ]", "九月", "September", "p 发音"),
+        ("octobre", "[ɔk.tɔbʁ]", "十月", "October", ""), ("novembre", "[nɔ.vɑ̃bʁ]", "十一月", "November", ""),
+        ("décembre", "[de.sɑ̃bʁ]", "十二月", "December", "")]]
+        + [("时间表达 Telling time", "Quelle heure est-il ?", "[kɛ.lœ.ʁɛ.til]", "几点了？", "What time is it?", ""),
+           ("时间表达 Telling time", "et quart / et demie", "[e kaʁ] / [e də.mi]", "一刻 / 半", "quarter past / half past", ""),
+           ("时间表达 Telling time", "moins le quart", "[mwɛ̃ lə kaʁ]", "差一刻", "quarter to", ""),
+           ("时间表达 Telling time", "le premier (1er)", "[lə pʁə.mje]", "1 号", "the 1st", "其他日子用普通数字")],
+    15: [("动词", "boire", "[bwaʁ]", "喝", "to drink", "je bois, nous buvons, ils boivent")],
+    26: [("固定表达", "On y va ! / Allons-y !", "[ɔ̃.ni.va] / [a.lɔ̃.zi]", "我们走吧！", "Let's go!", ""),
+         ("固定表达", "Vas-y ! / Allez-y !", "[va.zi] / [a.le.zi]", "去吧！加油！", "Go ahead!", ""),
+         ("固定表达", "Il y en a.", "[il.jɑ̃.na]", "有（一些）。", "There is some.", ""),
+         ("固定表达", "Il n'y en a plus.", "[il njɑ̃.na ply]", "没有了。", "There's none left.", ""),
+         ("固定表达", "Ça y est !", "[sa.jɛ]", "好了！搞定了！", "That's it! Done!", ""),
+         ("固定表达", "J'en ai marre !", "[ʒɑ̃.ne maʁ]", "我受够了！", "I'm fed up!", "口语"),
+         ("固定表达", "Je m'en vais.", "[ʒə mɑ̃ vɛ]", "我走了。", "I'm leaving.", "")],
+}
+
+COUNTRY_EN = {
+    "la Chine": "China", "la France": "France", "les États-Unis (m. pl.)": "the United States",
+    "le Japon": "Japan", "la Corée (du Sud)": "(South) Korea", "le Canada": "Canada",
+    "l'Angleterre (f.)": "England", "l'Allemagne (f.)": "Germany", "l'Espagne (f.)": "Spain",
+    "l'Italie (f.)": "Italy", "le Mexique": "Mexico",
+}
+
+
+def clean(text):
+    text = re.sub(r"\*+", "", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def split_ipa(cell):
+    """'[fam] ⚠️ 读"fam"' -> ('[fam]', '⚠️ 读"fam"')"""
+    ipa = " / ".join(re.findall(r"\[[^\]]*\]", cell))
+    rest = clean(re.sub(r"\[[^\]]*\]|/", " ", cell))
+    return ipa, rest
+
+
+def parse_lesson(path):
+    """Return ordered list of (group, [rows]) from the vocabulary section."""
+    text = open(path, encoding="utf-8").read()
+    m = re.search(r"^## \d+\. 单词.*?$(.*?)^## \d+\.", text, re.S | re.M)
+    section = m.group(1) if m else ""
+    groups, header = [(None, [])], None
+
+    for line in section.split("\n"):
+        if line.startswith("### "):
+            groups.append((clean(line[4:]), []))
+            header = None
+            continue
+        if not line.startswith("|"):
+            header = None
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if header is None:
+            header = cells
+            continue
+        if set("".join(cells)) <= set("-: "):
+            continue
+        if not any("中文" in h for h in header):
+            continue  # e.g. a pronunciation table, not a word list
+        row = {"fr": clean(cells[0]), "ipa": "", "zh": "", "en": "", "note": []}
+        for h, c in zip(header[1:], cells[1:]):
+            if "音标" in h or "IPA" in h:
+                row["ipa"], extra = split_ipa(c)
+                if extra:
+                    row["note"].append(extra)
+            elif "中文" in h:
+                row["zh"] = clean(c)
+            elif "English" in h:
+                row["en"] = clean(c)
+            elif clean(c):
+                row["note"].append(f"{clean(h)}: {clean(c)}")
+        # IPA written inside the French cell, e.g. "Attention ! [a.tɑ̃.sjɔ̃]"
+        if not row["ipa"] and "[" in row["fr"]:
+            row["ipa"] = " / ".join(re.findall(r"\[[^\]]*\]", row["fr"]))
+            row["fr"] = clean(re.sub(r"\[[^\]]*\]", "", row["fr"]))
+        if not row["en"] and row["fr"] in COUNTRY_EN:
+            row["en"] = COUNTRY_EN[row["fr"]]
+        row["note"] = "；".join(row["note"])
+        groups[-1][1].append(row)
+    return groups
+
+
+def add_supplements(groups, num):
+    for g, fr, ipa, zh, en, note in SUPPLEMENTS.get(num, []):
+        row = {"fr": fr, "ipa": ipa, "zh": zh, "en": en, "note": note}
+        for name, rows in groups:
+            if name and g in name:
+                rows.append(row)
+                break
+        else:
+            groups.append((g, [row]))
+    return [(g, rows) for g, rows in groups if rows]
+
+
+def lesson_title(path):
+    first = open(path, encoding="utf-8").readline()
+    return clean(first.lstrip("# "))
+
+
+def md_escape(s):
+    return s.replace("|", "\\|")
+
+
+def write_md(path, title, num, groups, lesson_rel):
+    total = sum(len(r) for _, r in groups)
+    lines = [f"# 第 {num} 课 词汇表 / Lesson {num} Vocabulary", "",
+             f"> {title}  ",
+             f"> 共 **{total}** 个词/短语 · *{total} words & phrases*  ",
+             f"> 📖 课文 Lesson：[{os.path.basename(lesson_rel)}]({lesson_rel})", "",
+             '<div class="vocab">', ""]
+    for g, rows in groups:
+        lines += [f"## {g or '常用词 Words'}", "",
+                  "| 法语 French | 音标 IPA | 中文 | English | 备注 Notes |",
+                  "|---|---|---|---|---|"]
+        for r in rows:
+            lines.append("| " + " | ".join(md_escape(x) for x in
+                         (f"**{r['fr']}**", r["ipa"], r["zh"], r["en"], r["note"])) + " |")
+        lines.append("")
+    lines += ["</div>", "", "---", "",
+              "✅ 背完后：遮住法语那一列，看着中文 / English 说出法语（带冠词！）。",
+              "*When done: cover the French column and say each word from the Chinese / English.*", ""]
+    open(path, "w", encoding="utf-8").write("\n".join(lines))
+    return total
+
+
+def speech_text(fr):
+    """'étudiant / étudiante' -> 'étudiant, étudiante'; drops (m.), (e), '…'."""
+    text = re.sub(r"\([^)]*\)", "", fr)
+    text = text.replace("…", "").replace(" / ", ", ").replace("/", ", ")
+    return re.sub(r"\s+", " ", text).strip(" ,")
+
+
+def audio_name(fr):
+    key = f"{VOICE}|{RATE}|{speech_text(fr)}"
+    return "fr_" + hashlib.md5(key.encode()).hexdigest()[:12] + ".mp3"
+
+
+def all_words():
+    """Yield (level, lesson number, row) for every word in every lesson."""
+    for level in LEVELS:
+        for path in sorted(glob.glob(os.path.join(ROOT, level, "L*.md"))):
+            num = int(re.match(r"L(\d+)", os.path.basename(path)).group(1))
+            for _, rows in add_supplements(parse_lesson(path), num):
+                for r in rows:
+                    yield level, num, r
+
+
+def anki_line(r, tag, deck):
+    front = " / ".join(x for x in (r["zh"], r["en"]) if x)
+    sound = audio_name(r["fr"])
+    back = r["fr"] + (f"<br>{r['ipa']}" if r["ipa"] else "") + \
+        (f"<br><small>{r['note']}</small>" if r["note"] else "") + \
+        (f"[sound:{sound}]" if os.path.exists(os.path.join(AUDIO_DIR, sound)) else "")
+    return "\t".join(x.replace("\t", " ") for x in (front, back, tag, deck))
+
+
+def main():
+    for level in LEVELS:
+        lessons = sorted(glob.glob(os.path.join(ROOT, level, "L*.md")))
+        if not lessons:
+            continue
+        os.makedirs(os.path.join(OUT, level), exist_ok=True)
+        os.makedirs(os.path.join(OUT, "Anki"), exist_ok=True)
+        anki = ["#separator:tab", "#html:true", "#notetype:Basic",
+                "#tags column:3", "#deck column:4"]
+        for path in lessons:
+            name = os.path.basename(path)
+            num = int(re.match(r"L(\d+)", name).group(1))
+            groups = add_supplements(parse_lesson(path), num)
+            out = os.path.join(OUT, level, f"L{num:02d}_词汇_Vocab.md")
+            total = write_md(out, lesson_title(path), num, groups, f"../../{level}/{name}")
+            for _, rows in groups:
+                deck = f"法语 French::{level}::L{num:02d} " + lesson_title(path).split("·", 1)[-1].strip()
+                anki += [anki_line(r, f"French::{level}::L{num:02d}", deck) for r in rows]
+            print(f"✓ {level}/L{num:02d}_词汇_Vocab.md  ({total})")
+        open(os.path.join(OUT, "Anki", f"{level}_Anki.txt"), "w", encoding="utf-8").write("\n".join(anki) + "\n")
+        print(f"✓ Anki/{level}_Anki.txt  ({len(anki) - 5} cards)")
+
+
+if __name__ == "__main__":
+    main()

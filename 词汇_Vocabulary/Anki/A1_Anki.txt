@@ -1,0 +1,404 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#tags column:3
+#deck column:4
+男人 / man	un homme<br>[ɔm][sound:fr_234ddd14e136.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+女人；妻子 / woman; wife	une femme<br>[fam]<br><small>⚠️ 读"fam"</small>[sound:fr_6e06c3ac9197.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+男孩 / boy	un garçon<br>[ɡaʁ.sɔ̃][sound:fr_302f026e1122.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+女孩；女儿 / girl; daughter	une fille<br>[fij][sound:fr_14bfca8dca84.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+（男性）朋友 / friend (m.)	un ami<br>[a.mi][sound:fr_1661a9a31293.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+（女性）朋友 / friend (f.)	une amie<br>[a.mi][sound:fr_8f36f4010689.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+书 / book	un livre<br>[livʁ][sound:fr_48ec0b73be68.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+笔 / pen	un stylo<br>[sti.lo][sound:fr_d579c4e734f0.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+包 / bag	un sac<br>[sak][sound:fr_8a4a4c5a10f6.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+电话；手机 / phone	un téléphone<br>[te.le.fɔn][sound:fr_1a50739ffbd3.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+猫 / cat	un chat<br>[ʃa]<br><small>⚠️ t 不发音</small>[sound:fr_d1c04d69ed73.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+桌子 / table	une table<br>[tabl][sound:fr_7121a8b61c9d.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+椅子 / chair	une chaise<br>[ʃɛz][sound:fr_7016a224b4fe.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+房子；家 / house; home	une maison<br>[mɛ.zɔ̃][sound:fr_1e5f851b9b41.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+汽车 / car	une voiture<br>[vwa.tyʁ][sound:fr_8a893847fb31.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+你好！（白天） / Hello! / Good morning	Bonjour !<br>[bɔ̃.ʒuʁ][sound:fr_bd9f7c2b25c4.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+嗨！（朋友之间） / Hi! (informal)	Salut !<br>[sa.ly][sound:fr_9989b8fc3a7b.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+谢谢！ / Thank you!	Merci !<br>[mɛʁ.si][sound:fr_9cac41343eb5.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+再见！ / Goodbye!	Au revoir !<br>[o.ʁə.vwaʁ][sound:fr_e811315a35cb.mp3]	French::A1::L01	法语 French::A1::L01 名词的性与不定冠词 un / une / des
+咖啡 / coffee	le café<br>[ka.fe][sound:fr_5c397cc23b59.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+茶 / tea	le thé<br>[te]<br><small>⚠️ h 不发音</small>[sound:fr_56bfd686de01.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+水 / water	l'eau (f.)<br>[o][sound:fr_476bd676e2b3.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+牛奶 / milk	le lait<br>[lɛ][sound:fr_3a2e919a93dd.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+面包 / bread	le pain<br>[pɛ̃][sound:fr_112024b274bc.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+奶酪 / cheese	le fromage<br>[fʁɔ.maʒ][sound:fr_089534051ded.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+肉 / meat	la viande<br>[vjɑ̃d][sound:fr_119a29a1a407.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+鱼 / fish	le poisson<br>[pwa.sɔ̃][sound:fr_1629e6de21ef.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+苹果 / apple	la pomme<br>[pɔm][sound:fr_ce870d613489.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+巧克力 / chocolate	le chocolat<br>[ʃɔ.kɔ.la]<br><small>⚠️ t 不发音</small>[sound:fr_c4a6e16f552d.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+葡萄酒 / wine	le vin<br>[vɛ̃][sound:fr_0962a96b650f.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+音乐 / music	la musique<br>[my.zik][sound:fr_32b673f850d0.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+运动 / sport	le sport<br>[spɔʁ][sound:fr_4eab048e9645.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+学校 / school	l'école (f.)<br>[e.kɔl][sound:fr_f5d7d5458cb2.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+酒店 / hotel	l'hôtel (m.)<br>[o.tɛl][sound:fr_e1f68eb15cf5.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+我喜欢…… / I like …	j'aime …<br>[ʒɛm][sound:fr_2b2b900ebd48.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+我不喜欢…… / I don't like …	je n'aime pas …<br>[ʒə nɛm pa][sound:fr_81b0e99b34f0.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+我非常喜欢…… / I love …	j'adore …<br>[ʒa.dɔʁ][sound:fr_74d3f439c006.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+我讨厌…… / I hate …	je déteste …<br>[ʒə de.tɛst][sound:fr_a118fefc9a9d.mp3]	French::A1::L02	法语 French::A1::L02 定冠词 le / la / l' / les
+学生 / student	étudiant / étudiante<br>[e.ty.djɑ̃] / [e.ty.djɑ̃t][sound:fr_aa095a8ff50f.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+老师；教授 / teacher; professor	professeur<br>[pʁɔ.fɛ.sœʁ][sound:fr_4c0872f9fda1.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+医生 / doctor	médecin<br>[med.sɛ̃][sound:fr_866455a39109.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+工程师 / engineer	ingénieur<br>[ɛ̃.ʒe.njœʁ][sound:fr_cda0ff9ee75a.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+中国的 / Chinese	chinois / chinoise<br>[ʃi.nwa] / [ʃi.nwaz][sound:fr_2ee265cfab6d.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+法国的 / French	français / française<br>[fʁɑ̃.sɛ] / [fʁɑ̃.sɛz][sound:fr_b38932b6ddf8.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+美国的 / American	américain / américaine<br>[a.me.ʁi.kɛ̃] / [a.me.ʁi.kɛn][sound:fr_5bdc39243f45.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+英国的 / English	anglais / anglaise<br>[ɑ̃.ɡlɛ] / [ɑ̃.ɡlɛz][sound:fr_23ab51853bf4.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+高兴的 / happy	content / contente<br>[kɔ̃.tɑ̃] / [kɔ̃.tɑ̃t][sound:fr_add79e1516ad.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+累的 / tired	fatigué / fatiguée<br>[fa.ti.ɡe][sound:fr_0f61b6077877.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+高的；大的 / tall; big	grand / grande<br>[ɡʁɑ̃] / [ɡʁɑ̃d][sound:fr_f3ff247430cf.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+矮的；小的 / short; small	petit / petite<br>[pə.ti] / [pə.tit][sound:fr_e392be5679b0.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+这里 / here	ici<br>[i.si][sound:fr_d724c4d01b47.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+很 / very	très<br>[tʁɛ][sound:fr_8fcbc8eee941.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+和 / and	et<br>[e]<br><small>⚠️ t 不发音</small>[sound:fr_4d0c6102a442.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+但是 / but	mais<br>[mɛ][sound:fr_b4f5b15dff0c.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+我叫…… / My name is …	Je m'appelle …<br>[ʒə ma.pɛl][sound:fr_989e9f463e27.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+很高兴认识你！ / Nice to meet you!	Enchanté(e) !<br>[ɑ̃.ʃɑ̃.te][sound:fr_85ae0dac6485.mp3]	French::A1::L03	法语 French::A1::L03 主语人称代词与 être（是）
+父亲 / father	un père<br>[pɛʁ][sound:fr_ce334b383f13.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+母亲 / mother	une mère<br>[mɛʁ][sound:fr_2a74f9b297bc.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+父母 / parents	les parents (m.)<br>[pa.ʁɑ̃][sound:fr_2060c5fd7729.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+兄弟 / brother	un frère<br>[fʁɛʁ][sound:fr_235d30f23338.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+姐妹 / sister	une sœur<br>[sœʁ][sound:fr_d9d927195e83.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+孩子 / child	un enfant<br>[ɑ̃.fɑ̃][sound:fr_270cceaca83f.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+狗 / dog	un chien<br>[ʃjɛ̃][sound:fr_72f5d77afab3.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+年；岁 / year	un an<br>[ɑ̃][sound:fr_d7baf0c6e778.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+饿 / to be hungry	avoir faim<br>[fɛ̃][sound:fr_83f0b14a1aed.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+渴 / to be thirsty	avoir soif<br>[swaf][sound:fr_4c4dea005e96.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+（人）觉得热 / to be hot	avoir chaud<br>[ʃo][sound:fr_59116a786891.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+（人）觉得冷 / to be cold	avoir froid<br>[fʁwa][sound:fr_4e6ade8ac4a6.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+害怕 / to be afraid	avoir peur<br>[pœʁ][sound:fr_25abc84beb0e.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+困 / to be sleepy	avoir sommeil<br>[sɔ.mɛj][sound:fr_6b50e67a8031.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+有（存在） / there is / there are	il y a<br>[il.ja][sound:fr_9af1b8b0bedc.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+你几岁？ / How old are you?	Tu as quel âge ?<br>[ty a kɛ.lɑʒ][sound:fr_506aae174e33.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+1 / one	un<br>[œ̃]<br><small>un‿an [œ̃.nɑ̃]</small>[sound:fr_f0b37697ab82.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+2 / two	deux<br>[dø]<br><small>deux‿ans [dø.zɑ̃]</small>[sound:fr_90396b5a30cb.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+3 / three	trois<br>[tʁwa]<br><small>trois‿ans [tʁwa.zɑ̃]</small>[sound:fr_be1b6b77ea56.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+4 / four	quatre<br>[katʁ][sound:fr_9d1e8ea52a37.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+5 / five	cinq<br>[sɛ̃k][sound:fr_206694a6fbd2.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+6 / six	six<br>[sis]<br><small>six‿ans [si.zɑ̃]</small>[sound:fr_88c962ba659d.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+7 / seven	sept<br>[sɛt]<br><small>p 不发音</small>[sound:fr_9aa2804a36c1.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+8 / eight	huit<br>[ɥit][sound:fr_0d09af002ba8.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+9 / nine	neuf<br>[nœf]<br><small>neuf‿ans [nœ.vɑ̃]，f 读 [v]</small>[sound:fr_e235e0400f17.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+10 / ten	dix<br>[dis]<br><small>dix‿ans [di.zɑ̃]</small>[sound:fr_071cec5a69d9.mp3]	French::A1::L04	法语 French::A1::L04 avoir（有）与常用表达
+说 / to speak	parler<br>[paʁ.le][sound:fr_ade7a4a3e1d5.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+喜欢；爱 / to like; to love	aimer<br>[ɛ.me][sound:fr_a9232fd3ec81.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+住 / to live (somewhere)	habiter<br>[a.bi.te][sound:fr_8df270260f18.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+工作 / to work	travailler<br>[tʁa.va.je][sound:fr_d7457f320b87.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+学习 / to study	étudier<br>[e.ty.dje][sound:fr_453d9860edf5.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+吃 / to eat	manger<br>[mɑ̃.ʒe][sound:fr_c5452c5194ed.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+听 / to listen to	écouter<br>[e.ku.te][sound:fr_890f057a2ba8.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+看 / to watch; to look at	regarder<br>[ʁə.ɡaʁ.de][sound:fr_56e179e40654.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+找 / to look for	chercher<br>[ʃɛʁ.ʃe][sound:fr_9812d6674853.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+玩 / to play	jouer<br>[ʒwe][sound:fr_11363adaa533.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+跳舞 / to dance	danser<br>[dɑ̃.se][sound:fr_a41d9b838a61.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+唱歌 / to sing	chanter<br>[ʃɑ̃.te][sound:fr_a60592d30321.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+到达 / to arrive	arriver<br>[a.ʁi.ve][sound:fr_bf2fb8132b55.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+很多；非常 / a lot	beaucoup<br>[bo.ku][sound:fr_9408c872cc7a.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+好 / well	bien<br>[bjɛ̃][sound:fr_ace992685f54.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+经常 / often	souvent<br>[su.vɑ̃][sound:fr_7667ab5fbf7a.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+也 / also, too	aussi<br>[o.si][sound:fr_fa4cb497c53c.mp3]	French::A1::L05	法语 French::A1::L05 第一组动词（-er 结尾）
+公寓 / apartment	un appartement<br>[a.paʁ.tə.mɑ̃][sound:fr_c92d058221c0.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+卧室 / bedroom	une chambre<br>[ʃɑ̃bʁ][sound:fr_ecf718cc43ee.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+厨房；菜肴 / kitchen; cooking	une cuisine<br>[kɥi.zin][sound:fr_195d0162bfe9.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+床 / bed	un lit<br>[li]<br><small>⚠️ t 不发音</small>[sound:fr_4b700784c3d0.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+电脑 / computer	un ordinateur<br>[ɔʁ.di.na.tœʁ][sound:fr_28437ba48cf5.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+电视 / TV	une télé<br>[te.le][sound:fr_21420c5c3132.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+自行车 / bike	un vélo<br>[ve.lo][sound:fr_caf19a307b00.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+钱 / money	l'argent (m.)<br>[aʁ.ʒɑ̃][sound:fr_ade4abe3edd2.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+课 / class, course	un cours<br>[kuʁ]<br><small>⚠️ s 不发音</small>[sound:fr_454341791f0b.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+问题 / problem	un problème<br>[pʁɔ.blɛm][sound:fr_7296d6083216.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+一点也不 / not at all	pas du tout<br>[pa dy tu][sound:fr_23e78d44962a.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+还没有 / not yet	pas encore<br>[pa.zɑ̃.kɔʁ][sound:fr_e4edd7239abb.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+没问题！ / No problem!	Pas de problème !<br>[pad pʁɔ.blɛm][sound:fr_813481a17af1.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+没关系。 / It's OK. / No big deal.	Ce n'est pas grave.<br>[sə nɛ pa ɡʁav][sound:fr_38bb69c75207.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+我不知道。 / I don't know.	Je ne sais pas.<br>[ʒə nə sɛ pa][sound:fr_5f158fa12873.mp3]	French::A1::L06	法语 French::A1::L06 否定句 ne … pas
+谁 / who	qui<br>[ki][sound:fr_26a8e732320e.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+什么 / what	que / qu'est-ce que<br>[kə] / [kɛs.kə]<br><small>句首用</small>[sound:fr_1cdec45e5258.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+什么 / what	quoi<br>[kwa]<br><small>口语，句尾用</small>[sound:fr_b0c0fe1da930.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+哪里 / where	où<br>[u]<br><small>≠ ou（或者）</small>[sound:fr_9a0bad493035.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+什么时候 / when	quand<br>[kɑ̃][sound:fr_64d74d7a03a2.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+怎么样；如何 / how	comment<br>[kɔ.mɑ̃][sound:fr_eb8e0d4fa9df.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+为什么 / why	pourquoi<br>[puʁ.kwa][sound:fr_6a29b44c76be.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+因为 / because	parce que<br>[paʁs.kə][sound:fr_808b7f8034c7.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+多少 / how much / how many	combien (de)<br>[kɔ̃.bjɛ̃][sound:fr_fe07dcf8d076.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+哪个；什么 / which / what	quel / quelle / quels / quelles<br>[kɛl]<br><small>和名词配合</small>[sound:fr_1180e9cec178.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+你好吗？（朋友） / How's it going?	Ça va ?<br>[sa va][sound:fr_f82f3dc8631c.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+很好，谢谢。 / Fine, thanks.	Ça va bien, merci.<br>[sa va bjɛ̃ mɛʁ.si][sound:fr_6578458bfd6d.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+您好吗？（正式） / How are you? (formal)	Comment allez-vous ?<br>[kɔ.mɑ̃.ta.le.vu]<br><small>⚠️ t 联诵</small>[sound:fr_8a36af2f6927.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+我很好。 / I'm fine.	Je vais bien.<br>[ʒə vɛ bjɛ̃][sound:fr_6eaa0aec099f.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+你呢？/ 您呢？ / And you?	Et toi ? / Et vous ?<br>[e twa] / [e vu][sound:fr_4d8539a62c36.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+语言；舌头 / language; tongue	une langue<br>[lɑ̃ɡ][sound:fr_89cc0eec0ce4.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+城市 / city	une ville<br>[vil] / [l]<br><small>⚠️ ll 读</small>[sound:fr_8bd7ee892173.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+国家 / country	un pays<br>[pe.i][sound:fr_58281e2a043f.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+地址 / address	une adresse<br>[a.dʁɛs][sound:fr_82ea1db27b87.mp3]	French::A1::L07	法语 French::A1::L07 疑问句
+红色的 / red	rouge / rouge<br>[ʁuʒ][sound:fr_c8d91b42aa37.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+蓝色的 / blue	bleu / bleue<br>[blø][sound:fr_25ad2c2b2320.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+绿色的 / green	vert / verte<br>[vɛʁ] / [vɛʁt][sound:fr_794d023ddf2f.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+黑色的 / black	noir / noire<br>[nwaʁ][sound:fr_61599975daeb.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+白色的 / white	blanc / blanche<br>[blɑ̃] / [blɑ̃ʃ][sound:fr_c44e7a4c3a54.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+年轻的 / young	jeune / jeune<br>[ʒœn][sound:fr_5d862a319bdf.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+老的；旧的 / old	vieux / vieille<br>[vjø] / [vjɛj][sound:fr_2e52f72c4714.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+新的 / new	nouveau / nouvelle<br>[nu.vo] / [nu.vɛl][sound:fr_95d9fddce3fc.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+美的；帅的 / beautiful; handsome	beau / belle<br>[bo] / [bɛl][sound:fr_6fa7341a1b1f.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+漂亮的 / pretty	joli / jolie<br>[ʒɔ.li][sound:fr_cf8c863727ed.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+好的；好吃的 / good	bon / bonne<br>[bɔ̃] / [bɔn][sound:fr_70f758b25cec.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+坏的；不好的 / bad	mauvais / mauvaise<br>[mɔ.vɛ] / [mɔ.vɛz][sound:fr_267da8470072.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+有趣的 / interesting	intéressant / intéressante<br>[ɛ̃.te.ʁɛ.sɑ̃] / [ɛ̃.te.ʁɛ.sɑ̃t][sound:fr_8c216effa6b1.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+容易的 / easy	facile / facile<br>[fa.sil][sound:fr_33b3e09e7a5c.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+难的 / difficult	difficile / difficile<br>[di.fi.sil][sound:fr_bcabc7b55c4e.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+幸福的 / happy	heureux / heureuse<br>[œ.ʁø] / [œ.ʁøz][sound:fr_38a05add2976.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+友好的 / kind, nice	gentil / gentille<br>[ʒɑ̃.ti] / [ʒɑ̃.tij][sound:fr_f766ca099b14.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+人好的（口语） / nice, friendly (informal)	sympa<br>[sɛ̃.pa][sound:fr_1ee73a5c8378.mp3]	French::A1::L08	法语 French::A1::L08 形容词的性数配合与位置
+欧元 / euro	un euro<br>[ø.ʁo][sound:fr_2fffbb3e6be3.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+美元 / dollar	un dollar<br>[dɔ.laʁ][sound:fr_48e3d7163e5f.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+号码 / number (phone, room…)	un numéro<br>[ny.me.ʁo][sound:fr_051b01f17ecf.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+电话号码 / phone number	un numéro de téléphone[sound:fr_109d3c8bfaef.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+多少钱？ / How much is it?	Ça coûte combien ?<br>[sa kut kɔ̃.bjɛ̃][sound:fr_1fcf3741fda3.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+好贵！ / It's expensive!	C'est cher !<br>[sɛ ʃɛʁ][sound:fr_3a8ea21ddad8.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+加 / plus	plus<br>[plys][sound:fr_ac89553a041f.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+减 / minus	moins<br>[mwɛ̃][sound:fr_19b1f893a4a0.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+等于 / equals	égale<br>[e.ɡal][sound:fr_90014005caac.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+0 / zero	zéro<br>[ze.ʁo][sound:fr_e305bb62fb9f.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+11 / eleven	onze<br>[ɔ̃z][sound:fr_ca0d00ecd375.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+12 / twelve	douze<br>[duz][sound:fr_cd03167c871a.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+13 / thirteen	treize<br>[tʁɛz][sound:fr_8fa7be4aa4cc.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+14 / fourteen	quatorze<br>[ka.tɔʁz][sound:fr_95373c1edf26.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+15 / fifteen	quinze<br>[kɛ̃z][sound:fr_a6d0de2cbded.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+16 / sixteen	seize<br>[sɛz][sound:fr_e9182b056803.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+17 / seventeen	dix-sept<br>[di.sɛt][sound:fr_94201bfa9e28.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+18 / eighteen	dix-huit<br>[di.zɥit][sound:fr_420032967d96.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+19 / nineteen	dix-neuf<br>[diz.nœf][sound:fr_930686657cbb.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+20 / twenty	vingt<br>[vɛ̃][sound:fr_e3ac1a2cd8f3.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+21 / twenty-one	vingt et un<br>[vɛ̃.te.œ̃][sound:fr_0d275803d7be.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+30 / thirty	trente<br>[tʁɑ̃t][sound:fr_3dc439077f2f.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+40 / forty	quarante<br>[ka.ʁɑ̃t][sound:fr_fc11ca96e3d0.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+50 / fifty	cinquante<br>[sɛ̃.kɑ̃t][sound:fr_9769fcce76ef.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+60 / sixty	soixante<br>[swa.sɑ̃t][sound:fr_3bd883cda6a3.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+70 / seventy	soixante-dix<br>[swa.sɑ̃t.dis][sound:fr_fa596103f0ee.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+71 / seventy-one	soixante et onze<br>[swa.sɑ̃.te.ɔ̃z][sound:fr_048f2cb3ac5e.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+80 / eighty	quatre-vingts<br>[ka.tʁə.vɛ̃][sound:fr_db12f238f64d.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+81 / eighty-one	quatre-vingt-un<br>[ka.tʁə.vɛ̃.œ̃][sound:fr_aac4457de3b3.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+90 / ninety	quatre-vingt-dix<br>[ka.tʁə.vɛ̃.dis][sound:fr_de33b91f9542.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+100 / one hundred	cent<br>[sɑ̃][sound:fr_d53ea9d32a2b.mp3]	French::A1::L09	法语 French::A1::L09 数字 0–100
+家庭；家人 / family	une famille<br>[fa.mij][sound:fr_36ef42071e60.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+丈夫 / husband	un mari<br>[ma.ʁi][sound:fr_8ae90d73c9c2.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+妻子（也是"女人"） / wife (also woman)	une femme<br>[fam][sound:fr_6e06c3ac9197.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+儿子 / son	un fils<br>[fis]<br><small>⚠️ l 不发音，s 发音</small>[sound:fr_bb7db142b417.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+女儿（也是"女孩"） / daughter (also girl)	une fille<br>[fij][sound:fr_14bfca8dca84.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+祖父；外祖父 / grandfather	un grand-père<br>[ɡʁɑ̃.pɛʁ][sound:fr_712661d019f6.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+祖母；外祖母 / grandmother	une grand-mère<br>[ɡʁɑ̃.mɛʁ][sound:fr_8f50dc52f264.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+叔叔；舅舅 / uncle	un oncle<br>[ɔ̃kl][sound:fr_d140da73ed2c.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+阿姨；姑姑 / aunt	une tante<br>[tɑ̃t][sound:fr_bce76bff5182.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+堂/表兄弟；堂/表姐妹 / cousin	un cousin / une cousine<br>[ku.zɛ̃] / [ku.zin][sound:fr_21d2e62e1aad.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+朋友；男/女朋友（口语） / friend; boyfriend / girlfriend	un copain / une copine<br>[kɔ.pɛ̃] / [kɔ.pin][sound:fr_db61743d479e.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+照片 / photo	une photo<br>[fɔ.to][sound:fr_a659e8380c57.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+这是…… / Here is …	Voici …<br>[vwa.si][sound:fr_bee52dfa7b22.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+他/她叫…… / His / Her name is …	Il / Elle s'appelle …<br>[il / ɛl sa.pɛl][sound:fr_c4a6b5134be6.mp3]	French::A1::L10	法语 French::A1::L10 主有形容词 mon / ma / mes
+电影院 / cinema	le cinéma<br>[si.ne.ma][sound:fr_3ce4ae9b2224.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+餐厅 / restaurant	le restaurant<br>[ʁɛs.tɔ.ʁɑ̃][sound:fr_12f547d7ddbe.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+超市 / supermarket	le supermarché<br>[sy.pɛʁ.maʁ.ʃe][sound:fr_0e13dafeb9a7.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+商店 / shop	le magasin<br>[ma.ɡa.zɛ̃][sound:fr_67e28c42873c.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+公园 / park	le parc<br>[paʁk][sound:fr_eb2084604022.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+办公室 / office	le bureau<br>[by.ʁo][sound:fr_75c7f2d11f32.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+银行 / bank	la banque<br>[bɑ̃k][sound:fr_41a532ca0fc2.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+火车站 / train station	la gare<br>[ɡaʁ][sound:fr_70a8b3cc0c8b.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+图书馆 / library	la bibliothèque<br>[bi.bli.jɔ.tɛk][sound:fr_f0ba3917f56a.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+海滩 / beach	la plage<br>[plaʒ][sound:fr_0126a09ae925.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+大学 / university	l'université (f.)<br>[y.ni.vɛʁ.si.te][sound:fr_5a5550863ac9.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+医院 / hospital	l'hôpital (m.)<br>[o.pi.tal][sound:fr_ec1ea4f48eec.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+洗手间 / toilet, restroom	les toilettes (f. pl.)<br>[twa.lɛt][sound:fr_71e2d9067a85.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+公交车 / bus	un bus<br>[bys][sound:fr_119b523ad0fc.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+火车 / train	un train<br>[tʁɛ̃][sound:fr_020a6c78e2d2.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+飞机 / plane	un avion<br>[a.vjɔ̃][sound:fr_1fe0fba41d62.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+走路 / on foot	à pied<br>[a pje][sound:fr_edbe921076cd.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+在/去……家 / at …'s place	chez<br>[ʃe][sound:fr_b55d1e223138.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+足球 / soccer	le foot<br>[fut][sound:fr_fc390197edfa.mp3]	French::A1::L11	法语 French::A1::L11 aller（去）与 à 的缩合
+中国 / China	la Chine<br>[ʃin]<br><small>国籍 m. / f.: chinois / chinoise</small>[sound:fr_d84a18de058d.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+法国 / France	la France<br>[fʁɑ̃s]<br><small>国籍 m. / f.: français / française</small>[sound:fr_441b0608444f.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+美国 / the United States	les États-Unis (m. pl.)<br>[e.ta.zy.ni]<br><small>国籍 m. / f.: américain / américaine</small>[sound:fr_861959db8481.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+日本 / Japan	le Japon<br>[ʒa.pɔ̃]<br><small>国籍 m. / f.: japonais / japonaise [ʒa.pɔ.nɛ(z)]</small>[sound:fr_6b1dd0ee14be.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+韩国 / (South) Korea	la Corée (du Sud)<br>[kɔ.ʁe]<br><small>国籍 m. / f.: coréen / coréenne [kɔ.ʁe.ɛ̃] / [kɔ.ʁe.ɛn]</small>[sound:fr_b48981cb31a1.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+加拿大 / Canada	le Canada<br>[ka.na.da]<br><small>国籍 m. / f.: canadien / canadienne [ka.na.djɛ̃] / [ka.na.djɛn]</small>[sound:fr_3fd17d6292f8.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+英格兰 / England	l'Angleterre (f.)<br>[ɑ̃.ɡlə.tɛʁ]<br><small>国籍 m. / f.: anglais / anglaise</small>[sound:fr_b56a51899cc5.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+德国 / Germany	l'Allemagne (f.)<br>[al.maɲ]<br><small>国籍 m. / f.: allemand / allemande [al.mɑ̃(d)]</small>[sound:fr_e814816a2808.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+西班牙 / Spain	l'Espagne (f.)<br>[ɛs.paɲ]<br><small>国籍 m. / f.: espagnol / espagnole [ɛs.pa.ɲɔl]</small>[sound:fr_d84fecf905c3.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+意大利 / Italy	l'Italie (f.)<br>[i.ta.li]<br><small>国籍 m. / f.: italien / italienne</small>[sound:fr_69a550b89d18.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+墨西哥 / Mexico	le Mexique<br>[mɛk.sik]<br><small>国籍 m. / f.: mexicain / mexicaine</small>[sound:fr_a47b21a5ef0c.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+来 / to come	venir<br>[və.niʁ][sound:fr_5933c91c8909.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+回来 / to come back	revenir<br>[ʁəv.niʁ][sound:fr_fdd8099e763c.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+变成 / to become	devenir<br>[dəv.niʁ][sound:fr_2c6ccee9340c.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+钢琴 / piano	le piano<br>[pja.no][sound:fr_40e01a288e39.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+吉他 / guitar	la guitare<br>[ɡi.taʁ][sound:fr_f52999eef8ce.mp3]	French::A1::L12	法语 French::A1::L12 venir（来）、de 的缩合、国家前的介词
+天气；时间 / weather; time	le temps<br>[tɑ̃][sound:fr_50d875366bcb.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+太阳 / sun	le soleil<br>[sɔ.lɛj][sound:fr_eb3230fe0ee7.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+风 / wind	le vent<br>[vɑ̃][sound:fr_c5e0ac50b33b.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+云 / cloud	un nuage<br>[nɥaʒ][sound:fr_3f9518f1bc0e.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+雨 / rain	la pluie<br>[plɥi][sound:fr_67bdf5f892b0.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+雪 / snow	la neige<br>[nɛʒ][sound:fr_4b15fe08bcbb.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+温和的；柔软的 / mild; soft	doux / douce<br>[du] / [dus][sound:fr_7adb493d70ce.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+度 / degree	un degré<br>[də.ɡʁe][sound:fr_447b693eed41.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+春天 / spring	le printemps<br>[pʁɛ̃.tɑ̃]<br><small>au printemps</small>[sound:fr_4ac6c24d84e3.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+夏天 / summer	l'été (m.)<br>[e.te]<br><small>en été</small>[sound:fr_dfc276bb9a29.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+秋天 / autumn	l'automne (m.)<br>[o.tɔn]<br><small>en automne；m 不发音</small>[sound:fr_2c8a9df46785.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+冬天 / winter	l'hiver (m.)<br>[i.vɛʁ]<br><small>en hiver</small>[sound:fr_7aca7e0bad79.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+做饭	faire la cuisine<br>[fɛʁ la kɥi.zin][sound:fr_d8ab3131b987.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+买东西	faire les courses<br>[fɛʁ le kuʁs][sound:fr_05e39e2d0cc9.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+打扫卫生	faire le ménage<br>[fɛʁ lə me.naʒ][sound:fr_00b8a95c8773.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+做作业	faire ses devoirs<br>[fɛʁ se də.vwaʁ][sound:fr_3ad9ff0e4ced.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+散步	faire une promenade<br>[fɛʁ yn pʁɔm.nad][sound:fr_8a734185ae2a.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+做运动	faire du sport<br>[fɛʁ dy spɔʁ][sound:fr_77ad9eaa9d95.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+天气怎么样？ / What's the weather like?	Quel temps fait-il ?<br>[kɛl tɑ̃ fɛ.til][sound:fr_eb875b0187e4.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+天气好 / 不好。 / The weather is nice / bad.	Il fait beau / mauvais.<br>[il fɛ bo / mɔ.vɛ][sound:fr_32c2f5378f10.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+天气热 / 冷。 / It's hot / cold.	Il fait chaud / froid.<br>[il fɛ ʃo / fʁwa][sound:fr_7ad730b84cfd.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+下雨。 / It's raining.	Il pleut.<br>[il plø][sound:fr_07830bb98a14.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+下雪。 / It's snowing.	Il neige.<br>[il nɛʒ][sound:fr_ccb230868f1e.mp3]	French::A1::L13	法语 French::A1::L13 faire（做）与天气
+小时；点钟 / hour; o'clock	une heure<br>[œʁ][sound:fr_7679c9c1904d.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+分钟 / minute	une minute<br>[mi.nyt][sound:fr_de512477e779.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+天 / day	un jour<br>[ʒuʁ][sound:fr_26fac7bf926e.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期，周 / week	une semaine<br>[sə.mɛn][sound:fr_cfc7e6966cb8.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+月 / month	un mois<br>[mwa][sound:fr_d56da89f1ad1.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+周末 / weekend	le week-end<br>[wi.kɛnd][sound:fr_09a3b6968bef.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+今天 / today	aujourd'hui<br>[o.ʒuʁ.dɥi][sound:fr_cf7a521c890c.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+明天 / tomorrow	demain<br>[də.mɛ̃][sound:fr_d21f5a1785b5.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+昨天 / yesterday	hier<br>[jɛʁ][sound:fr_71c796885965.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+早上 / morning	le matin<br>[ma.tɛ̃][sound:fr_187fcfe9f933.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+下午 / afternoon	l'après-midi (m.)<br>[a.pʁɛ.mi.di][sound:fr_b0685c8d0d30.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+晚上 / evening	le soir<br>[swaʁ][sound:fr_83cbe78ef42e.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+夜里 / night	la nuit<br>[nɥi][sound:fr_c9f3194536c2.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+中午 / 半夜 / noon / midnight	midi / minuit<br>[mi.di] / [mi.nɥi][sound:fr_425aea405f1e.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+开始 / to begin	commencer<br>[kɔ.mɑ̃.se][sound:fr_c7e184f2ca87.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期一 / Monday	lundi<br>[lœ̃.di]<br><small>小写，阳性</small>[sound:fr_5f24640161bf.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期二 / Tuesday	mardi<br>[maʁ.di]<br><small>小写，阳性</small>[sound:fr_9293af6f6ba8.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期三 / Wednesday	mercredi<br>[mɛʁ.kʁə.di]<br><small>小写，阳性</small>[sound:fr_acd1c825b060.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期四 / Thursday	jeudi<br>[ʒø.di]<br><small>小写，阳性</small>[sound:fr_925a342942b1.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期五 / Friday	vendredi<br>[vɑ̃.dʁə.di]<br><small>小写，阳性</small>[sound:fr_e8fbaf332566.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期六 / Saturday	samedi<br>[sam.di]<br><small>小写，阳性</small>[sound:fr_836822aef60b.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+星期日 / Sunday	dimanche<br>[di.mɑ̃ʃ]<br><small>小写，阳性</small>[sound:fr_8422cb3e387c.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+一月 / January	janvier<br>[ʒɑ̃.vje][sound:fr_6209f2aa685e.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+二月 / February	février<br>[fe.vʁi.je][sound:fr_756eb256f2de.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+三月 / March	mars<br>[maʁs]<br><small>s 发音</small>[sound:fr_8809275410d0.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+四月 / April	avril<br>[a.vʁil][sound:fr_ce073daa5fcd.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+五月 / May	mai<br>[mɛ][sound:fr_f2596531cb4c.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+六月 / June	juin<br>[ʒɥɛ̃][sound:fr_19b0627e08ed.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+七月 / July	juillet<br>[ʒɥi.jɛ][sound:fr_219686cf8ba0.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+八月 / August	août<br>[u] / [ut][sound:fr_44676ed20797.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+九月 / September	septembre<br>[sɛp.tɑ̃bʁ]<br><small>p 发音</small>[sound:fr_36eec0b03da9.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+十月 / October	octobre<br>[ɔk.tɔbʁ][sound:fr_2676b87c4fd6.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+十一月 / November	novembre<br>[nɔ.vɑ̃bʁ][sound:fr_62775d281982.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+十二月 / December	décembre<br>[de.sɑ̃bʁ][sound:fr_988f72b59caf.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+几点了？ / What time is it?	Quelle heure est-il ?<br>[kɛ.lœ.ʁɛ.til][sound:fr_6d4362f57fc4.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+一刻 / 半 / quarter past / half past	et quart / et demie<br>[e kaʁ] / [e də.mi][sound:fr_5cdd1ce2b5de.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+差一刻 / quarter to	moins le quart<br>[mwɛ̃ lə kaʁ][sound:fr_55ebcc6da485.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+1 号 / the 1st	le premier (1er)<br>[lə pʁə.mje]<br><small>其他日子用普通数字</small>[sound:fr_427aa7b882bf.mp3]	French::A1::L14	法语 French::A1::L14 时间、星期、月份、日期
+米饭 / rice	le riz<br>[ʁi]<br><small>⚠️ z 不发音</small>[sound:fr_3cef5d356768.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+意大利面 / pasta	les pâtes (f. pl.)<br>[pat][sound:fr_59e325333f48.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+汤 / soup	la soupe<br>[sup][sound:fr_15297e640f0a.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+蔬菜 / vegetables	les légumes (m. pl.)<br>[le.ɡym][sound:fr_1bab86fb007f.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+水果 / fruit	les fruits (m. pl.)<br>[fʁɥi][sound:fr_bddebc671cdc.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+鸡蛋 / egg / eggs	un œuf / des œufs<br>[œ̃.nœf] / [de.zø]<br><small>⚠️</small>[sound:fr_47ad44ed3bf5.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+糖 / sugar	le sucre<br>[sykʁ][sound:fr_343a9681e761.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+盐 / salt	le sel<br>[sɛl][sound:fr_2a8e1350ec79.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+黄油 / butter	le beurre<br>[bœʁ][sound:fr_d316b83e1ee9.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+橙汁 / orange juice	le jus d'orange<br>[ʒy dɔ.ʁɑ̃ʒ][sound:fr_63bd0ca8361a.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+啤酒 / beer	la bière<br>[bjɛʁ][sound:fr_d0a6d45a660a.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+一杯（玻璃杯） / a glass (of)	un verre (de)<br>[vɛʁ][sound:fr_a139b2bf4829.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+一杯（茶杯） / a cup (of)	une tasse (de)<br>[tas][sound:fr_f160ae99c605.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+一瓶 / a bottle (of)	une bouteille (de)<br>[bu.tɛj][sound:fr_270c73135471.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+一公斤 / a kilo (of)	un kilo (de)<br>[ki.lo][sound:fr_2af6e5d98c37.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+一点 / a little	un peu (de)<br>[œ̃ pø][sound:fr_9affbe71bc54.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+太多 / too much	trop (de)<br>[tʁo][sound:fr_7ea59f4e672a.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+足够 / enough	assez (de)<br>[a.se][sound:fr_5352429b1f24.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+喝 / to drink	boire<br>[bwaʁ]<br><small>je bois, nous buvons, ils boivent</small>[sound:fr_5a0bec22edb4.mp3]	French::A1::L15	法语 French::A1::L15 部分冠词 du / de la / de l' / des
+完成，结束 / to finish	finir<br>[fi.niʁ]<br><small>类型: -ir (iss)</small>[sound:fr_0c78eefab94b.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+选择 / to choose	choisir<br>[ʃwa.ziʁ]<br><small>类型: -ir (iss)</small>[sound:fr_a95d21d30106.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+成功；通过 / to succeed; to pass	réussir<br>[ʁe.y.siʁ]<br><small>类型: -ir (iss)</small>[sound:fr_cb2f0f0892aa.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+思考 / to think (it over)	réfléchir<br>[ʁe.fle.ʃiʁ]<br><small>类型: -ir (iss)</small>[sound:fr_2d8c36c746d1.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+长大 / to grow up	grandir<br>[ɡʁɑ̃.diʁ]<br><small>类型: -ir (iss)</small>[sound:fr_7ba643884c1a.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+出发，离开 / to leave	partir<br>[paʁ.tiʁ]<br><small>类型: partir 型</small>[sound:fr_266421d46086.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+出去 / to go out	sortir<br>[sɔʁ.tiʁ]<br><small>类型: partir 型</small>[sound:fr_592312b456dc.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+睡觉 / to sleep	dormir<br>[dɔʁ.miʁ]<br><small>类型: partir 型</small>[sound:fr_8822094722f8.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+等 / to wait (for)	attendre<br>[a.tɑ̃dʁ]<br><small>类型: -re</small>[sound:fr_630b1812ab85.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+卖 / to sell	vendre<br>[vɑ̃dʁ]<br><small>类型: -re</small>[sound:fr_1ed3746f9a62.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+回答 / to answer	répondre (à)<br>[ʁe.pɔ̃dʁ]<br><small>类型: -re</small>[sound:fr_24eafa9c20d3.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+听见 / to hear	entendre<br>[ɑ̃.tɑ̃dʁ]<br><small>类型: -re</small>[sound:fr_c615821ae7c6.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+丢失；输 / to lose	perdre<br>[pɛʁdʁ]<br><small>类型: -re</small>[sound:fr_a969a2f609be.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+下来；下车 / to go down; to get off	descendre<br>[de.sɑ̃dʁ]<br><small>类型: -re</small>[sound:fr_da6622efa225.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+考试 / exam	un examen<br>[ɛɡ.za.mɛ̃][sound:fr_aa30d29c6ca4.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+问题 / question	une question<br>[kɛs.tjɔ̃][sound:fr_b5a9d4d39902.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+答案；回答 / answer	une réponse<br>[ʁe.pɔ̃s][sound:fr_3c126b183c0e.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+婴儿 / baby	un bébé<br>[be.be][sound:fr_612b8d873070.mp3]	French::A1::L16	法语 French::A1::L16 第二组 -ir 动词与 -re 动词
+想要 / to want	vouloir<br>[vu.lwaʁ][sound:fr_f0cb11920a5d.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+能，可以 / can, to be able to	pouvoir<br>[pu.vwaʁ][sound:fr_3d2edffe1a75.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+必须；欠 / must; to owe	devoir<br>[də.vwaʁ][sound:fr_5bd408c09e8b.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+意思是 / to mean	vouloir dire<br>[vu.lwaʁ diʁ][sound:fr_2e9183be924b.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+帮助 / to help	aider<br>[e.de][sound:fr_d6302fb3e2d6.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+重复 / to repeat	répéter<br>[ʁe.pe.te][sound:fr_2346109387ef.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+抽烟 / to smoke	fumer<br>[fy.me][sound:fr_5568f4d84d5d.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+进入 / to enter	entrer<br>[ɑ̃.tʁe][sound:fr_7f359d1b9ede.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+我想要…… / I would like …	Je voudrais …<br>[ʒə vu.dʁɛ][sound:fr_fcac3d318544.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+请（对 vous） / please (formal)	s'il vous plaît<br>[sil vu plɛ][sound:fr_fef45f4c5ced.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+请（对 tu） / please (informal)	s'il te plaît<br>[sil tə plɛ][sound:fr_0c14799f7d25.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+好的。 / OK.	D'accord.<br>[da.kɔʁ][sound:fr_fbd927f0555f.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+当然！ / Of course!	Bien sûr !<br>[bjɛ̃ syʁ][sound:fr_6867a87fa179.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+对不起。 / Sorry.	Désolé(e).<br>[de.zɔ.le][sound:fr_33a6c8754500.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+也许 / maybe	peut-être<br>[pø.tɛtʁ][sound:fr_5d4c739f7ee4.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+一起 / together	ensemble<br>[ɑ̃.sɑ̃bl][sound:fr_fa6ff86c8bb1.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+慢慢地 / slowly	lentement<br>[lɑ̃t.mɑ̃][sound:fr_675eba068578.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+慢一点 / more slowly	plus lentement<br>[ply lɑ̃t.mɑ̃][sound:fr_c46bff31d24b.mp3]	French::A1::L17	法语 French::A1::L17 vouloir（想要）/ pouvoir（能）/ devoir（必须）
+拿；坐；吃喝 / to take	prendre<br>[pʁɑ̃dʁ][sound:fr_49be7f9d3e15.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+学习 / to learn	apprendre<br>[a.pʁɑ̃dʁ][sound:fr_3e701687f1a9.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+理解，明白 / to understand	comprendre<br>[kɔ̃.pʁɑ̃dʁ][sound:fr_3df1d895c1e9.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+放；穿 / to put; to put on	mettre<br>[mɛtʁ][sound:fr_b97978be233b.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+看见 / to see	voir<br>[vwaʁ][sound:fr_96e4e340e80e.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+说 / to say, to tell	dire<br>[diʁ][sound:fr_916f56e42936.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+早餐 / breakfast	le petit-déjeuner<br>[pə.ti.de.ʒœ.ne][sound:fr_3838f45a6685.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+午餐 / lunch	le déjeuner<br>[de.ʒœ.ne][sound:fr_8cd49cc16b04.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+晚餐 / dinner	le dîner<br>[di.ne][sound:fr_513107455c63.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+淋浴 / shower	une douche<br>[duʃ][sound:fr_b00eb240f92a.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+大衣 / coat	un manteau<br>[mɑ̃.to][sound:fr_1b38b8609961.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+工作 / work, job	le travail<br>[tʁa.vaj][sound:fr_be7987c629a1.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+词，单词 / word	un mot<br>[mo]<br><small>⚠️ t 不发音</small>[sound:fr_c6ca03df3429.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+真相，实话 / truth	la vérité<br>[ve.ʁi.te][sound:fr_0ae2b5b01f64.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+我不明白。 / I don't understand.	Je ne comprends pas.[sound:fr_d59c94c6f6c8.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+……用法语怎么说？ / How do you say … in French?	Comment dit-on … en français ?[sound:fr_90e05baf924d.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+我明白了。 / I see.	Je vois.[sound:fr_baef5aecf0dd.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+明天见！ / See you tomorrow!	On se voit demain ![sound:fr_814a0b3e827b.mp3]	French::A1::L18	法语 French::A1::L18 常用不规则动词 prendre / mettre / voir / dire
+旅行 / to travel	voyager<br>[vwa.ja.ʒe][sound:fr_a6a20f3eb414.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+参观（地方） / to visit (a place)	visiter<br>[vi.zi.te][sound:fr_a01f1de7dc6d.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+买 / to buy	acheter<br>[aʃ.te][sound:fr_711a5aa99100.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+打电话（给） / to call	téléphoner (à)<br>[te.le.fɔ.ne][sound:fr_57c2c14ca748.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+邀请 / to invite	inviter<br>[ɛ̃.vi.te][sound:fr_9c6825e8033c.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+回家；返回 / to go home; to return	rentrer<br>[ʁɑ̃.tʁe][sound:fr_04c7c87a7a40.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+下雨 / to rain	pleuvoir<br>[plø.vwaʁ][sound:fr_40952c69b53c.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+下一个 / next	prochain / prochaine<br>[pʁɔ.ʃɛ̃] / [pʁɔ.ʃɛn][sound:fr_d6a6e18d7fd9.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+上一个；最后的 / last	dernier / dernière<br>[dɛʁ.nje] / [dɛʁ.njɛʁ][sound:fr_08f5b9226a1a.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+很快 / soon	bientôt<br>[bjɛ̃.to][sound:fr_2965d7615e31.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+马上 / right away	tout de suite<br>[tut.sɥit][sound:fr_9b52672673ad.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+……之后 / in (+ time)	dans (+ 时间)<br>[dɑ̃][sound:fr_cacac1d2774b.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+年 / year	une année<br>[a.ne][sound:fr_e09e36bf7f44.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+正在 / in the middle of	en train de<br>[ɑ̃ tʁɛ̃ də][sound:fr_3153e9599444.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+生日；纪念日 / birthday	un anniversaire<br>[a.ni.vɛʁ.sɛʁ][sound:fr_08aaaaa6b7a1.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+节日；派对 / party; holiday	une fête<br>[fɛt][sound:fr_ffde5b39ad30.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+假期 / vacation	les vacances (f. pl.)<br>[va.kɑ̃s][sound:fr_3c0005814764.mp3]	French::A1::L19	法语 French::A1::L19 最近将来时与最近过去时
+毛衣 / sweater	un pull<br>[pyl][sound:fr_fad1bcb1943c.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+衬衫 / shirt	une chemise<br>[ʃə.miz][sound:fr_be66aedd38ca.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+裤子 / pants, trousers	un pantalon<br>[pɑ̃.ta.lɔ̃][sound:fr_a4b280544d76.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+连衣裙 / dress	une robe<br>[ʁɔb][sound:fr_180dd388e736.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+裙子 / skirt	une jupe<br>[ʒyp][sound:fr_0acfc93032d4.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+鞋 / shoes	des chaussures (f.)<br>[ʃo.syʁ][sound:fr_145afb5e84a8.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+T 恤 / T-shirt	un t-shirt<br>[ti.ʃœʁt][sound:fr_cfb24f5fa418.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+更喜欢 / to prefer	préférer<br>[pʁe.fe.ʁe][sound:fr_c6d284b9d6fc.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+忘记 / to forget	oublier<br>[u.bli.je][sound:fr_d10eaef91101.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+尝试；试穿 / to try; to try on	essayer<br>[e.se.je][sound:fr_1bd7f2eeafae.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+小心！ / Watch out!	Attention !<br>[a.tɑ̃.sjɔ̃][sound:fr_df7efa2ce6bb.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+打扰一下；对不起。 / Excuse me.	Excusez-moi.<br>[ɛks.ky.ze.mwa][sound:fr_803b12cda324.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+我们走吧！ / Let's go!	Allons-y !<br>[a.lɔ̃.zi][sound:fr_fa4eb090c3c8.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+请进！ / Come in!	Entrez ![sound:fr_43ceefa08d5c.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+来！ / Come!	Viens ! / Venez ![sound:fr_91826061c992.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+等等！ / Wait!	Attends ! / Attendez ![sound:fr_0b34f0f52bfb.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式
+别忘了！ / Don't forget!	N'oublie pas ![sound:fr_1ec0a281b22b.mp3]	French::A1::L20	法语 French::A1::L20 指示形容词与命令式

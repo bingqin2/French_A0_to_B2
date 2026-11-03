@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>{{TITLE}}</title>
+<link rel="stylesheet" href="{{UP}}site.css">
+</head>
+<body>
+<header class="bar">
+  <a class="home" href="{{UP}}index.html">🏠 法语 A0 → B2</a>
+  <span class="controls">
+    <label>🔊 声音
+      <select id="src">
+        <option value="google">Google 在线</option>
+        <option value="browser">浏览器语音</option>
+        <option value="mp3">本地录音</option>
+      </select>
+    </label>
+    <label>速度
+      <select id="rate">
+        <option value="1">正常 1×</option>
+        <option value="0.8">稍慢 0.8×</option>
+        <option value="0.6">慢速 0.6×</option>
+      </select>
+    </label>
+  </span>
+</header>
+<main>
+{{DICTATION}}
+{{BODY}}
+</main>
+<script src="{{UP}}site.js"></script>
+</body>
+</html>
