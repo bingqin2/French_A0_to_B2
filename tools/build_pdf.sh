@@ -67,5 +67,18 @@ md_to_html "$ROOT/词汇_Vocabulary/00_重要单词_Important_words.md" "$TMP/im
 html_to_pdf "$TMP/important.html" "$OUT/词汇_Vocabulary/00_重要单词_Important_words.pdf"
 echo "✓ 词汇_Vocabulary/00_重要单词_Important_words.pdf"
 
+# Daily lists: one printable PDF, one day per page (no web-only links/buttons)
+DAILY_MD="$TMP/daily.md"
+cat "$ROOT/词汇_Vocabulary/00_每日单词_Daily_words.md" | grep -v 'Anki：' \
+  | sed -E 's#\[(Day [0-9]+)\]\([^)]*\)#\1#; s# <span class="daymark"[^>]*></span> # ☐ #' > "$DAILY_MD"
+for md in "$ROOT/词汇_Vocabulary/每日单词_Daily"/Day_*.md; do
+  printf '\n\n<div class="lesson-break"></div>\n\n' >> "$DAILY_MD"
+  grep -v -e '^\[← Day' -e '^\[📅' -e 'class="daydone"' -e '^> \*Today' "$md" \
+    | sed -E 's/ 再用上面的 🎧 听写练习。/ 遮住法语，看中文说出法语。/; s#\[(Day [0-9]+)\]\(Day_[0-9]+\.md\)#\1#g' >> "$DAILY_MD"
+done
+md_to_html "$DAILY_MD" "$TMP/daily.html"
+html_to_pdf "$TMP/daily.html" "$OUT/词汇_Vocabulary/00_每日单词_Daily_words.pdf"
+echo "✓ 词汇_Vocabulary/00_每日单词_Daily_words.pdf"
+
 # Website (docs/) for GitHub Pages
 python3 "$ROOT/tools/build_site.py"

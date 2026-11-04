@@ -39,3 +39,8 @@ a.forvo:hover { opacity: 1; }
 #dictation .result { margin-top: .4rem; min-height: 1.5em; }
 #dictation .ok { color: #1a8a3a; } #dictation .no { color: #c0392b; }
 .stars { font-size: .7em; white-space: nowrap; }
+.daydone { margin: 1.5rem 0; }
+.daydone button { font: inherit; font-size: 1.05rem; padding: .5rem 1.1rem; cursor: pointer;
+  border-radius: 8px; border: 2px solid var(--accent); background: var(--bg); color: var(--fg); }
+.daydone button.done { background: #e3f6e8; border-color: #1a8a3a; color: #1a5a2a; }
+td:first-child a[href*="Day_"] { white-space: nowrap; }

@@ -252,6 +252,8 @@ def all_words():
 def anki_line(r, tag, deck, level):
     t, stars, _ = tier(r["fr"], level)
     tag += " " + ["importance::1_core", "importance::2_common", "importance::3_extra"][t]
+    if r["fr"] in DAY_OF:
+        tag += f" day::{DAY_OF[r['fr']]:02d}"
     front = " / ".join(x for x in (r["zh"], r["en"]) if x)
     sound = audio_name(r["fr"])
     back = r["fr"] + (f"<br>{r['ipa']}" if r["ipa"] else "") + f"<br><small>{stars}</small>" + \
@@ -261,6 +263,8 @@ def anki_line(r, tag, deck, level):
 
 
 def main():
+    global DAY_OF
+    DAY_OF = {r["fr"]: d for d, words in enumerate(daily_plan(), 1) for _, _, r in words}
     for level in LEVELS:
         lessons = sorted(glob.glob(os.path.join(ROOT, level, "L*.md")))
         if not lessons:
@@ -282,6 +286,92 @@ def main():
         open(os.path.join(OUT, "Anki", f"{level}_Anki.txt"), "w", encoding="utf-8").write("\n".join(anki) + "\n")
         print(f"✓ Anki/{level}_Anki.txt  ({len(anki) - 5} cards)")
     write_important()
+    write_daily()
+
+
+DAY_OF = {}
+PER_DAY = 20
+DAILY = "每日单词_Daily"
+
+
+def ranked_words():
+    """Every word once, most important first (tier, then level, then lesson order)."""
+    seen, by_tier = set(), {0: [], 1: [], 2: []}
+    for level, num, r in all_words():
+        if r["fr"] in seen:
+            continue
+        seen.add(r["fr"])
+        by_tier[tier(r["fr"], level)[0]].append((level, num, r))
+    return by_tier
+
+
+def daily_plan():
+    """Split the ranked list into days of PER_DAY words."""
+    words = [w for i in range(3) for w in ranked_words()[i]]
+    return [words[i:i + PER_DAY] for i in range(0, len(words), PER_DAY)]
+
+
+def lesson_files():
+    titles = {}
+    for level in LEVELS:
+        for p in glob.glob(os.path.join(ROOT, level, "L*.md")):
+            titles[int(re.match(r"L(\d+)", os.path.basename(p)).group(1))] = (level, os.path.basename(p))
+    return titles
+
+
+def write_daily():
+    """One short list per day: 词汇_Vocabulary/每日单词_Daily/Day_NN.md + an index page."""
+    days = daily_plan()
+    n = len(days)
+    out = os.path.join(OUT, DAILY)
+    os.makedirs(out, exist_ok=True)
+    for old in glob.glob(os.path.join(out, "Day_*.md")):
+        os.remove(old)
+    index = ["# 每日单词 / One List a Day", "",
+             f"> 全部 {sum(map(len, days))} 个单词分成 **{n} 天**，每天 **{PER_DAY} 个**，"
+             "最重要的在前面：先学完全部 ⭐⭐⭐ 核心词，再学 ⭐⭐ 和 ⭐。  ",
+             f"> *All words split into {n} short lists of {PER_DAY}, most important first.*", "",
+             "💡 **每天怎么学 (about 15 min)**",
+             "1. 打开今天的列表，每个词点 🔊 听 2–3 遍，跟着读出声。",
+             "2. 用页面最上面的 🎧 听写练习，练到大部分都能写对。",
+             "3. 复习页面上列出的前几天（第 1、3、7 天前学的词），每天各听写几个。",
+             "4. 点页面最下面的 **✅ 今天背完了**，这一页会打勾。",
+             "",
+             "Anki：在浏览器里搜 `tag:day::01` 就只看第 1 天的词（`tag:day::0*` 是第 1–9 天）。", "",
+             "| 天 Day | 单词 Words | 重要 | 进度 |", "|---|---|---|---|"]
+    for d, words in enumerate(days, 1):
+        stars = sorted({tier(r["fr"], lv)[1] for lv, _, r in words}, key=len, reverse=True)
+        preview = ", ".join(r["fr"].rstrip(" …") for _, _, r in words[:4]) + " …"
+        index.append(f"| [Day {d:02d}]({DAILY}/Day_{d:02d}.md) | {md_escape(preview)} | "
+                     f"{' '.join(stars)} | <span class=\"daymark\" data-day=\"{d}\"></span> |")
+        write_day(out, d, n, words)
+    index.append("")
+    open(os.path.join(OUT, "00_每日单词_Daily_words.md"), "w", encoding="utf-8").write("\n".join(index))
+    print(f"✓ 00_每日单词_Daily_words.md  ({n} days × {PER_DAY} words)")
+
+
+def write_day(out, d, n, words):
+    titles = lesson_files()
+    nav = []
+    if d > 1:
+        nav.append(f"[← Day {d - 1:02d}](Day_{d - 1:02d}.md)")
+    nav.append("[📅 全部天数 All days](../00_每日单词_Daily_words.md)")
+    if d < n:
+        nav.append(f"[Day {d + 1:02d} →](Day_{d + 1:02d}.md)")
+    review = [f"[Day {d - k:02d}](Day_{d - k:02d}.md)" for k in (1, 3, 7) if d - k >= 1]
+    lines = [f"# 第 {d} 天 / Day {d:02d}", "", " · ".join(nav), "",
+             f"> 今天的 {len(words)} 个新词。先点 🔊 听、跟读，再用上面的 🎧 听写练习。  ",
+             f"> *Today's {len(words)} new words. Listen, repeat, then use the dictation above.*", ""]
+    if review:
+        lines += ["🔁 **今天也复习 Also review:** " + " · ".join(review), ""]
+    lines += ["| 重要 | 法语 French | 中文 | English | 课 Lesson |", "|---|---|---|---|---|"]
+    for lv, num, r in words:
+        lv2, _ = titles[num]
+        link = f"[L{num:02d}](../{lv2}/L{num:02d}_词汇_Vocab.md)"
+        lines.append(f"| {tier(r['fr'], lv)[1]} | " + " | ".join(md_escape(x) for x in
+                     (f"**{r['fr']}**", r["zh"], r["en"])) + f" | {link} |")
+    lines += ["", f'<div class="daydone" data-day="{d}"></div>', "", " · ".join(nav), ""]
+    open(os.path.join(out, f"Day_{d:02d}.md"), "w", encoding="utf-8").write("\n".join(lines))
 
 
 def write_important():

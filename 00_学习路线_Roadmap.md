@@ -25,6 +25,7 @@
 
 ### 📒 词汇表和 Anki / Vocabulary lists & Anki
 - ⭐ **[重要单词 Most important words](词汇_Vocabulary/00_重要单词_Important_words.md)**：全部 1,300 多个词按重要程度排列。每个词都标了 **⭐⭐⭐ 核心 / ⭐⭐ 常用 / ⭐ 了解**（按法国人日常使用的频率）。**时间不够时，先背 ⭐⭐⭐！**
+- 📅 **[每日单词 One list a day](词汇_Vocabulary/00_每日单词_Daily_words.md)**：同样的词分成 62 天，每天 20 个，最重要的先学。每页有听写练习和 ✅ 打卡按钮；Anki 里搜 `tag:day::01` 只看当天的词。
   *Every word is rated by how often French people use it. Short on time? Learn the ⭐⭐⭐ words first.*
 - **每课的单词表**在 `词汇_Vocabulary/A1/`、`词汇_Vocabulary/A2/` 等文件夹里（例如 `L01_词汇_Vocab.md`），PDF 版在 `PDF/词汇_Vocabulary/`。
   *Each lesson's word list is in 词汇_Vocabulary/, with PDFs in PDF/词汇_Vocabulary/.*

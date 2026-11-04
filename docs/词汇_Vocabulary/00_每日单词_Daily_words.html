@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>每日单词 / One List a Day</title>
+<link rel="stylesheet" href="../site.css">
+</head>
+<body>
+<header class="bar">
+  <a class="home" href="../index.html">🏠 法语 A0 → B2</a>
+  <span class="controls">
+    <label>🔊 声音
+      <select id="src">
+        <option value="google">Google 在线</option>
+        <option value="browser">浏览器语音</option>
+        <option value="mp3">本地录音</option>
+      </select>
+    </label>
+    <label>速度
+      <select id="rate">
+        <option value="1">正常 1×</option>
+        <option value="0.8">稍慢 0.8×</option>
+        <option value="0.6">慢速 0.6×</option>
+      </select>
+    </label>
+  </span>
+</header>
+<main>
+<div id="dictation"></div>
+<h1 id="每日单词--one-list-a-day">每日单词 / One List a Day</h1>
+<blockquote>
+<p>全部 1224 个单词分成 <strong>62 天</strong>，每天 <strong>20
+个</strong>，最重要的在前面：先学完全部 ⭐⭐⭐ 核心词，再学 ⭐⭐ 和
+⭐。<br />
+<em>All words split into 62 short lists of 20, most important
+first.</em></p>
+</blockquote>
+<p>💡 <strong>每天怎么学 (about 15 min)</strong></p>
+<ol type="1">
+<li>打开今天的列表，每个词点 🔊 听 2–3 遍，跟着读出声。</li>
+<li>用页面最上面的 🎧 听写练习，练到大部分都能写对。</li>
+<li>复习页面上列出的前几天（第 1、3、7
+天前学的词），每天各听写几个。</li>
+<li>点页面最下面的 <strong>✅ 今天背完了</strong>，这一页会打勾。</li>
+</ol>
+<p>Anki：在浏览器里搜 <code>tag:day::01</code> 就只看第 1
+天的词（<code>tag:day::0*</code> 是第 1–9 天）。</p>
+<table>
+<thead>
+<tr>
+<th>天 Day</th>
+<th>单词 Words</th>
+<th>重要</th>
+<th>进度</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="每日单词_Daily/Day_01.html">Day 01</a></td>
+<td>un homme, une femme, un garçon, une fille …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="1"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_02.html">Day 02</a></td>
+<td>l'hôtel (m.), j'aime, je n'aime pas, j'adore …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="2"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_03.html">Day 03</a></td>
+<td>un enfant, un chien, un an, avoir faim …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="3"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_04.html">Day 04</a></td>
+<td>aimer, travailler, manger, écouter …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="4"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_05.html">Day 05</a></td>
+<td>pas encore, Pas de problème !, Ce n'est pas grave., Je ne sais pas.
+…</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="5"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_06.html">Day 06</a></td>
+<td>un pays, rouge / rouge, noir / noire, jeune / jeune …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="6"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_07.html">Day 07</a></td>
+<td>moins, zéro, onze, douze …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="7"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_08.html">Day 08</a></td>
+<td>quatre-vingt-un, quatre-vingt-dix, cent, une famille …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="8"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_09.html">Day 09</a></td>
+<td>revenir, devenir, le temps, le soleil …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="9"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_10.html">Day 10</a></td>
+<td>demain, hier, le matin, le soir …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="10"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_11.html">Day 11</a></td>
+<td>août, septembre, octobre, novembre …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="11"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_12.html">Day 12</a></td>
+<td>une question, une réponse, un bébé, vouloir …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="12"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_13.html">Day 13</a></td>
+<td>mettre, voir, dire, le dîner …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="13"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_14.html">Day 14</a></td>
+<td>une année, en train de, un anniversaire, une fête …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="14"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_15.html">Day 15</a></td>
+<td>écrire, ouvrir, trouver, monter …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="15"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_16.html">Day 16</a></td>
+<td>garder, quitter, un cadeau, donner (à) …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="16"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_17.html">Day 17</a></td>
+<td>On y va ! / Allons-y !, Vas-y ! / Allez-y !, Il y en a., Il n'y en a
+plus. …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="17"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_18.html">Day 18</a></td>
+<td>se passer, triste, du monde, fort / forte …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="18"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_19.html">Day 19</a></td>
+<td>trouver un travail, promis !, drôle, là-bas …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="19"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_20.html">Day 20</a></td>
+<td>il ne faut pas, il vaut mieux, ce n'est pas la peine (de), depuis
+…</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="20"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_21.html">Day 21</a></td>
+<td>ne … que, moi non plus, toujours, encore …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="21"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_22.html">Day 22</a></td>
+<td>avoir raison, savoir, cuisiner, la réponse …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="22"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_23.html">Day 23</a></td>
+<td>j'aimerais, tu devrais, on pourrait, à ta place …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="23"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_24.html">Day 24</a></td>
+<td>que je fasse, que je puisse, être à l'heure, avoir peur que …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="24"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_25.html">Day 25</a></td>
+<td>en face de, écrit(e), un accident, être en train de …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="25"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_26.html">Day 26</a></td>
+<td>en raison de, faute de, c'est pourquoi, si bien que …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="26"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_27.html">Day 27</a></td>
+<td>plusieurs, aucun / aucune, certains, d'autres …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="27"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_28.html">Day 28</a></td>
+<td>se faire comprendre, Laisse tomber !, Laisse-moi tranquille !, au
+sujet de …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="28"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_29.html">Day 29</a></td>
+<td>une enquête, Si j'avais su, sans ton aide, même si …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="29"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_30.html">Day 30</a></td>
+<td>alors que, au lieu de, plutôt que, par rapport à …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="30"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_31.html">Day 31</a></td>
+<td>se retourner, une guerre, au début, au bout d'un moment …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="31"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_32.html">Day 32</a></td>
+<td>en somme, à mon sens, C'est moi qui, Ce n'est pas moi ! …</td>
+<td>⭐⭐⭐</td>
+<td><span class="daymark" data-day="32"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_33.html">Day 33</a></td>
+<td>se téléphoner, s'écrire, certain(e), Il ne fait aucun doute que
+…</td>
+<td>⭐⭐⭐ ⭐⭐</td>
+<td><span class="daymark" data-day="33"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_34.html">Day 34</a></td>
+<td>le thé, le lait, le pain, le fromage …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="34"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_35.html">Day 35</a></td>
+<td>habiter, étudier, danser, chanter …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="35"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_36.html">Day 36</a></td>
+<td>le restaurant, le supermarché, le magasin, la banque …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="36"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_37.html">Day 37</a></td>
+<td>l'Italie (f.), le Mexique, le piano, la guitare …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="37"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_38.html">Day 38</a></td>
+<td>le riz, les pâtes (f. pl.), la soupe, les légumes (m. pl.) …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="38"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_39.html">Day 39</a></td>
+<td>un examen, répéter, fumer, lentement …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="39"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_40.html">Day 40</a></td>
+<td>préférer, Excusez-moi., Entrez !, recevoir …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="40"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_41.html">Day 41</a></td>
+<td>participer à, se souvenir de, J'en ai marre !, une glace …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="41"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_42.html">Day 42</a></td>
+<td>riche, célèbre, intelligent / intelligente, l'avenir (m.) …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="42"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_43.html">Day 43</a></td>
+<td>un lac, une île, une forêt, le centre-ville …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="43"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_44.html">Day 44</a></td>
+<td>patient / patiente, jusqu'à, une matinée, un siècle …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="44"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_45.html">Day 45</a></td>
+<td>auparavant, la veille, le lendemain, rater …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="45"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_46.html">Day 46</a></td>
+<td>une entreprise, un collègue, une réunion, construire …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="46"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_47.html">Day 47</a></td>
+<td>annoncer, raconter, proposer de, lorsque …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="47"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_48.html">Day 48</a></td>
+<td>chacun / chacune, nulle part, un tel / une telle, refuser de …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="48"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_49.html">Day 49</a></td>
+<td>prévenir, selon la presse, un témoin, un suspect …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="49"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_50.html">Day 50</a></td>
+<td>se fâcher, se taire, malgré, abandonner …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="50"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_51.html">Day 51</a></td>
+<td>l'ouverture (f.), une usine, la liberté, la jeunesse …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="51"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_52.html">Day 52</a></td>
+<td>se moquer de, une fleur, Il paraît que, une rumeur …</td>
+<td>⭐⭐</td>
+<td><span class="daymark" data-day="52"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_53.html">Day 53</a></td>
+<td>ça me fait une belle jambe, prendre ses jambes à son cou, un piège,
+la société …</td>
+<td>⭐⭐ ⭐</td>
+<td><span class="daymark" data-day="53"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_54.html">Day 54</a></td>
+<td>s'habituer à, le collège, un jouet, un dessin animé …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="54"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_55.html">Day 55</a></td>
+<td>quelquefois, le sien / la sienne, volontiers, gagner au loto …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="55"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_56.html">Day 56</a></td>
+<td>inquiétant(e), passionnant(e), un candidat, s'inscrire …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="56"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_57.html">Day 57</a></td>
+<td>le garagiste, se faire opérer, se renseigner sur, ci-joint …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="57"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_58.html">Day 58</a></td>
+<td>quoique, en dépit de, toutefois, néanmoins …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="58"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_59.html">Day 59</a></td>
+<td>l'augmentation (f.), la hausse, la réduction, le chômage …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="59"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_60.html">Day 60</a></td>
+<td>certes, en définitive, bénéfique, néfaste …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="60"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_61.html">Day 61</a></td>
+<td>quand les poules auront des dents, il fait un froid de canard, avoir
+le cafard, faire la grasse matinée …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="61"></span></td>
+</tr>
+<tr>
+<td><a href="每日单词_Daily/Day_62.html">Day 62</a></td>
+<td>reformuler, constater, favoriser, susciter …</td>
+<td>⭐</td>
+<td><span class="daymark" data-day="62"></span></td>
+</tr>
+</tbody>
+</table>
+
+</main>
+<script src="../site.js"></script>
+</body>
+</html>

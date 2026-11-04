@@ -215,6 +215,14 @@ def main():
     if os.path.exists(imp):
         build_page(imp, os.path.join(SITE, "词汇_Vocabulary", "00_重要单词_Important_words.html"), 1)
         count += 1
+    daily = os.path.join(ROOT, "词汇_Vocabulary", "00_每日单词_Daily_words.md")
+    if os.path.exists(daily):
+        build_page(daily, os.path.join(SITE, "词汇_Vocabulary", "00_每日单词_Daily_words.html"), 1)
+        count += 1
+    for src in sorted(glob.glob(os.path.join(ROOT, "词汇_Vocabulary", "每日单词_Daily", "Day_*.md"))):
+        build_page(src, os.path.join(SITE, "词汇_Vocabulary", "每日单词_Daily",
+                                     os.path.basename(src)[:-3] + ".html"), 2)
+        count += 1
     shutil.copy(os.path.join(ASSETS, "site.css"), SITE)
     shutil.copy(os.path.join(ASSETS, "site.js"), SITE)
     shutil.copytree(AUDIO_DIR, os.path.join(SITE, "audio"))

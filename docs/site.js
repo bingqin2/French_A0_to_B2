@@ -77,6 +77,29 @@
   });
   if (window.speechSynthesis) speechSynthesis.getVoices();  // preload voices
 
+  // ---- Daily lists: "done" button and ticks on the index ----
+  const doneKey = (d) => "fr-day-" + d;
+  document.querySelectorAll(".daymark").forEach((el) => {
+    if (localStorage.getItem(doneKey(el.dataset.day))) el.textContent = "✅";
+  });
+  const doneBox = $(".daydone");
+  if (doneBox) {
+    const d = doneBox.dataset.day;
+    const btn = document.createElement("button");
+    const show = () => {
+      const done = localStorage.getItem(doneKey(d));
+      btn.textContent = done ? "✅ 已背完 Done — 点击取消 (undo)" : "☐ 今天背完了 Mark as done";
+      btn.classList.toggle("done", !!done);
+    };
+    btn.onclick = () => {
+      if (localStorage.getItem(doneKey(d))) localStorage.removeItem(doneKey(d));
+      else localStorage.setItem(doneKey(d), new Date().toISOString().slice(0, 10));
+      show();
+    };
+    show();
+    doneBox.appendChild(btn);
+  }
+
   // ---- Dictation (vocabulary pages) ----
   const box = $("#dictation");
   if (!box) return;
