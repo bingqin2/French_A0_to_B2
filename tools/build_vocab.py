@@ -306,27 +306,44 @@ def ranked_words():
     return by_tier
 
 
-EXTRA_TSV = os.path.join(ROOT, "tools", "data", "b1_extra.tsv")
-EXTRA_MD = "00_B1补充单词_B1_extra_words.md"
+# Extra word lists (words no lesson teaches): level -> (tsv, page, title, goal text)
+EXTRAS = {
+    "B1": ("b1_extra.tsv", "00_B1补充单词_B1_extra_words.md", "B1 补充单词 / B1 Extra Words",
+           "课程 80 课里没教、但达到 **B1** 必须会的"),
+    "B2": ("b2_extra.tsv", "00_B2补充单词_NCLC7_words.md", "B2 / NCLC 7 补充单词 / B2 Exam Words",
+           "考 **B2 / NCLC 7**（TCF / TEF Canada）常用、但课程和 B1 补充词里都没有的"),
+}
+EXTRA_MD = EXTRAS["B1"][1]
 
 
 def _key(fr):
     return re.sub(r"\s+", " ", re.sub(r"\([^)]*\)", "", fr)).strip(" .!?").lower()
 
 
-def extra_words():
-    """B1 extra words (tools/data/b1_extra.tsv) that no lesson teaches, most common first."""
-    if not os.path.exists(EXTRA_TSV):
+_extra_cache = {}
+
+
+def extra_words(level=None):
+    """Extra words for one level (or B1 + B2) that are not taught earlier, most common first."""
+    if level is None:
+        return extra_words("B1") + extra_words("B2")
+    if level in _extra_cache:
+        return _extra_cache[level]
+    path = os.path.join(ROOT, "tools", "data", EXTRAS[level][0])
+    if not os.path.exists(path):
         return []
     known = {_key(r["fr"]) for _, _, r in all_words()}
+    if level == "B2":
+        known |= {_key(r["fr"]) for r in extra_words("B1")}
     rows, seen = [], set()
-    for line in open(EXTRA_TSV, encoding="utf-8"):
+    for line in open(path, encoding="utf-8"):
         f = line.rstrip("\n").split("\t")
         if line.startswith("#") or len(f) != 4 or _key(f[0]) in known or _key(f[0]) in seen:
             continue
         seen.add(_key(f[0]))
         rows.append({"fr": f[0], "ipa": "", "zh": f[1], "en": f[2], "note": "", "theme": f[3]})
-    rows.sort(key=lambda r: (tier(r["fr"], "B1")[0], rank(r["fr"])))
+    rows.sort(key=lambda r: (tier(r["fr"], level)[0], rank(r["fr"])))
+    _extra_cache[level] = rows
     return rows
 
 
@@ -335,10 +352,14 @@ def course_plan():
     return [words[i:i + PER_DAY] for i in range(0, len(words), PER_DAY)]
 
 
+def extra_plan(level):
+    extra = [(level + "+", None, r) for r in extra_words(level)]
+    return [extra[i:i + PER_DAY] for i in range(0, len(extra), PER_DAY)]
+
+
 def daily_plan():
-    """Course words first (days 1–62), then the B1 extra words, PER_DAY a day."""
-    extra = [("B1+", None, r) for r in extra_words()]
-    return course_plan() + [extra[i:i + PER_DAY] for i in range(0, len(extra), PER_DAY)]
+    """Course words first, then the B1 extra words, then the B2 / NCLC 7 words; PER_DAY a day."""
+    return course_plan() + extra_plan("B1") + extra_plan("B2")
 
 
 def lesson_files():
@@ -354,6 +375,7 @@ def write_daily():
     days = daily_plan()
     n = len(days)
     n1 = len(course_plan())
+    n2 = n1 + len(extra_plan("B1"))
     out = os.path.join(OUT, DAILY)
     os.makedirs(out, exist_ok=True)
     for old in glob.glob(os.path.join(out, "Day_*.md")):
@@ -361,11 +383,15 @@ def write_daily():
     index = ["# 每日单词 / One List a Day", "",
              f"> 共 {sum(map(len, days))} 个单词，分成 **{n} 天**，每天 **{PER_DAY} 个**。  ",
              f"> - **第 1–{n1} 天**：课程里的全部单词，最重要的在前面（先学完全部 ⭐⭐⭐ 核心词）。  ",
-             f"> - **第 {n1 + 1}–{n} 天**：[B1 补充单词](00_B1补充单词_B1_extra_words.md)——课程没教、"
-             "但达到 B1 必须会的常用词，也是最常用的在前面。  ",
-             f"> *{n} short lists of {PER_DAY}: the course words first, then the B1 extra words.*", "",
-             "🎯 **目标 B1**：学完第 1–50 天左右（A1–B1 课程词）+ 第 "
-             f"{n1 + 1}–{n} 天（补充词），大约 2,000 个词。", "",
+             f"> - **第 {n1 + 1}–{n2} 天**：[B1 补充单词]({EXTRAS['B1'][1]})——课程没教、"
+             "但达到 B1 必须会的常用词。  ",
+             f"> - **第 {n2 + 1}–{n} 天**：[B2 / NCLC 7 补充单词]({EXTRAS['B2'][1]})——"
+             "TCF / TEF Canada 考试常见话题的词（环境、工作、移民、科技……）。  ",
+             f"> *{n} short lists of {PER_DAY}: course words, then B1 extra words, then B2 / NCLC 7 exam words.*", "",
+             "🎯 **目标 B1**：第 1–50 天左右（A1–B1 课程词）+ 第 "
+             f"{n1 + 1}–{n2} 天，大约 2,000 个词。  ",
+             f"🎯 **目标 NCLC 7 / B2**：全部 {n} 天，大约 {sum(map(len, days)):,} 个词。"
+             "备考方法见 [NCLC 7 备考](../NCLC7_备考_Exam_prep/00_NCLC7_总览_Overview.md)。", "",
              "💡 **每天怎么学 (about 15 min)**",
              "1. 打开今天的列表，每个词点 🔊 听 2–3 遍，跟着读出声。",
              "2. 用页面最上面的 🎧 听写练习，练到大部分都能写对。",
@@ -379,6 +405,8 @@ def write_daily():
             index += [f"| **第一部分 Part 1 · 课程单词 Course words** | | | |"]
         if d == n1 + 1:
             index += [f"| **第二部分 Part 2 · B1 补充单词 Extra words** | | | |"]
+        if d == n2 + 1:
+            index += [f"| **第三部分 Part 3 · B2 / NCLC 7 考试词 Exam words** | | | |"]
         stars = sorted({tier(r["fr"], lv)[1] for lv, _, r in words}, key=len, reverse=True)
         preview = ", ".join(r["fr"].rstrip(" …") for _, _, r in words[:4]) + " …"
         index.append(f"| [Day {d:02d}]({DAILY}/Day_{d:02d}.md) | {md_escape(preview)} | "
@@ -406,7 +434,7 @@ def write_day(out, d, n, words):
     lines += ["| 重要 | 法语 French | 中文 | English | 课 Lesson |", "|---|---|---|---|---|"]
     for lv, num, r in words:
         if num is None:
-            link = f"[B1+](../{EXTRA_MD})"
+            link = f"[{lv}](../{EXTRAS[lv[:2]][1]})"
         else:
             lv2, _ = titles[num]
             link = f"[L{num:02d}](../{lv2}/L{num:02d}_词汇_Vocab.md)"
@@ -417,35 +445,45 @@ def write_day(out, d, n, words):
 
 
 def write_extra():
-    """B1 extra words: one page grouped by theme, plus an Anki file."""
-    rows = extra_words()
-    themes = []
-    for r in rows:
-        if r["theme"] not in themes:
-            themes.append(r["theme"])
-    order = [ln.split("\t")[3].strip() for ln in open(EXTRA_TSV, encoding="utf-8")
-             if not ln.startswith("#") and ln.count("\t") == 3]
-    themes.sort(key=order.index)
-    n = [sum(1 for r in rows if tier(r["fr"], "B1")[0] == i) for i in range(3)]
-    lines = ["# B1 补充单词 / B1 Extra Words", "",
-             f"> 课程 80 课里没教、但达到 **B1** 必须会的 **{len(rows)} 个常用词**，按主题排列，"
-             "每个主题里最重要的在前面。它们也已经分进了 [每日单词](00_每日单词_Daily_words.md) 的后半部分。  ",
-             f"> *{len(rows)} common words the lessons don't teach but B1 needs, by theme.*", "",
-             f"⭐⭐⭐ {n[0]} · ⭐⭐ {n[1]} · ⭐ {n[2]}", "",
+    for level in EXTRAS:
+        write_extra_level(level)
+
+
+def write_extra_level(level):
+    """Extra words of one level: one page grouped by theme, plus an Anki file."""
+    tsv, md, title, intro = EXTRAS[level]
+    rows = extra_words(level)
+    if not rows:
+        return
+    order = []
+    for ln in open(os.path.join(ROOT, "tools", "data", tsv), encoding="utf-8"):
+        if not ln.startswith("#") and ln.count("\t") == 3 and ln.split("\t")[3].strip() not in order:
+            order.append(ln.split("\t")[3].strip())
+    themes = [t for t in order if any(r["theme"] == t for r in rows)]
+    n = [sum(1 for r in rows if tier(r["fr"], level)[0] == i) for i in range(3)]
+    lines = [f"# {title}", "",
+             f"> {intro} **{len(rows)} 个词**，按主题排列，每个主题里最重要的在前面。"
+             "它们也已经分进了 [每日单词](00_每日单词_Daily_words.md)。  ",
+             f"> *{len(rows)} extra words for {level}, by theme, most important first.*", "",
+             f"⭐⭐⭐ {n[0]} · ⭐⭐ {n[1]} · ⭐ {n[2]}", ""] + (
+             ["⚠️ 星级按**日常口语**的频率算，很多考试写作用的正式词（如 *néanmoins*、*engendrer*）"
+              "在口语里少见，所以只有 ⭐。但考 NCLC 7 的写作和阅读时**它们都很有用**，不要跳过。", ""]
+             if level == "B2" else []) + [
              "**主题 Themes：** " + " · ".join(f"[{t}](#{i + 1})" for i, t in enumerate(themes)), ""]
     anki = ["#separator:tab", "#html:true", "#notetype:Basic", "#tags column:3", "#deck column:4"]
+    deck = {"B1": "B1 补充 Extra", "B2": "B2 NCLC 7"}[level]
     for i, t in enumerate(themes, 1):
-        group = sorted((r for r in rows if r["theme"] == t), key=lambda r: tier(r["fr"], "B1")[0])
+        group = sorted((r for r in rows if r["theme"] == t), key=lambda r: tier(r["fr"], level)[0])
         lines += [f'<a id="{i}"></a>', "", f"## {i}. {t}（{len(group)}）", "",
                   "| 重要 | 法语 French | 中文 | English |", "|---|---|---|---|"]
         for r in group:
-            lines.append(f"| {tier(r['fr'], 'B1')[1]} | " + " | ".join(md_escape(x) for x in
+            lines.append(f"| {tier(r['fr'], level)[1]} | " + " | ".join(md_escape(x) for x in
                          (f"**{r['fr']}**", r["zh"], r["en"])) + " |")
-            anki.append(anki_line(r, "French::B1_extra", f"法语 French::B1 补充 Extra::{i:02d} {t}", "B1"))
+            anki.append(anki_line(r, f"French::{level}_extra", f"法语 French::{deck}::{i:02d} {t}", level))
         lines.append("")
-    open(os.path.join(OUT, EXTRA_MD), "w", encoding="utf-8").write("\n".join(lines))
-    open(os.path.join(OUT, "Anki", "B1_extra_Anki.txt"), "w", encoding="utf-8").write("\n".join(anki) + "\n")
-    print(f"✓ {EXTRA_MD}  ({len(rows)} words) + Anki/B1_extra_Anki.txt")
+    open(os.path.join(OUT, md), "w", encoding="utf-8").write("\n".join(lines))
+    open(os.path.join(OUT, "Anki", f"{level}_extra_Anki.txt"), "w", encoding="utf-8").write("\n".join(anki) + "\n")
+    print(f"✓ {md}  ({len(rows)} words) + Anki/{level}_extra_Anki.txt")
 
 
 def write_important():

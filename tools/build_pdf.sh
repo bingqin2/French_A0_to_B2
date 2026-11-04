@@ -67,10 +67,25 @@ md_to_html "$ROOT/词汇_Vocabulary/00_重要单词_Important_words.md" "$TMP/im
 html_to_pdf "$TMP/important.html" "$OUT/词汇_Vocabulary/00_重要单词_Important_words.pdf"
 echo "✓ 词汇_Vocabulary/00_重要单词_Important_words.pdf"
 
-# B1 extra words
-md_to_html "$ROOT/词汇_Vocabulary/00_B1补充单词_B1_extra_words.md" "$TMP/extra.html"
-html_to_pdf "$TMP/extra.html" "$OUT/词汇_Vocabulary/00_B1补充单词_B1_extra_words.pdf"
-echo "✓ 词汇_Vocabulary/00_B1补充单词_B1_extra_words.pdf"
+# B1 and B2 extra words
+for md in "$ROOT"/词汇_Vocabulary/00_B[12]补充单词_*.md; do
+  name="$(basename "$md" .md)"
+  md_to_html "$md" "$TMP/$name.html"
+  html_to_pdf "$TMP/$name.html" "$OUT/词汇_Vocabulary/$name.pdf"
+  echo "✓ 词汇_Vocabulary/$name.pdf"
+done
+
+# NCLC 7 exam prep: one PDF
+if [ -d "$ROOT/NCLC7_备考_Exam_prep" ]; then
+  : > "$TMP/nclc.md"; first=1
+  for md in "$ROOT"/NCLC7_备考_Exam_prep/*.md; do
+    [ $first -eq 1 ] || printf '\n\n<div class="lesson-break"></div>\n\n' >> "$TMP/nclc.md"
+    cat "$md" >> "$TMP/nclc.md"; first=0
+  done
+  md_to_html "$TMP/nclc.md" "$TMP/nclc.html"
+  html_to_pdf "$TMP/nclc.html" "$OUT/NCLC7_备考_Exam_prep.pdf"
+  echo "✓ NCLC7_备考_Exam_prep.pdf"
+fi
 
 # Daily lists: one printable PDF, one day per page (no web-only links/buttons)
 DAILY_MD="$TMP/daily.md"

@@ -215,9 +215,11 @@ def main():
     if os.path.exists(imp):
         build_page(imp, os.path.join(SITE, "词汇_Vocabulary", "00_重要单词_Important_words.html"), 1)
         count += 1
-    extra = os.path.join(ROOT, "词汇_Vocabulary", "00_B1补充单词_B1_extra_words.md")
-    if os.path.exists(extra):
-        build_page(extra, os.path.join(SITE, "词汇_Vocabulary", "00_B1补充单词_B1_extra_words.html"), 1)
+    for extra in sorted(glob.glob(os.path.join(ROOT, "词汇_Vocabulary", "00_B[12]补充单词_*.md"))):
+        build_page(extra, os.path.join(SITE, "词汇_Vocabulary", os.path.basename(extra)[:-3] + ".html"), 1)
+        count += 1
+    for src in sorted(glob.glob(os.path.join(ROOT, "NCLC7_备考_Exam_prep", "*.md"))):
+        build_page(src, os.path.join(SITE, "NCLC7_备考_Exam_prep", os.path.basename(src)[:-3] + ".html"), 1)
         count += 1
     daily = os.path.join(ROOT, "词汇_Vocabulary", "00_每日单词_Daily_words.md")
     if os.path.exists(daily):

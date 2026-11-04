@@ -1,7 +1,7 @@
 # B1 补充单词 / B1 Extra Words
 
-> 课程 80 课里没教、但达到 **B1** 必须会的 **869 个常用词**，按主题排列，每个主题里最重要的在前面。它们也已经分进了 [每日单词](00_每日单词_Daily_words.md) 的后半部分。  
-> *869 common words the lessons don't teach but B1 needs, by theme.*
+> 课程 80 课里没教、但达到 **B1** 必须会的 **869 个词**，按主题排列，每个主题里最重要的在前面。它们也已经分进了 [每日单词](00_每日单词_Daily_words.md)。  
+> *869 extra words for B1, by theme, most important first.*
 
 ⭐⭐⭐ 302 · ⭐⭐ 407 · ⭐ 160
 

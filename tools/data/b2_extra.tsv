@@ -1,0 +1,830 @@
+# B2 / NCLC 7 extra words: common exam-topic words (TCF / TEF Canada) the lessons and the B1 list do not teach.
+# Columns: French<TAB>中文<TAB>English<TAB>theme. Lines starting with # are ignored.
+# Words already in a lesson or in b1_extra.tsv are skipped automatically by build_vocab.py.
+le changement climatique	气候变化	climate change	环境 Environment
+l'effet de serre (m.)	温室效应	greenhouse effect	环境 Environment
+les émissions (f.) de CO2	二氧化碳排放	CO2 emissions	环境 Environment
+le gaz	气体；煤气	gas	环境 Environment
+le carbone	碳	carbon	环境 Environment
+l'empreinte carbone (f.)	碳足迹	carbon footprint	环境 Environment
+les énergies renouvelables (f.)	可再生能源	renewable energy	环境 Environment
+l'énergie solaire / éolienne	太阳能 / 风能	solar / wind power	环境 Environment
+le nucléaire	核能	nuclear power	环境 Environment
+le pétrole	石油	oil	环境 Environment
+le charbon	煤	coal	环境 Environment
+les ressources (f.) naturelles	自然资源	natural resources	环境 Environment
+une ressource	资源	resource	环境 Environment
+la planète	星球；地球	planet	环境 Environment
+la biodiversité	生物多样性	biodiversity	环境 Environment
+une espèce	物种	species	环境 Environment
+en voie de disparition	濒临灭绝	endangered	环境 Environment
+disparaître	消失	to disappear	环境 Environment
+la disparition	消失	disappearance	环境 Environment
+la déforestation	森林砍伐	deforestation	环境 Environment
+la sécheresse	干旱	drought	环境 Environment
+une inondation	洪水	flood	环境 Environment
+un incendie de forêt	森林火灾	forest fire	环境 Environment
+la canicule	热浪	heatwave	环境 Environment
+polluer	污染	to pollute	环境 Environment
+polluant / polluante	污染的	polluting	环境 Environment
+le tri sélectif	垃圾分类	waste sorting	环境 Environment
+trier	分类	to sort	环境 Environment
+le recyclage	回收利用	recycling	环境 Environment
+le gaspillage	浪费	waste	环境 Environment
+gaspiller	浪费	to waste	环境 Environment
+le plastique	塑料	plastic	环境 Environment
+jetable	一次性的	disposable	环境 Environment
+durable	可持续的；耐用的	sustainable; durable	环境 Environment
+le développement durable	可持续发展	sustainable development	环境 Environment
+écologique	生态的；环保的	ecological; eco-friendly	环境 Environment
+l'écologie (f.)	生态学；环保	ecology	环境 Environment
+un(e) écologiste	环保人士	environmentalist	环境 Environment
+la transition écologique	生态转型	ecological transition	环境 Environment
+consommer	消费；消耗	to consume	环境 Environment
+la consommation	消费；消耗	consumption	环境 Environment
+économiser l'énergie	节约能源	to save energy	环境 Environment
+une voiture électrique	电动车	electric car	环境 Environment
+le covoiturage	拼车	carpooling	环境 Environment
+une piste cyclable	自行车道	cycle lane	环境 Environment
+bio / biologique	有机的	organic	环境 Environment
+local / de saison	本地的 / 应季的	local / seasonal	环境 Environment
+l'agriculture (f.)	农业	agriculture	环境 Environment
+un pesticide	农药	pesticide	环境 Environment
+la qualité de l'air	空气质量	air quality	环境 Environment
+une amende	罚款	fine	环境 Environment
+une taxe	税	tax	环境 Environment
+une mesure	措施；测量	measure	环境 Environment
+préserver	保护；保存	to preserve	环境 Environment
+la préservation	保护	preservation	环境 Environment
+menacer / une menace	威胁	to threaten / threat	环境 Environment
+le marché de l'emploi	就业市场	job market	工作与经济 Work & economy
+un(e) demandeur d'emploi	求职者	job seeker	工作与经济 Work & economy
+une offre d'emploi	招聘广告	job offer	工作与经济 Work & economy
+postuler	申请（职位）	to apply	工作与经济 Work & economy
+recruter	招聘	to recruit	工作与经济 Work & economy
+le recrutement	招聘	recruitment	工作与经济 Work & economy
+un employeur	雇主	employer	工作与经济 Work & economy
+un(e) salarié(e)	雇员	employee	工作与经济 Work & economy
+un(e) collaborateur / collaboratrice	同事；合作者	colleague; collaborator	工作与经济 Work & economy
+un(e) stagiaire	实习生	intern	工作与经济 Work & economy
+un(e) responsable	负责人	manager; person in charge	工作与经济 Work & economy
+la hiérarchie	等级制度	hierarchy	工作与经济 Work & economy
+un CDI / un CDD	长期合同 / 短期合同	permanent / fixed-term contract	工作与经济 Work & economy
+à temps plein / à temps partiel	全职 / 兼职	full-time / part-time	工作与经济 Work & economy
+les heures supplémentaires (f.)	加班	overtime	工作与经济 Work & economy
+le temps de travail	工作时间	working hours	工作与经济 Work & economy
+les conditions de travail (f.)	工作条件	working conditions	工作与经济 Work & economy
+l'équilibre (m.) vie pro / vie perso	工作与生活平衡	work-life balance	工作与经济 Work & economy
+l'épuisement professionnel / le burn-out	职业倦怠	burnout	工作与经济 Work & economy
+une promotion	升职；促销	promotion	工作与经济 Work & economy
+une augmentation de salaire	加薪	pay rise	工作与经济 Work & economy
+le salaire minimum	最低工资	minimum wage	工作与经济 Work & economy
+les compétences (f.)	能力；技能	skills	工作与经济 Work & economy
+compétent / compétente	有能力的	competent	工作与经济 Work & economy
+qualifié / qualifiée	有资格的	qualified	工作与经济 Work & economy
+l'expérience professionnelle (f.)	工作经验	work experience	工作与经济 Work & economy
+une lettre de motivation	求职信	cover letter	工作与经济 Work & economy
+un syndicat	工会	trade union	工作与经济 Work & economy
+une entreprise / une PME	企业 / 中小企业	company / SME	工作与经济 Work & economy
+une start-up	初创公司	start-up	工作与经济 Work & economy
+un(e) entrepreneur(e)	企业家	entrepreneur	工作与经济 Work & economy
+créer une entreprise	创业	to start a business	工作与经济 Work & economy
+le secteur	行业；领域	sector	工作与经济 Work & economy
+l'industrie (f.)	工业	industry	工作与经济 Work & economy
+le commerce	商业；贸易	trade; commerce	工作与经济 Work & economy
+l'exportation / l'importation (f.)	出口 / 进口	export / import	工作与经济 Work & economy
+la concurrence	竞争	competition	工作与经济 Work & economy
+un concurrent	竞争对手	competitor	工作与经济 Work & economy
+la productivité	生产率	productivity	工作与经济 Work & economy
+la rentabilité	盈利能力	profitability	工作与经济 Work & economy
+rentable	有利可图的	profitable	工作与经济 Work & economy
+un bénéfice	利润；好处	profit; benefit	工作与经济 Work & economy
+une perte	损失	loss	工作与经济 Work & economy
+un budget	预算	budget	工作与经济 Work & economy
+investir	投资	to invest	工作与经济 Work & economy
+un investissement	投资	investment	工作与经济 Work & economy
+les finances (f.)	财政	finances	工作与经济 Work & economy
+financier / financière	金融的	financial	工作与经济 Work & economy
+le pouvoir d'achat	购买力	purchasing power	工作与经济 Work & economy
+l'inflation (f.)	通货膨胀	inflation	工作与经济 Work & economy
+le coût	成本	cost	工作与经济 Work & economy
+un revenu	收入	income	工作与经济 Work & economy
+les dépenses (f.)	开支	spending	工作与经济 Work & economy
+un prêt	贷款	loan	工作与经济 Work & economy
+une assurance	保险	insurance	工作与经济 Work & economy
+la mondialisation	全球化	globalisation	工作与经济 Work & economy
+la délocalisation	产业外迁	offshoring	工作与经济 Work & economy
+la précarité	不稳定	job insecurity; precariousness	工作与经济 Work & economy
+précaire	不稳定的	precarious	工作与经济 Work & economy
+le marché	市场	market	工作与经济 Work & economy
+un(e) consommateur / consommatrice	消费者	consumer	工作与经济 Work & economy
+un produit	产品	product	工作与经济 Work & economy
+la production	生产	production	工作与经济 Work & economy
+une marque	品牌	brand	工作与经济 Work & economy
+la publicité / la pub	广告	advertising	工作与经济 Work & economy
+le système éducatif	教育体系	education system	教育 Education
+l'enseignement (m.)	教育；教学	teaching; education	教育 Education
+enseigner	教	to teach	教育 Education
+l'éducation (f.)	教育	education	教育 Education
+éduquer	教育	to educate	教育 Education
+l'école primaire / secondaire	小学 / 中学	primary / secondary school	教育 Education
+l'enseignement supérieur	高等教育	higher education	教育 Education
+un établissement	机构；学校	institution	教育 Education
+les frais de scolarité (m.)	学费	tuition fees	教育 Education
+un(e) étudiant(e) étranger / étrangère	留学生	international student	教育 Education
+une licence	学士学位	bachelor's degree	教育 Education
+un doctorat	博士学位	PhD	教育 Education
+une formation continue	继续教育	continuing education	教育 Education
+l'apprentissage (m.)	学习；学徒制	learning; apprenticeship	教育 Education
+un apprenant / une apprenante	学习者	learner	教育 Education
+les connaissances (f.)	知识	knowledge	教育 Education
+acquérir	获得	to acquire	教育 Education
+maîtriser	掌握	to master	教育 Education
+la maîtrise	掌握；硕士	mastery; master's	教育 Education
+un échec scolaire	学业失败	academic failure	教育 Education
+la réussite	成功	success	教育 Education
+le décrochage scolaire	辍学	dropping out	教育 Education
+une compétence linguistique	语言能力	language skill	教育 Education
+bilingue	双语的	bilingual	教育 Education
+une langue maternelle	母语	mother tongue	教育 Education
+une langue étrangère	外语	foreign language	教育 Education
+un séjour linguistique	语言游学	language stay	教育 Education
+un échange	交换	exchange	教育 Education
+l'enseignement à distance	远程教学	distance learning	教育 Education
+en ligne	在线	online	教育 Education
+un cours magistral	大课；讲座	lecture	教育 Education
+un mémoire	论文	dissertation	教育 Education
+une thèse	博士论文；论点	thesis	教育 Education
+évaluer	评估	to assess	教育 Education
+une évaluation	评估	assessment	教育 Education
+un concours	竞赛；选拔考试	competitive exam	教育 Education
+passer un examen	参加考试	to take an exam	教育 Education
+réussir un examen	考试通过	to pass an exam	教育 Education
+la discipline	纪律；学科	discipline; subject	教育 Education
+l'uniforme (m.)	校服	uniform	教育 Education
+le harcèlement scolaire	校园霸凌	school bullying	教育 Education
+l'orientation (f.)	升学指导	career guidance	教育 Education
+la curiosité	好奇心	curiosity	教育 Education
+le système de santé	医疗体系	health system	健康 Health
+l'assurance maladie (f.)	医疗保险	health insurance	健康 Health
+la Sécurité sociale	社会保障	social security	健康 Health
+rembourser	报销	to reimburse	健康 Health
+un(e) généraliste	全科医生	GP	健康 Health
+un(e) spécialiste	专科医生；专家	specialist	健康 Health
+un(e) patient(e)	病人	patient	健康 Health
+une consultation	看病；咨询	consultation	健康 Health
+un traitement	治疗	treatment	健康 Health
+une opération	手术	operation	健康 Health
+un vaccin	疫苗	vaccine	健康 Health
+la vaccination	接种	vaccination	健康 Health
+une épidémie	流行病	epidemic	健康 Health
+une pandémie	大流行	pandemic	健康 Health
+un virus	病毒	virus	健康 Health
+contagieux / contagieuse	传染的	contagious	健康 Health
+la prévention	预防	prevention	健康 Health
+prévenir (une maladie)	预防	to prevent	健康 Health
+un symptôme	症状	symptom	健康 Health
+un diagnostic	诊断	diagnosis	健康 Health
+chronique	慢性的	chronic	健康 Health
+l'obésité (f.)	肥胖	obesity	健康 Health
+le surpoids	超重	overweight	健康 Health
+l'alimentation (f.)	饮食	diet; food	健康 Health
+équilibré / équilibrée	均衡的	balanced	健康 Health
+sain / saine	健康的	healthy	健康 Health
+nocif / nocive	有害的	harmful	健康 Health
+le tabac	烟草	tobacco	健康 Health
+l'alcool (m.)	酒精	alcohol	健康 Health
+une drogue	毒品	drug	健康 Health
+la dépendance	依赖；成瘾	addiction; dependence	健康 Health
+l'activité physique (f.)	体育活动	physical activity	健康 Health
+sédentaire	久坐的	sedentary	健康 Health
+le bien-être	身心健康	well-being	健康 Health
+la santé mentale	心理健康	mental health	健康 Health
+l'anxiété (f.)	焦虑	anxiety	健康 Health
+la dépression	抑郁	depression	健康 Health
+l'espérance de vie (f.)	预期寿命	life expectancy	健康 Health
+le vieillissement	老龄化	ageing	健康 Health
+les personnes âgées (f.)	老年人	the elderly	健康 Health
+une maison de retraite	养老院	care home	健康 Health
+un handicap	残疾	disability	健康 Health
+handicapé / handicapée	残疾的	disabled	健康 Health
+le don d'organes	器官捐献	organ donation	健康 Health
+le numérique	数字技术	digital technology	科技与媒体 Technology & media
+numérique	数字的	digital	科技与媒体 Technology & media
+l'intelligence artificielle (f.)	人工智能	artificial intelligence	科技与媒体 Technology & media
+un algorithme	算法	algorithm	科技与媒体 Technology & media
+les données (f.)	数据	data	科技与媒体 Technology & media
+les données personnelles	个人数据	personal data	科技与媒体 Technology & media
+la vie privée	隐私	privacy	科技与媒体 Technology & media
+protéger ses données	保护数据	to protect one's data	科技与媒体 Technology & media
+un écran / le temps d'écran	屏幕 / 屏幕时间	screen / screen time	科技与媒体 Technology & media
+une application / une appli	应用	app	科技与媒体 Technology & media
+un smartphone	智能手机	smartphone	科技与媒体 Technology & media
+une tablette	平板电脑	tablet	科技与媒体 Technology & media
+un logiciel	软件	software	科技与媒体 Technology & media
+un utilisateur / une utilisatrice	用户	user	科技与媒体 Technology & media
+un internaute	网民	Internet user	科技与媒体 Technology & media
+en ligne / hors ligne	在线 / 离线	online / offline	科技与媒体 Technology & media
+se connecter	登录；上网	to log in; to connect	科技与媒体 Technology & media
+un réseau	网络	network	科技与媒体 Technology & media
+partager / publier	分享 / 发布	to share / to post	科技与媒体 Technology & media
+une publication	帖子；出版	post; publication	科技与媒体 Technology & media
+un abonné / une abonnée	关注者；订户	follower; subscriber	科技与媒体 Technology & media
+un influenceur / une influenceuse	网红	influencer	科技与媒体 Technology & media
+une vidéo	视频	video	科技与媒体 Technology & media
+une plateforme	平台	platform	科技与媒体 Technology & media
+le streaming	流媒体	streaming	科技与媒体 Technology & media
+une fausse information / une fake news	假新闻	fake news	科技与媒体 Technology & media
+la désinformation	虚假信息	disinformation	科技与媒体 Technology & media
+vérifier une source	核实来源	to check a source	科技与媒体 Technology & media
+fiable	可靠的	reliable	科技与媒体 Technology & media
+le cyberharcèlement	网络霸凌	cyberbullying	科技与媒体 Technology & media
+la cybersécurité	网络安全	cybersecurity	科技与媒体 Technology & media
+un pirate informatique	黑客	hacker	科技与媒体 Technology & media
+le piratage	盗版；黑客攻击	hacking; piracy	科技与媒体 Technology & media
+l'addiction aux écrans (f.)	屏幕成瘾	screen addiction	科技与媒体 Technology & media
+une innovation	创新	innovation	科技与媒体 Technology & media
+innovant / innovante	创新的	innovative	科技与媒体 Technology & media
+une invention	发明	invention	科技与媒体 Technology & media
+un robot	机器人	robot	科技与媒体 Technology & media
+l'automatisation (f.)	自动化	automation	科技与媒体 Technology & media
+remplacer l'homme	取代人类	to replace humans	科技与媒体 Technology & media
+les médias (m.)	媒体	the media	科技与媒体 Technology & media
+un quotidien	日报	daily newspaper	科技与媒体 Technology & media
+l'actualité (f.)	时事	current affairs; news	科技与媒体 Technology & media
+un reportage	报道	report	科技与媒体 Technology & media
+un(e) lecteur / lectrice	读者	reader	科技与媒体 Technology & media
+un(e) auditeur / auditrice	听众	listener	科技与媒体 Technology & media
+un(e) téléspectateur / téléspectatrice	电视观众	viewer	科技与媒体 Technology & media
+la liberté d'expression	言论自由	freedom of speech	科技与媒体 Technology & media
+la censure	审查	censorship	科技与媒体 Technology & media
+l'intégration (f.)	融入	integration	社会与移民 Society & immigration
+s'intégrer	融入	to integrate	社会与移民 Society & immigration
+un(e) immigrant(e)	移民（入境者）	immigrant	社会与移民 Society & immigration
+un(e) immigré(e)	移民	immigrant	社会与移民 Society & immigration
+émigrer / immigrer	移出 / 移入	to emigrate / to immigrate	社会与移民 Society & immigration
+un(e) réfugié(e)	难民	refugee	社会与移民 Society & immigration
+la résidence permanente	永久居留	permanent residence	社会与移民 Society & immigration
+un(e) résident(e) permanent(e)	永久居民	permanent resident	社会与移民 Society & immigration
+la citoyenneté	公民身份	citizenship	社会与移民 Society & immigration
+la nationalité	国籍	nationality	社会与移民 Society & immigration
+un permis de travail	工作许可	work permit	社会与移民 Society & immigration
+un permis d'études	学习许可	study permit	社会与移民 Society & immigration
+une démarche	手续；步骤	procedure; step	社会与移民 Society & immigration
+les démarches administratives	行政手续	paperwork	社会与移民 Society & immigration
+un formulaire	表格	form	社会与移民 Society & immigration
+un dossier de candidature	申请材料	application file	社会与移民 Society & immigration
+une pièce justificative	证明材料	supporting document	社会与移民 Society & immigration
+l'administration (f.)	行政部门	administration	社会与移民 Society & immigration
+s'établir	定居	to settle	社会与移民 Society & immigration
+le pays d'accueil	接收国	host country	社会与移民 Society & immigration
+le pays d'origine	原籍国	country of origin	社会与移民 Society & immigration
+une communauté	社区；群体	community	社会与移民 Society & immigration
+la diversité	多样性	diversity	社会与移民 Society & immigration
+multiculturel / multiculturelle	多元文化的	multicultural	社会与移民 Society & immigration
+le choc culturel	文化冲击	culture shock	社会与移民 Society & immigration
+le mal du pays	思乡病	homesickness	社会与移民 Society & immigration
+francophone	讲法语的	French-speaking	社会与移民 Society & immigration
+anglophone	讲英语的	English-speaking	社会与移民 Society & immigration
+la francophonie	法语国家和地区	the French-speaking world	社会与移民 Society & immigration
+le Québec	魁北克	Quebec	社会与移民 Society & immigration
+une province	省	province	社会与移民 Society & immigration
+la discrimination	歧视	discrimination	社会与移民 Society & immigration
+le racisme	种族主义	racism	社会与移民 Society & immigration
+les préjugés (m.)	偏见	prejudice	社会与移民 Society & immigration
+un stéréotype	刻板印象	stereotype	社会与移民 Society & immigration
+l'inégalité (f.)	不平等	inequality	社会与移民 Society & immigration
+l'égalité hommes-femmes	男女平等	gender equality	社会与移民 Society & immigration
+la solidarité	团结；互助	solidarity	社会与移民 Society & immigration
+solidaire	团结的	supportive	社会与移民 Society & immigration
+le bénévolat	志愿工作	volunteering	社会与移民 Society & immigration
+un(e) bénévole	志愿者	volunteer	社会与移民 Society & immigration
+une association / une ONG	协会 / 非政府组织	association / NGO	社会与移民 Society & immigration
+l'exclusion (f.)	排斥	exclusion	社会与移民 Society & immigration
+un(e) sans-abri	无家可归者	homeless person	社会与移民 Society & immigration
+la pauvreté / la misère	贫穷 / 苦难	poverty / misery	社会与移民 Society & immigration
+les aides sociales (f.)	社会救助	welfare benefits	社会与移民 Society & immigration
+la classe moyenne	中产阶级	middle class	社会与移民 Society & immigration
+les jeunes (m.)	年轻人	young people	社会与移民 Society & immigration
+une famille monoparentale	单亲家庭	single-parent family	社会与移民 Society & immigration
+le mode de garde	托儿方式	childcare arrangement	社会与移民 Society & immigration
+une crèche / une garderie	托儿所	nursery; daycare	社会与移民 Society & immigration
+le congé parental	育儿假	parental leave	社会与移民 Society & immigration
+la natalité	出生率	birth rate	社会与移民 Society & immigration
+la démocratie	民主	democracy	政治与法律 Politics & law
+un(e) député(e)	议员	member of parliament	政治与法律 Politics & law
+le Parlement	议会	parliament	政治与法律 Politics & law
+un(e) ministre	部长	minister	政治与法律 Politics & law
+le Premier ministre	总理	Prime Minister	政治与法律 Politics & law
+un maire	市长	mayor	政治与法律 Politics & law
+un parti (politique)	政党	(political) party	政治与法律 Politics & law
+une campagne électorale	竞选活动	election campaign	政治与法律 Politics & law
+un(e) électeur / électrice	选民	voter	政治与法律 Politics & law
+le vote / le droit de vote	投票 / 选举权	vote / right to vote	政治与法律 Politics & law
+une réforme	改革	reform	政治与法律 Politics & law
+une décision politique	政治决定	political decision	政治与法律 Politics & law
+un(e) responsable politique	政治人物	politician	政治与法律 Politics & law
+les autorités (f.)	当局	the authorities	政治与法律 Politics & law
+une institution	机构	institution	政治与法律 Politics & law
+municipal / municipale	市政的	municipal	政治与法律 Politics & law
+fédéral / fédérale	联邦的	federal	政治与法律 Politics & law
+une manifestation / manifester	游行 / 示威	demonstration / to demonstrate	政治与法律 Politics & law
+une pétition	请愿书	petition	政治与法律 Politics & law
+revendiquer	要求；声称	to demand; to claim	政治与法律 Politics & law
+une revendication	诉求	demand	政治与法律 Politics & law
+légal / légale	合法的	legal	政治与法律 Politics & law
+illégal / illégale	非法的	illegal	政治与法律 Politics & law
+interdire / l'interdiction (f.)	禁止 / 禁令	to ban / ban	政治与法律 Politics & law
+autoriser	允许	to authorise	政治与法律 Politics & law
+une autorisation	许可	permission	政治与法律 Politics & law
+obligatoire / facultatif	必须的 / 可选的	compulsory / optional	政治与法律 Politics & law
+une sanction	制裁；处罚	sanction; penalty	政治与法律 Politics & law
+condamner	判刑；谴责	to sentence; to condemn	政治与法律 Politics & law
+une peine	刑罚；痛苦	sentence; sorrow	政治与法律 Politics & law
+la délinquance	犯罪（行为）	crime; delinquency	政治与法律 Politics & law
+la violence	暴力	violence	政治与法律 Politics & law
+violent / violente	暴力的	violent	政治与法律 Politics & law
+porter plainte	报案；起诉	to file a complaint	政治与法律 Politics & law
+un tribunal	法庭	court	政治与法律 Politics & law
+un(e) avocat(e)	律师	lawyer	政治与法律 Politics & law
+la corruption	腐败	corruption	政治与法律 Politics & law
+la fraude	欺诈	fraud	政治与法律 Politics & law
+les droits de l'homme (m.)	人权	human rights	政治与法律 Politics & law
+un devoir civique	公民义务	civic duty	政治与法律 Politics & law
+la laïcité	政教分离	secularism	政治与法律 Politics & law
+un conflit	冲突	conflict	政治与法律 Politics & law
+le logement	住房	housing	城市与住房 City & housing
+un logement social	社会住房	social housing	城市与住房 City & housing
+la crise du logement	住房危机	housing crisis	城市与住房 City & housing
+un(e) propriétaire	房东；业主	owner; landlord	城市与住房 City & housing
+un(e) locataire	租客	tenant	城市与住房 City & housing
+un bail	租约	lease	城市与住房 City & housing
+une colocation	合租	flatshare	城市与住房 City & housing
+un(e) colocataire	室友	flatmate	城市与住房 City & housing
+un studio	单间公寓	studio flat	城市与住房 City & housing
+la superficie	面积	surface area	城市与住房 City & housing
+un mètre carré	平方米	square metre	城市与住房 City & housing
+un déménagement	搬家	house move	城市与住房 City & housing
+l'urbanisation (f.)	城市化	urbanisation	城市与住房 City & housing
+urbain / urbaine	城市的	urban	城市与住房 City & housing
+rural / rurale	农村的	rural	城市与住房 City & housing
+une agglomération	城市群	urban area	城市与住房 City & housing
+un(e) citadin(e)	城里人	city dweller	城市与住房 City & housing
+l'exode rural (m.)	农村人口外流	rural exodus	城市与住房 City & housing
+les infrastructures (f.)	基础设施	infrastructure	城市与住房 City & housing
+les services publics (m.)	公共服务	public services	城市与住房 City & housing
+les espaces verts (m.)	绿地	green spaces	城市与住房 City & housing
+une zone piétonne	步行区	pedestrian zone	城市与住房 City & housing
+un piéton / une piétonne	行人	pedestrian	城市与住房 City & housing
+un automobiliste	开车的人	driver	城市与住房 City & housing
+un(e) cycliste	骑自行车的人	cyclist	城市与住房 City & housing
+le stationnement	停车	parking	城市与住房 City & housing
+les bouchons (m.)	堵车	traffic jams	城市与住房 City & housing
+l'heure de pointe (f.)	高峰时间	rush hour	城市与住房 City & housing
+un trajet	路程	journey; commute	城市与住房 City & housing
+se déplacer	出行；移动	to get around	城市与住房 City & housing
+les déplacements (m.)	出行	travel; commuting	城市与住房 City & housing
+le bruit / les nuisances (f.)	噪音 / 干扰	noise / nuisances	城市与住房 City & housing
+la qualité de vie	生活质量	quality of life	城市与住房 City & housing
+le cadre de vie	生活环境	living environment	城市与住房 City & housing
+le voisinage	邻里	neighbourhood	城市与住房 City & housing
+la sécurité routière	交通安全	road safety	城市与住房 City & housing
+la limitation de vitesse	限速	speed limit	城市与住房 City & housing
+les loisirs (m.)	休闲活动	leisure	文化与休闲 Culture & leisure
+le temps libre / les loisirs	空闲时间	free time	文化与休闲 Culture & leisure
+une activité	活动	activity	文化与休闲 Culture & leisure
+un passe-temps	爱好	hobby	文化与休闲 Culture & leisure
+pratiquer (un sport)	从事（运动）	to do (a sport)	文化与休闲 Culture & leisure
+la pratique	实践	practice	文化与休闲 Culture & leisure
+un club	俱乐部	club	文化与休闲 Culture & leisure
+un festival	节日；音乐节	festival	文化与休闲 Culture & leisure
+un concert	音乐会	concert	文化与休闲 Culture & leisure
+une pièce de théâtre	话剧	play	文化与休闲 Culture & leisure
+un film / un long métrage	电影 / 长片	film / feature film	文化与休闲 Culture & leisure
+un réalisateur / une réalisatrice	导演	director	文化与休闲 Culture & leisure
+un(e) auteur(e)	作者	author	文化与休闲 Culture & leisure
+une œuvre	作品	work (of art)	文化与休闲 Culture & leisure
+un chef-d'œuvre	杰作	masterpiece	文化与休闲 Culture & leisure
+le patrimoine	遗产	heritage	文化与休闲 Culture & leisure
+un monument	纪念碑；古迹	monument	文化与休闲 Culture & leisure
+l'art (m.)	艺术	art	文化与休闲 Culture & leisure
+la littérature	文学	literature	文化与休闲 Culture & leisure
+la lecture	阅读	reading	文化与休闲 Culture & leisure
+un genre	类型	genre	文化与休闲 Culture & leisure
+un public	观众；公众	audience	文化与休闲 Culture & leisure
+un spectateur / une spectatrice	观众	spectator	文化与休闲 Culture & leisure
+une critique	评论；批评	review; criticism	文化与休闲 Culture & leisure
+critiquer	批评；评论	to criticise	文化与休闲 Culture & leisure
+la créativité	创造力	creativity	文化与休闲 Culture & leisure
+créatif / créative	有创造力的	creative	文化与休闲 Culture & leisure
+une compétition	比赛	competition	文化与休闲 Culture & leisure
+un match	比赛	match	文化与休闲 Culture & leisure
+un(e) athlète	运动员	athlete	文化与休闲 Culture & leisure
+les Jeux olympiques (m.)	奥运会	the Olympic Games	文化与休闲 Culture & leisure
+gagner / perdre un match	赢 / 输比赛	to win / lose a match	文化与休闲 Culture & leisure
+la randonnée	徒步	hiking	文化与休闲 Culture & leisure
+le camping	露营	camping	文化与休闲 Culture & leisure
+une sortie	外出；出口	outing; exit	文化与休闲 Culture & leisure
+se divertir	娱乐	to have fun	文化与休闲 Culture & leisure
+le divertissement	娱乐	entertainment	文化与休闲 Culture & leisure
+un jeu vidéo	电子游戏	video game	文化与休闲 Culture & leisure
+une tradition / traditionnel(le)	传统 / 传统的	tradition / traditional	文化与休闲 Culture & leisure
+une coutume	习俗	custom	文化与休闲 Culture & leisure
+une célébration	庆祝	celebration	文化与休闲 Culture & leisure
+célébrer / fêter	庆祝	to celebrate	文化与休闲 Culture & leisure
+le tourisme	旅游业	tourism	旅行与消费 Travel & consumption
+un(e) touriste	游客	tourist	旅行与消费 Travel & consumption
+le tourisme de masse	大众旅游	mass tourism	旅行与消费 Travel & consumption
+une destination	目的地	destination	旅行与消费 Travel & consumption
+un séjour	逗留	stay	旅行与消费 Travel & consumption
+un hébergement	住宿	accommodation	旅行与消费 Travel & consumption
+une auberge de jeunesse	青年旅舍	youth hostel	旅行与消费 Travel & consumption
+une réservation	预订	booking	旅行与消费 Travel & consumption
+annuler une réservation	取消预订	to cancel a booking	旅行与消费 Travel & consumption
+les bagages (m.)	行李	luggage	旅行与消费 Travel & consumption
+la douane	海关	customs	旅行与消费 Travel & consumption
+une correspondance	转乘	connection	旅行与消费 Travel & consumption
+un vol direct	直飞航班	direct flight	旅行与消费 Travel & consumption
+un circuit	旅游线路	tour	旅行与消费 Travel & consumption
+une agence de voyages	旅行社	travel agency	旅行与消费 Travel & consumption
+un guide	导游；指南	guide	旅行与消费 Travel & consumption
+dépaysant / dépaysante	有异国情调的	exotic; a change of scene	旅行与消费 Travel & consumption
+découvrir / la découverte	发现	to discover / discovery	旅行与消费 Travel & consumption
+un remboursement	退款	refund	旅行与消费 Travel & consumption
+une réclamation	投诉	complaint	旅行与消费 Travel & consumption
+un service client	客服	customer service	旅行与消费 Travel & consumption
+un abonnement	订阅；月票	subscription; pass	旅行与消费 Travel & consumption
+s'abonner	订阅	to subscribe	旅行与消费 Travel & consumption
+résilier	解约	to cancel (a contract)	旅行与消费 Travel & consumption
+un tarif	价格；收费标准	rate; fare	旅行与消费 Travel & consumption
+une promotion / en promotion	促销 / 打折中	special offer / on sale	旅行与消费 Travel & consumption
+une garantie	保修	guarantee	旅行与消费 Travel & consumption
+la consommation responsable	负责任的消费	responsible consumption	旅行与消费 Travel & consumption
+la surconsommation	过度消费	overconsumption	旅行与消费 Travel & consumption
+d'occasion	二手的	second-hand	旅行与消费 Travel & consumption
+acheter en ligne	网购	to buy online	旅行与消费 Travel & consumption
+le commerce en ligne	电子商务	e-commerce	旅行与消费 Travel & consumption
+un(e) commerçant(e)	商人	shopkeeper	旅行与消费 Travel & consumption
+un petit commerce	小商店	small shop	旅行与消费 Travel & consumption
+un phénomène	现象	phenomenon	抽象名词 Abstract nouns
+une tendance	趋势	trend	抽象名词 Abstract nouns
+une évolution	演变	change; development	抽象名词 Abstract nouns
+un changement	变化	change	抽象名词 Abstract nouns
+un enjeu majeur	重大问题	major issue	抽象名词 Abstract nouns
+un défi	挑战	challenge	抽象名词 Abstract nouns
+une question / un problème	问题	issue	抽象名词 Abstract nouns
+une difficulté	困难	difficulty	抽象名词 Abstract nouns
+un risque	风险	risk	抽象名词 Abstract nouns
+un danger / un péril	危险	danger / peril	抽象名词 Abstract nouns
+un impact	影响	impact	抽象名词 Abstract nouns
+une influence	影响	influence	抽象名词 Abstract nouns
+un effet	效果；影响	effect	抽象名词 Abstract nouns
+un résultat	结果	result	抽象名词 Abstract nouns
+une solution / un remède	解决办法	solution / remedy	抽象名词 Abstract nouns
+un moyen	方法；手段	means	抽象名词 Abstract nouns
+une méthode	方法	method	抽象名词 Abstract nouns
+une démarche (approche)	方法；步骤	approach	抽象名词 Abstract nouns
+une stratégie	策略	strategy	抽象名词 Abstract nouns
+une politique (mesures)	政策	policy	抽象名词 Abstract nouns
+un principe	原则	principle	抽象名词 Abstract nouns
+une valeur	价值观；价值	value	抽象名词 Abstract nouns
+une règle / une norme	规则 / 标准	rule / standard	抽象名词 Abstract nouns
+la responsabilité	责任	responsibility	抽象名词 Abstract nouns
+le rôle	角色；作用	role	抽象名词 Abstract nouns
+la place	地位；位置	place; role	抽象名词 Abstract nouns
+l'importance (f.)	重要性	importance	抽象名词 Abstract nouns
+la nécessité	必要性	necessity	抽象名词 Abstract nouns
+un besoin	需要	need	抽象名词 Abstract nouns
+une possibilité	可能性	possibility	抽象名词 Abstract nouns
+une opportunité	机会	opportunity	抽象名词 Abstract nouns
+une occasion	机会；场合	opportunity; occasion	抽象名词 Abstract nouns
+un atout	优势	asset	抽象名词 Abstract nouns
+un point fort / un point faible	优点 / 缺点	strength / weakness	抽象名词 Abstract nouns
+un aspect	方面	aspect	抽象名词 Abstract nouns
+un domaine	领域	field	抽象名词 Abstract nouns
+un niveau de vie	生活水平	standard of living	抽象名词 Abstract nouns
+la réalité	现实	reality	抽象名词 Abstract nouns
+la situation	情况	situation	抽象名词 Abstract nouns
+le contexte	背景	context	抽象名词 Abstract nouns
+une condition	条件	condition	抽象名词 Abstract nouns
+un critère	标准	criterion	抽象名词 Abstract nouns
+un exemple	例子	example	抽象名词 Abstract nouns
+un argument	论据	argument	抽象名词 Abstract nouns
+une preuve	证据	proof	抽象名词 Abstract nouns
+un témoignage	证词；见证	testimony	抽象名词 Abstract nouns
+une étude	研究	study	抽象名词 Abstract nouns
+une enquête (sondage)	调查	survey	抽象名词 Abstract nouns
+un sondage	民意调查	poll	抽象名词 Abstract nouns
+une statistique	统计	statistic	抽象名词 Abstract nouns
+un(e) expert(e)	专家	expert	抽象名词 Abstract nouns
+un(e) chercheur / chercheuse	研究人员	researcher	抽象名词 Abstract nouns
+la majorité / la minorité	多数 / 少数	majority / minority	抽象名词 Abstract nouns
+la société de consommation	消费社会	consumer society	抽象名词 Abstract nouns
+l'individu (m.)	个人	individual	抽象名词 Abstract nouns
+l'individualisme (m.)	个人主义	individualism	抽象名词 Abstract nouns
+la collectivité	集体	community	抽象名词 Abstract nouns
+l'autonomie (f.)	自主	autonomy; independence	抽象名词 Abstract nouns
+l'indépendance (f.)	独立	independence	抽象名词 Abstract nouns
+la motivation	动力	motivation	抽象名词 Abstract nouns
+la réussite / l'échec (m.)	成功 / 失败	success / failure	抽象名词 Abstract nouns
+le progrès / le recul	进步 / 倒退	progress / step back	抽象名词 Abstract nouns
+l'accès (m.) à	获得…的途径	access to	抽象名词 Abstract nouns
+l'usage (m.)	使用；习惯	use; usage	抽象名词 Abstract nouns
+l'abus (m.)	滥用	abuse; excess	抽象名词 Abstract nouns
+l'excès (m.)	过度	excess	抽象名词 Abstract nouns
+le manque de	缺乏	lack of	抽象名词 Abstract nouns
+une limite	限制；界限	limit	抽象名词 Abstract nouns
+un équilibre	平衡	balance	抽象名词 Abstract nouns
+un compromis	妥协	compromise	抽象名词 Abstract nouns
+un consensus	共识	consensus	抽象名词 Abstract nouns
+une controverse	争议	controversy	抽象名词 Abstract nouns
+une polémique	论战	controversy	抽象名词 Abstract nouns
+analyser	分析	to analyse	论证动词 Verbs for arguing
+une analyse	分析	analysis	论证动词 Verbs for arguing
+considérer	认为；考虑	to consider	论证动词 Verbs for arguing
+estimer	认为；估计	to believe; to estimate	论证动词 Verbs for arguing
+juger	判断	to judge	论证动词 Verbs for arguing
+défendre une idée	捍卫观点	to defend an idea	论证动词 Verbs for arguing
+soutenir	支持；坚持认为	to support; to argue	论证动词 Verbs for arguing
+s'opposer à	反对	to oppose	论证动词 Verbs for arguing
+contester	质疑	to dispute	论证动词 Verbs for arguing
+critiquer / la critique	批评	to criticise / criticism	论证动词 Verbs for arguing
+justifier	证明…合理	to justify	论证动词 Verbs for arguing
+démontrer	论证	to demonstrate	论证动词 Verbs for arguing
+illustrer	举例说明	to illustrate	论证动词 Verbs for arguing
+mettre en avant	强调	to highlight	论证动词 Verbs for arguing
+insister sur	强调	to stress	论证动词 Verbs for arguing
+rappeler que	提醒	to remind that	论证动词 Verbs for arguing
+signaler	指出	to point out	论证动词 Verbs for arguing
+mentionner	提到	to mention	论证动词 Verbs for arguing
+évoquer	提及	to mention; to evoke	论证动词 Verbs for arguing
+citer	引用；列举	to quote; to cite	论证动词 Verbs for arguing
+résumer	总结	to summarise	论证动词 Verbs for arguing
+conclure	得出结论	to conclude	论证动词 Verbs for arguing
+nuancer	使…更细致	to qualify (an opinion)	论证动词 Verbs for arguing
+reconnaître que	承认	to acknowledge	论证动词 Verbs for arguing
+convaincre	说服	to convince	论证动词 Verbs for arguing
+persuader	劝说	to persuade	论证动词 Verbs for arguing
+encourager	鼓励	to encourage	论证动词 Verbs for arguing
+inciter à	促使	to encourage; to prompt	论证动词 Verbs for arguing
+pousser à	推动	to push to	论证动词 Verbs for arguing
+contribuer à	有助于	to contribute to	论证动词 Verbs for arguing
+permettre de	使能够	to make it possible to	论证动词 Verbs for arguing
+provoquer	引起	to cause	论证动词 Verbs for arguing
+causer	造成	to cause	论证动词 Verbs for arguing
+engendrer	产生	to generate	论证动词 Verbs for arguing
+générer	产生	to generate	论证动词 Verbs for arguing
+aggraver	使恶化	to worsen	论证动词 Verbs for arguing
+renforcer	加强	to strengthen	论证动词 Verbs for arguing
+affaiblir	削弱	to weaken	论证动词 Verbs for arguing
+limiter	限制	to limit	论证动词 Verbs for arguing
+lutter contre	与…斗争	to fight against	论证动词 Verbs for arguing
+combattre	打击	to combat	论证动词 Verbs for arguing
+résoudre	解决	to solve	论证动词 Verbs for arguing
+faire face à	面对	to face	论证动词 Verbs for arguing
+répondre à un besoin	满足需要	to meet a need	论证动词 Verbs for arguing
+mettre fin à	终止	to put an end to	论证动词 Verbs for arguing
+adopter	采取；收养	to adopt	论证动词 Verbs for arguing
+appliquer	实施；应用	to apply	论证动词 Verbs for arguing
+imposer	强加；征收	to impose	论证动词 Verbs for arguing
+garantir	保证	to guarantee	论证动词 Verbs for arguing
+assurer	确保；保证	to ensure; to assure	论证动词 Verbs for arguing
+offrir la possibilité de	提供…的可能	to offer the chance to	论证动词 Verbs for arguing
+faciliter	使容易	to make easier	论证动词 Verbs for arguing
+simplifier	简化	to simplify	论证动词 Verbs for arguing
+bénéficier de	受益于	to benefit from	论证动词 Verbs for arguing
+profiter de	利用；享受	to take advantage of; to enjoy	论证动词 Verbs for arguing
+tirer profit de	从…获益	to benefit from	论证动词 Verbs for arguing
+se rendre compte que	意识到	to realise that	论证动词 Verbs for arguing
+s'apercevoir	发觉	to notice	论证动词 Verbs for arguing
+constater que	发现；指出	to note that	论证动词 Verbs for arguing
+observer que	观察到	to observe that	论证动词 Verbs for arguing
+prétendre	声称	to claim	论证动词 Verbs for arguing
+partager un avis	同意某观点	to share a view	论证动词 Verbs for arguing
+approuver	赞成	to approve	论证动词 Verbs for arguing
+désapprouver	不赞成	to disapprove	论证动词 Verbs for arguing
+se méfier de	提防	to be wary of	论证动词 Verbs for arguing
+compter sur	依靠	to count on	论证动词 Verbs for arguing
+faire confiance / se fier à	信任	to trust / to rely on	论证动词 Verbs for arguing
+réaliser	实现；意识到	to carry out; to realise	论证动词 Verbs for arguing
+atteindre	达到	to reach	论证动词 Verbs for arguing
+parvenir à	成功做到	to manage to	论证动词 Verbs for arguing
+se développer	发展	to develop	论证动词 Verbs for arguing
+se généraliser	普及	to become widespread	论证动词 Verbs for arguing
+progresser / reculer	进步 / 后退	to progress / to decline	论证动词 Verbs for arguing
+représenter	代表；构成	to represent	论证动词 Verbs for arguing
+constituer	构成	to constitute	论证动词 Verbs for arguing
+concerner	涉及	to concern	论证动词 Verbs for arguing
+toucher (concerner)	影响；涉及	to affect	论证动词 Verbs for arguing
+s'adresser à	面向	to be aimed at	论证动词 Verbs for arguing
+essentiel / essentielle	必不可少的	essential	B2 形容词 Adjectives
+fondamental / fondamentale	根本的	fundamental	B2 形容词 Adjectives
+primordial / primordiale	首要的	paramount	B2 形容词 Adjectives
+majeur / majeure	主要的；重大的	major	B2 形容词 Adjectives
+mineur / mineure	次要的；未成年的	minor	B2 形容词 Adjectives
+considérable	巨大的	considerable	B2 形容词 Adjectives
+significatif / significative	显著的	significant	B2 形容词 Adjectives
+efficace	有效的	effective	B2 形容词 Adjectives
+inefficace	无效的	ineffective	B2 形容词 Adjectives
+utile / nuisible	有用的 / 有害的	useful / harmful	B2 形容词 Adjectives
+positif / positive	积极的	positive	B2 形容词 Adjectives
+négatif / négative	消极的	negative	B2 形容词 Adjectives
+favorable / défavorable	有利的 / 不利的	favourable / unfavourable	B2 形容词 Adjectives
+avantageux / avantageuse	有利的	advantageous	B2 形容词 Adjectives
+bénéfique pour	对…有益	beneficial to	B2 形容词 Adjectives
+dangereux pour	对…危险	dangerous for	B2 形容词 Adjectives
+inquiétant / alarmant	令人担忧的	worrying / alarming	B2 形容词 Adjectives
+préoccupant / préoccupante	令人担心的	of concern	B2 形容词 Adjectives
+urgent / urgente	紧急的	urgent	B2 形容词 Adjectives
+inévitable	不可避免的	inevitable	B2 形容词 Adjectives
+irréversible	不可逆的	irreversible	B2 形容词 Adjectives
+accessible	可获得的；平易的	accessible	B2 形容词 Adjectives
+abordable	价格合理的	affordable	B2 形容词 Adjectives
+coûteux / coûteuse	昂贵的	costly	B2 形容词 Adjectives
+précieux / précieuse	珍贵的	precious	B2 形容词 Adjectives
+rare / fréquent(e)	少见的 / 常见的	rare / frequent	B2 形容词 Adjectives
+courant / répandu	常见的 / 普遍的	common / widespread	B2 形容词 Adjectives
+actuel / contemporain	当前的 / 当代的	current / contemporary	B2 形容词 Adjectives
+traditionnel / traditionnelle	传统的	traditional	B2 形容词 Adjectives
+mondial / mondiale	全球的	global; worldwide	B2 形容词 Adjectives
+économique	经济的；省钱的	economic; economical	B2 形容词 Adjectives
+politique	政治的	political	B2 形容词 Adjectives
+culturel / culturelle	文化的	cultural	B2 形容词 Adjectives
+professionnel / professionnelle	职业的	professional	B2 形容词 Adjectives
+scolaire	学校的	school (adj.)	B2 形容词 Adjectives
+familial / familiale	家庭的	family (adj.)	B2 形容词 Adjectives
+quotidien / quotidienne	日常的	daily	B2 形容词 Adjectives
+individuel / individuelle	个人的	individual	B2 形容词 Adjectives
+collectif / collective	集体的	collective	B2 形容词 Adjectives
+responsable de	对…负责的	responsible for	B2 形容词 Adjectives
+conscient / consciente (de)	意识到的	aware (of)	B2 形容词 Adjectives
+capable / incapable (de)	能 / 不能	able / unable (to)	B2 形容词 Adjectives
+indépendant / indépendante	独立的	independent	B2 形容词 Adjectives
+autonome	自主的	autonomous; independent	B2 形容词 Adjectives
+motivé / motivée	有动力的	motivated	B2 形容词 Adjectives
+engagé / engagée	投入的；有立场的	committed	B2 形容词 Adjectives
+exigeant / exigeante	要求高的	demanding	B2 形容词 Adjectives
+stressant / stressante	让人有压力的	stressful	B2 形容词 Adjectives
+enrichissant / enrichissante	使人充实的	enriching; rewarding	B2 形容词 Adjectives
+épanouissant / épanouissante	让人成长的	fulfilling	B2 形容词 Adjectives
+gratifiant / gratifiante	有成就感的	rewarding	B2 形容词 Adjectives
+pénible	辛苦的；讨厌的	tiresome; hard	B2 形容词 Adjectives
+agréable / désagréable	愉快的 / 不愉快的	pleasant / unpleasant	B2 形容词 Adjectives
+confortable	舒适的	comfortable	B2 形容词 Adjectives
+flexible / souple	灵活的	flexible	B2 形容词 Adjectives
+stable / instable	稳定的 / 不稳定的	stable / unstable	B2 形容词 Adjectives
+sûr / risqué	安全的 / 有风险的	safe / risky	B2 形容词 Adjectives
+objectif / subjectif	客观的 / 主观的	objective / subjective	B2 形容词 Adjectives
+raisonnable	合理的	reasonable	B2 形容词 Adjectives
+logique	合逻辑的	logical	B2 形容词 Adjectives
+absurde	荒谬的	absurd	B2 形容词 Adjectives
+injuste	不公平的	unfair	B2 形容词 Adjectives
+équitable	公平的	fair	B2 形容词 Adjectives
+légitime	合理的；合法的	legitimate	B2 形容词 Adjectives
+discutable	值得商榷的	debatable	B2 形容词 Adjectives
+incontestable	无可争议的	indisputable	B2 形容词 Adjectives
+complexe	复杂的	complex	B2 形容词 Adjectives
+varié / variée	多样的	varied	B2 形容词 Adjectives
+divers / diverse	各种的	various	B2 形容词 Adjectives
+nombreux / nombreuse	众多的	numerous	B2 形容词 Adjectives
+croissant / croissante	日益增长的	growing	B2 形容词 Adjectives
+massif / massive	大规模的	massive	B2 形容词 Adjectives
+excessif / excessive	过度的	excessive	B2 形容词 Adjectives
+suffisant / insuffisant	足够的 / 不足的	sufficient / insufficient	B2 形容词 Adjectives
+global / globale	整体的	overall	B2 形容词 Adjectives
+concret / concrète	具体的	concrete	B2 形容词 Adjectives
+abstrait / abstraite	抽象的	abstract	B2 形容词 Adjectives
+précédent / suivant	之前的 / 之后的	previous / following	B2 形容词 Adjectives
+actuellement	目前	currently	B2 副词与连接 Adverbs & connectors
+de nos jours	如今	nowadays	B2 副词与连接 Adverbs & connectors
+aujourd'hui encore	至今仍	still today	B2 副词与连接 Adverbs & connectors
+à l'heure actuelle	目前	at present	B2 副词与连接 Adverbs & connectors
+dans le passé	在过去	in the past	B2 副词与连接 Adverbs & connectors
+à l'avenir / dans les années à venir	将来 / 未来几年	in future / in the coming years	B2 副词与连接 Adverbs & connectors
+de plus en plus	越来越	more and more	B2 副词与连接 Adverbs & connectors
+de moins en moins	越来越少	less and less	B2 副词与连接 Adverbs & connectors
+progressivement	逐步地	gradually	B2 副词与连接 Adverbs & connectors
+peu à peu	渐渐	little by little	B2 副词与连接 Adverbs & connectors
+rapidement	迅速地	quickly	B2 副词与连接 Adverbs & connectors
+largement	广泛地；大大地	widely; largely	B2 副词与连接 Adverbs & connectors
+fortement	强烈地	strongly	B2 副词与连接 Adverbs & connectors
+particulièrement	特别地	particularly	B2 副词与连接 Adverbs & connectors
+principalement	主要地	mainly	B2 副词与连接 Adverbs & connectors
+essentiellement	本质上；主要	essentially	B2 副词与连接 Adverbs & connectors
+généralement	通常	generally	B2 副词与连接 Adverbs & connectors
+globalement	总体上	overall	B2 副词与连接 Adverbs & connectors
+personnellement	就我个人而言	personally	B2 副词与连接 Adverbs & connectors
+réellement	真正地	really; actually	B2 副词与连接 Adverbs & connectors
+clairement	清楚地	clearly	B2 副词与连接 Adverbs & connectors
+nettement	明显地	clearly; markedly	B2 副词与连接 Adverbs & connectors
+davantage de	更多的	more	B2 副词与连接 Adverbs & connectors
+en premier lieu	首先	in the first place	B2 副词与连接 Adverbs & connectors
+en second lieu	其次	secondly	B2 副词与连接 Adverbs & connectors
+premièrement / deuxièmement	第一 / 第二	firstly / secondly	B2 副词与连接 Adverbs & connectors
+d'une part … d'autre part	一方面…另一方面	on the one hand … on the other	B2 副词与连接 Adverbs & connectors
+en ce qui concerne	关于	as regards	B2 副词与连接 Adverbs & connectors
+quant à moi	至于我	as for me	B2 副词与连接 Adverbs & connectors
+à mes yeux	在我看来	in my eyes	B2 副词与连接 Adverbs & connectors
+d'après moi	依我看	in my view	B2 副词与连接 Adverbs & connectors
+il me semble que	我觉得	it seems to me that	B2 副词与连接 Adverbs & connectors
+je suis convaincu(e) que	我确信	I am convinced that	B2 副词与连接 Adverbs & connectors
+je suis persuadé(e) que	我深信	I am sure that	B2 副词与连接 Adverbs & connectors
+je ne pense pas que (+ subj.)	我不认为	I don't think that	B2 副词与连接 Adverbs & connectors
+il est vrai que	诚然	it is true that	B2 副词与连接 Adverbs & connectors
+il faut reconnaître que	必须承认	one must admit that	B2 副词与连接 Adverbs & connectors
+il est indéniable que	不可否认	it is undeniable that	B2 副词与连接 Adverbs & connectors
+force est de constater que	不得不承认	one has to admit that	B2 副词与连接 Adverbs & connectors
+en revanche / par contre	相反 / 但是	on the other hand	B2 副词与连接 Adverbs & connectors
+à l'inverse	反过来	conversely	B2 副词与连接 Adverbs & connectors
+au contraire de	与…相反	unlike	B2 副词与连接 Adverbs & connectors
+en dépit du fait que	尽管	despite the fact that	B2 副词与连接 Adverbs & connectors
+même s'il est vrai que	即使…是真的	even if it is true that	B2 副词与连接 Adverbs & connectors
+sans compter que	更何况	not to mention that	B2 副词与连接 Adverbs & connectors
+qui plus est	而且	what's more	B2 副词与连接 Adverbs & connectors
+de surcroît	此外	moreover	B2 副词与连接 Adverbs & connectors
+sans oublier	更不用说	not forgetting	B2 副词与连接 Adverbs & connectors
+en particulier / notamment	特别是	in particular	B2 副词与连接 Adverbs & connectors
+à titre d'exemple	举个例子	as an example	B2 副词与连接 Adverbs & connectors
+prenons l'exemple de	以…为例	take the example of	B2 副词与连接 Adverbs & connectors
+comme le montre	正如…所示	as shown by	B2 副词与连接 Adverbs & connectors
+en conséquence	因此	as a result	B2 副词与连接 Adverbs & connectors
+il en résulte que	由此导致	as a result	B2 副词与连接 Adverbs & connectors
+c'est la raison pour laquelle	这就是为什么	that is why	B2 副词与连接 Adverbs & connectors
+étant donné que	鉴于	given that	B2 副词与连接 Adverbs & connectors
+vu que	既然	seeing that	B2 副词与连接 Adverbs & connectors
+dans la mesure où	既然；在…程度上	insofar as	B2 副词与连接 Adverbs & connectors
+à condition de	只要	provided that	B2 副词与连接 Adverbs & connectors
+en fin de compte	归根结底	in the end	B2 副词与连接 Adverbs & connectors
+pour conclure	总之	to conclude	B2 副词与连接 Adverbs & connectors
+en conclusion	总之	in conclusion	B2 副词与连接 Adverbs & connectors
+pour résumer	总结一下	to sum up	B2 副词与连接 Adverbs & connectors
+tout bien considéré	综合考虑	all things considered	B2 副词与连接 Adverbs & connectors
+à court terme / à moyen terme	短期 / 中期	in the short / medium term	B2 副词与连接 Adverbs & connectors
+dans l'ensemble	总体上	on the whole	B2 副词与连接 Adverbs & connectors
+dans un premier temps	首先	at first	B2 副词与连接 Adverbs & connectors
+dans un second temps	其次	then; secondly	B2 副词与连接 Adverbs & connectors
+avoir l'occasion de	有机会做	to have the chance to	常用表达 Expressions
+avoir le droit de	有权做	to be allowed to	常用表达 Expressions
+avoir tendance à	倾向于	to tend to	常用表达 Expressions
+avoir intérêt à	最好…	to be well advised to	常用表达 Expressions
+être en mesure de	能够	to be able to	常用表达 Expressions
+être sur le point de	即将	to be about to	常用表达 Expressions
+être en train de changer	正在改变	to be changing	常用表达 Expressions
+être à l'origine de	是…的起因	to be the cause of	常用表达 Expressions
+être favorable à	赞成	to be in favour of	常用表达 Expressions
+être opposé(e) à	反对	to be against	常用表达 Expressions
+faire partie de	是…的一部分	to be part of	常用表达 Expressions
+faire des progrès	取得进步	to make progress	常用表达 Expressions
+faire des efforts	努力	to make an effort	常用表达 Expressions
+faire des économies	省钱	to save money	常用表达 Expressions
+faire la queue	排队	to queue	常用表达 Expressions
+faire un choix	做选择	to make a choice	常用表达 Expressions
+faire appel à	求助于	to call on	常用表达 Expressions
+faire preuve de	表现出	to show (a quality)	常用表达 Expressions
+prendre en compte	考虑到	to take into account	常用表达 Expressions
+prendre des mesures	采取措施	to take measures	常用表达 Expressions
+prendre l'habitude de	养成习惯	to get into the habit of	常用表达 Expressions
+prendre soin de	照顾	to take care of	常用表达 Expressions
+prendre le temps de	花时间做	to take the time to	常用表达 Expressions
+prendre sa retraite	退休	to retire	常用表达 Expressions
+mettre en œuvre	实施	to implement	常用表达 Expressions
+mettre l'accent sur	强调	to emphasise	常用表达 Expressions
+mettre en danger	使…处于危险	to endanger	常用表达 Expressions
+porter atteinte à	损害	to harm	常用表达 Expressions
+jouer un rôle (dans)	起作用	to play a role (in)	常用表达 Expressions
+avoir un impact sur	对…有影响	to have an impact on	常用表达 Expressions
+avoir des conséquences sur	对…有后果	to have consequences for	常用表达 Expressions
+tirer des conclusions	得出结论	to draw conclusions	常用表达 Expressions
+trouver une solution	找到解决办法	to find a solution	常用表达 Expressions
+poser un problème	造成问题	to be a problem	常用表达 Expressions
+il est temps de	是时候…了	it's time to	常用表达 Expressions
+il est essentiel de	…至关重要	it is essential to	常用表达 Expressions
+il est préférable de	最好…	it is better to	常用表达 Expressions
+il serait souhaitable que	希望能…	it would be desirable that	常用表达 Expressions
+il suffit de	只要…就够了	all you need is to	常用表达 Expressions
+il s'agit avant tout de	首先是…的问题	it is above all about	常用表达 Expressions
+à mon humble avis	依我拙见	in my humble opinion	常用表达 Expressions
+je tiens à souligner que	我想强调	I'd like to stress that	常用表达 Expressions
+je vous remercie de	感谢您…	thank you for	常用表达 Expressions
+je me permets de	冒昧…	I take the liberty of	常用表达 Expressions
+je vous serais reconnaissant(e) de	如能…将不胜感激	I would be grateful if you	常用表达 Expressions
+dans l'attente de votre réponse	期待您的回复	looking forward to your reply	常用表达 Expressions
+veuillez agréer mes salutations distinguées	此致敬礼	yours faithfully	常用表达 Expressions
+Madame, Monsieur,	尊敬的女士/先生：	Dear Sir or Madam,	常用表达 Expressions
+suite à	继…之后	following	常用表达 Expressions
+en réponse à	回复…	in reply to	常用表达 Expressions
+Pourriez-vous me dire … ?	您能告诉我…吗？	Could you tell me …?	常用表达 Expressions
+J'aimerais savoir si …	我想知道是否…	I'd like to know whether …	常用表达 Expressions
+Est-ce qu'il est possible de … ?	可以…吗？	Is it possible to …?	常用表达 Expressions
+Je voudrais me renseigner sur …	我想了解一下…	I'd like information about …	常用表达 Expressions
+Qu'est-ce qui est compris dans le prix ?	价格包括什么？	What's included in the price?	常用表达 Expressions
+Je ne suis pas sûr(e) d'avoir bien compris.	我不确定理解对了。	I'm not sure I understood.	常用表达 Expressions
+Pourriez-vous répéter, s'il vous plaît ?	请您再说一遍好吗？	Could you repeat, please?	常用表达 Expressions
+Je vois ce que vous voulez dire, mais …	我明白您的意思，但是…	I see what you mean, but …	常用表达 Expressions
+Je ne suis pas tout à fait d'accord.	我不完全同意。	I don't quite agree.	常用表达 Expressions
+Tu ne crois pas que … ?	你不觉得…吗？	Don't you think that …?	常用表达 Expressions
+Imagine un peu …	想象一下…	Just imagine …	常用表达 Expressions
+Ça vaut la peine.	值得。	It's worth it.	常用表达 Expressions
+Ça vaut le coup !	值得一试！	It's worth it!	常用表达 Expressions
+Tu ne le regretteras pas !	你不会后悔的！	You won't regret it!	常用表达 Expressions
+Je te le conseille vivement.	我强烈推荐。	I strongly recommend it.	常用表达 Expressions
