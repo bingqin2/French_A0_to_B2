@@ -1,6 +1,6 @@
 # 第 62 天 / Day 62
 
-[← Day 61](Day_61.md) · [📅 全部天数 All days](../00_每日单词_Daily_words.md)
+[← Day 61](Day_61.md) · [📅 全部天数 All days](../00_每日单词_Daily_words.md) · [Day 63 →](Day_63.md)
 
 > 今天的 4 个新词。先点 🔊 听、跟读，再用上面的 🎧 听写练习。  
 > *Today's 4 new words. Listen, repeat, then use the dictation above.*
@@ -16,4 +16,4 @@
 
 <div class="daydone" data-day="62"></div>
 
-[← Day 61](Day_61.md) · [📅 全部天数 All days](../00_每日单词_Daily_words.md)
+[← Day 61](Day_61.md) · [📅 全部天数 All days](../00_每日单词_Daily_words.md) · [Day 63 →](Day_63.md)

@@ -13,7 +13,7 @@ import hashlib
 import os
 import re
 
-from importance import TIERS, tier
+from importance import TIERS, rank, tier
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "词汇_Vocabulary")
@@ -286,6 +286,7 @@ def main():
         open(os.path.join(OUT, "Anki", f"{level}_Anki.txt"), "w", encoding="utf-8").write("\n".join(anki) + "\n")
         print(f"✓ Anki/{level}_Anki.txt  ({len(anki) - 5} cards)")
     write_important()
+    write_extra()
     write_daily()
 
 
@@ -305,10 +306,39 @@ def ranked_words():
     return by_tier
 
 
-def daily_plan():
-    """Split the ranked list into days of PER_DAY words."""
+EXTRA_TSV = os.path.join(ROOT, "tools", "data", "b1_extra.tsv")
+EXTRA_MD = "00_B1补充单词_B1_extra_words.md"
+
+
+def _key(fr):
+    return re.sub(r"\s+", " ", re.sub(r"\([^)]*\)", "", fr)).strip(" .!?").lower()
+
+
+def extra_words():
+    """B1 extra words (tools/data/b1_extra.tsv) that no lesson teaches, most common first."""
+    if not os.path.exists(EXTRA_TSV):
+        return []
+    known = {_key(r["fr"]) for _, _, r in all_words()}
+    rows, seen = [], set()
+    for line in open(EXTRA_TSV, encoding="utf-8"):
+        f = line.rstrip("\n").split("\t")
+        if line.startswith("#") or len(f) != 4 or _key(f[0]) in known or _key(f[0]) in seen:
+            continue
+        seen.add(_key(f[0]))
+        rows.append({"fr": f[0], "ipa": "", "zh": f[1], "en": f[2], "note": "", "theme": f[3]})
+    rows.sort(key=lambda r: (tier(r["fr"], "B1")[0], rank(r["fr"])))
+    return rows
+
+
+def course_plan():
     words = [w for i in range(3) for w in ranked_words()[i]]
     return [words[i:i + PER_DAY] for i in range(0, len(words), PER_DAY)]
+
+
+def daily_plan():
+    """Course words first (days 1–62), then the B1 extra words, PER_DAY a day."""
+    extra = [("B1+", None, r) for r in extra_words()]
+    return course_plan() + [extra[i:i + PER_DAY] for i in range(0, len(extra), PER_DAY)]
 
 
 def lesson_files():
@@ -323,14 +353,19 @@ def write_daily():
     """One short list per day: 词汇_Vocabulary/每日单词_Daily/Day_NN.md + an index page."""
     days = daily_plan()
     n = len(days)
+    n1 = len(course_plan())
     out = os.path.join(OUT, DAILY)
     os.makedirs(out, exist_ok=True)
     for old in glob.glob(os.path.join(out, "Day_*.md")):
         os.remove(old)
     index = ["# 每日单词 / One List a Day", "",
-             f"> 全部 {sum(map(len, days))} 个单词分成 **{n} 天**，每天 **{PER_DAY} 个**，"
-             "最重要的在前面：先学完全部 ⭐⭐⭐ 核心词，再学 ⭐⭐ 和 ⭐。  ",
-             f"> *All words split into {n} short lists of {PER_DAY}, most important first.*", "",
+             f"> 共 {sum(map(len, days))} 个单词，分成 **{n} 天**，每天 **{PER_DAY} 个**。  ",
+             f"> - **第 1–{n1} 天**：课程里的全部单词，最重要的在前面（先学完全部 ⭐⭐⭐ 核心词）。  ",
+             f"> - **第 {n1 + 1}–{n} 天**：[B1 补充单词](00_B1补充单词_B1_extra_words.md)——课程没教、"
+             "但达到 B1 必须会的常用词，也是最常用的在前面。  ",
+             f"> *{n} short lists of {PER_DAY}: the course words first, then the B1 extra words.*", "",
+             "🎯 **目标 B1**：学完第 1–50 天左右（A1–B1 课程词）+ 第 "
+             f"{n1 + 1}–{n} 天（补充词），大约 2,000 个词。", "",
              "💡 **每天怎么学 (about 15 min)**",
              "1. 打开今天的列表，每个词点 🔊 听 2–3 遍，跟着读出声。",
              "2. 用页面最上面的 🎧 听写练习，练到大部分都能写对。",
@@ -340,6 +375,10 @@ def write_daily():
              "Anki：在浏览器里搜 `tag:day::01` 就只看第 1 天的词（`tag:day::0*` 是第 1–9 天）。", "",
              "| 天 Day | 单词 Words | 重要 | 进度 |", "|---|---|---|---|"]
     for d, words in enumerate(days, 1):
+        if d == 1:
+            index += [f"| **第一部分 Part 1 · 课程单词 Course words** | | | |"]
+        if d == n1 + 1:
+            index += [f"| **第二部分 Part 2 · B1 补充单词 Extra words** | | | |"]
         stars = sorted({tier(r["fr"], lv)[1] for lv, _, r in words}, key=len, reverse=True)
         preview = ", ".join(r["fr"].rstrip(" …") for _, _, r in words[:4]) + " …"
         index.append(f"| [Day {d:02d}]({DAILY}/Day_{d:02d}.md) | {md_escape(preview)} | "
@@ -366,12 +405,47 @@ def write_day(out, d, n, words):
         lines += ["🔁 **今天也复习 Also review:** " + " · ".join(review), ""]
     lines += ["| 重要 | 法语 French | 中文 | English | 课 Lesson |", "|---|---|---|---|---|"]
     for lv, num, r in words:
-        lv2, _ = titles[num]
-        link = f"[L{num:02d}](../{lv2}/L{num:02d}_词汇_Vocab.md)"
+        if num is None:
+            link = f"[B1+](../{EXTRA_MD})"
+        else:
+            lv2, _ = titles[num]
+            link = f"[L{num:02d}](../{lv2}/L{num:02d}_词汇_Vocab.md)"
         lines.append(f"| {tier(r['fr'], lv)[1]} | " + " | ".join(md_escape(x) for x in
                      (f"**{r['fr']}**", r["zh"], r["en"])) + f" | {link} |")
     lines += ["", f'<div class="daydone" data-day="{d}"></div>', "", " · ".join(nav), ""]
     open(os.path.join(out, f"Day_{d:02d}.md"), "w", encoding="utf-8").write("\n".join(lines))
+
+
+def write_extra():
+    """B1 extra words: one page grouped by theme, plus an Anki file."""
+    rows = extra_words()
+    themes = []
+    for r in rows:
+        if r["theme"] not in themes:
+            themes.append(r["theme"])
+    order = [ln.split("\t")[3].strip() for ln in open(EXTRA_TSV, encoding="utf-8")
+             if not ln.startswith("#") and ln.count("\t") == 3]
+    themes.sort(key=order.index)
+    n = [sum(1 for r in rows if tier(r["fr"], "B1")[0] == i) for i in range(3)]
+    lines = ["# B1 补充单词 / B1 Extra Words", "",
+             f"> 课程 80 课里没教、但达到 **B1** 必须会的 **{len(rows)} 个常用词**，按主题排列，"
+             "每个主题里最重要的在前面。它们也已经分进了 [每日单词](00_每日单词_Daily_words.md) 的后半部分。  ",
+             f"> *{len(rows)} common words the lessons don't teach but B1 needs, by theme.*", "",
+             f"⭐⭐⭐ {n[0]} · ⭐⭐ {n[1]} · ⭐ {n[2]}", "",
+             "**主题 Themes：** " + " · ".join(f"[{t}](#{i + 1})" for i, t in enumerate(themes)), ""]
+    anki = ["#separator:tab", "#html:true", "#notetype:Basic", "#tags column:3", "#deck column:4"]
+    for i, t in enumerate(themes, 1):
+        group = sorted((r for r in rows if r["theme"] == t), key=lambda r: tier(r["fr"], "B1")[0])
+        lines += [f'<a id="{i}"></a>', "", f"## {i}. {t}（{len(group)}）", "",
+                  "| 重要 | 法语 French | 中文 | English |", "|---|---|---|---|"]
+        for r in group:
+            lines.append(f"| {tier(r['fr'], 'B1')[1]} | " + " | ".join(md_escape(x) for x in
+                         (f"**{r['fr']}**", r["zh"], r["en"])) + " |")
+            anki.append(anki_line(r, "French::B1_extra", f"法语 French::B1 补充 Extra::{i:02d} {t}", "B1"))
+        lines.append("")
+    open(os.path.join(OUT, EXTRA_MD), "w", encoding="utf-8").write("\n".join(lines))
+    open(os.path.join(OUT, "Anki", "B1_extra_Anki.txt"), "w", encoding="utf-8").write("\n".join(anki) + "\n")
+    print(f"✓ {EXTRA_MD}  ({len(rows)} words) + Anki/B1_extra_Anki.txt")
 
 
 def write_important():

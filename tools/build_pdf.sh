@@ -67,6 +67,11 @@ md_to_html "$ROOT/词汇_Vocabulary/00_重要单词_Important_words.md" "$TMP/im
 html_to_pdf "$TMP/important.html" "$OUT/词汇_Vocabulary/00_重要单词_Important_words.pdf"
 echo "✓ 词汇_Vocabulary/00_重要单词_Important_words.pdf"
 
+# B1 extra words
+md_to_html "$ROOT/词汇_Vocabulary/00_B1补充单词_B1_extra_words.md" "$TMP/extra.html"
+html_to_pdf "$TMP/extra.html" "$OUT/词汇_Vocabulary/00_B1补充单词_B1_extra_words.pdf"
+echo "✓ 词汇_Vocabulary/00_B1补充单词_B1_extra_words.pdf"
+
 # Daily lists: one printable PDF, one day per page (no web-only links/buttons)
 DAILY_MD="$TMP/daily.md"
 cat "$ROOT/词汇_Vocabulary/00_每日单词_Daily_words.md" | grep -v 'Anki：' \

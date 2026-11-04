@@ -1,7 +1,11 @@
 # 每日单词 / One List a Day
 
-> 全部 1224 个单词分成 **62 天**，每天 **20 个**，最重要的在前面：先学完全部 ⭐⭐⭐ 核心词，再学 ⭐⭐ 和 ⭐。  
-> *All words split into 62 short lists of 20, most important first.*
+> 共 2093 个单词，分成 **106 天**，每天 **20 个**。  
+> - **第 1–62 天**：课程里的全部单词，最重要的在前面（先学完全部 ⭐⭐⭐ 核心词）。  
+> - **第 63–106 天**：[B1 补充单词](00_B1补充单词_B1_extra_words.md)——课程没教、但达到 B1 必须会的常用词，也是最常用的在前面。  
+> *106 short lists of 20: the course words first, then the B1 extra words.*
+
+🎯 **目标 B1**：学完第 1–50 天左右（A1–B1 课程词）+ 第 63–106 天（补充词），大约 2,000 个词。
 
 💡 **每天怎么学 (about 15 min)**
 1. 打开今天的列表，每个词点 🔊 听 2–3 遍，跟着读出声。
@@ -13,6 +17,7 @@ Anki：在浏览器里搜 `tag:day::01` 就只看第 1 天的词（`tag:day::0*`
 
 | 天 Day | 单词 Words | 重要 | 进度 |
 |---|---|---|---|
+| **第一部分 Part 1 · 课程单词 Course words** | | | |
 | [Day 01](每日单词_Daily/Day_01.md) | un homme, une femme, un garçon, une fille … | ⭐⭐⭐ | <span class="daymark" data-day="1"></span> |
 | [Day 02](每日单词_Daily/Day_02.md) | l'hôtel (m.), j'aime, je n'aime pas, j'adore … | ⭐⭐⭐ | <span class="daymark" data-day="2"></span> |
 | [Day 03](每日单词_Daily/Day_03.md) | un enfant, un chien, un an, avoir faim … | ⭐⭐⭐ | <span class="daymark" data-day="3"></span> |
@@ -75,3 +80,48 @@ Anki：在浏览器里搜 `tag:day::01` 就只看第 1 天的词（`tag:day::0*`
 | [Day 60](每日单词_Daily/Day_60.md) | certes, en définitive, bénéfique, néfaste … | ⭐ | <span class="daymark" data-day="60"></span> |
 | [Day 61](每日单词_Daily/Day_61.md) | quand les poules auront des dents, il fait un froid de canard, avoir le cafard, faire la grasse matinée … | ⭐ | <span class="daymark" data-day="61"></span> |
 | [Day 62](每日单词_Daily/Day_62.md) | reformuler, constater, favoriser, susciter … | ⭐ | <span class="daymark" data-day="62"></span> |
+| **第二部分 Part 2 · B1 补充单词 Extra words** | | | |
+| [Day 63](每日单词_Daily/Day_63.md) | ceci / cela / ça, C'est ça !, l'air (m.), avoir l'air … | ⭐⭐⭐ | <span class="daymark" data-day="63"></span> |
+| [Day 64](每日单词_Daily/Day_64.md) | une chose, bon, juste, avoir … | ⭐⭐⭐ | <span class="daymark" data-day="64"></span> |
+| [Day 65](每日单词_Daily/Day_65.md) | une personne, croire, selon / d'après, Dieu … | ⭐⭐⭐ | <span class="daymark" data-day="65"></span> |
+| [Day 66](每日单词_Daily/Day_66.md) | se passer de, un monsieur, un nom, Bonne nuit ! … | ⭐⭐⭐ | <span class="daymark" data-day="66"></span> |
+| [Day 67](每日单词_Daily/Day_67.md) | À bientôt ! / À demain !, hein ?, tant que, tant … | ⭐⭐⭐ | <span class="daymark" data-day="67"></span> |
+| [Day 68](每日单词_Daily/Day_68.md) | une place, placer, y compris, ni … ni … | ⭐⭐⭐ | <span class="daymark" data-day="68"></span> |
+| [Day 69](每日单词_Daily/Day_69.md) | le droit, un compte, la terre, près (de) / loin (de) … | ⭐⭐⭐ | <span class="daymark" data-day="69"></span> |
+| [Day 70](每日单词_Daily/Day_70.md) | à peu près, dessus / dessous, au-dessus (de) / au-dessous (de), Je t'en prie. / Je vous en prie. … | ⭐⭐⭐ | <span class="daymark" data-day="70"></span> |
+| [Day 71](每日单词_Daily/Day_71.md) | une arme, un mot de passe, un choix, une faute … | ⭐⭐⭐ | <span class="daymark" data-day="71"></span> |
+| [Day 72](每日单词_Daily/Day_72.md) | inquiet / inquiète, payer, dès, suffire … | ⭐⭐⭐ | <span class="daymark" data-day="72"></span> |
+| [Day 73](每日单词_Daily/Day_73.md) | un chemin, un bras, le visage, surtout … | ⭐⭐⭐ | <span class="daymark" data-day="73"></span> |
+| [Day 74](每日单词_Daily/Day_74.md) | un secret, continuer, la voix, gagner … | ⭐⭐⭐ | <span class="daymark" data-day="74"></span> |
+| [Day 75](每日单词_Daily/Day_75.md) | simplement, le dos, un sac à dos, une armée … | ⭐⭐⭐ | <span class="daymark" data-day="75"></span> |
+| [Day 76](每日单词_Daily/Day_76.md) | magnifique, terminer, une mission, le présent … | ⭐⭐⭐ | <span class="daymark" data-day="76"></span> |
+| [Day 77](每日单词_Daily/Day_77.md) | un flic, normal / normale, le danger, dangereux / dangereuse … | ⭐⭐⭐ | <span class="daymark" data-day="77"></span> |
+| [Day 78](每日单词_Daily/Day_78.md) | un dossier, mille, une relation, une dame … | ⭐⭐⭐ ⭐⭐ | <span class="daymark" data-day="78"></span> |
+| [Day 79](每日单词_Daily/Day_79.md) | Sans blague !, une époque, un cheval, exister … | ⭐⭐ | <span class="daymark" data-day="79"></span> |
+| [Day 80](每日单词_Daily/Day_80.md) | Félicitations !, une entrée, un vol, horrible … | ⭐⭐ | <span class="daymark" data-day="80"></span> |
+| [Day 81](每日单词_Daily/Day_81.md) | la plupart (de), empêcher (de), un niveau, la lune … | ⭐⭐ | <span class="daymark" data-day="81"></span> |
+| [Day 82](每日单词_Daily/Day_82.md) | la presse, merveilleux / merveilleuse, une fenêtre, certainement … | ⭐⭐ | <span class="daymark" data-day="82"></span> |
+| [Day 83](每日单词_Daily/Day_83.md) | une pierre, un portable, l'ordinateur portable (m.), préparer … | ⭐⭐ | <span class="daymark" data-day="83"></span> |
+| [Day 84](每日单词_Daily/Day_84.md) | le ventre, la taille, un contrat, un couteau … | ⭐⭐ | <span class="daymark" data-day="84"></span> |
+| [Day 85](每日单词_Daily/Day_85.md) | dès lors, la maladie, totalement, remercier … | ⭐⭐ | <span class="daymark" data-day="85"></span> |
+| [Day 86](每日单词_Daily/Day_86.md) | un(e) partenaire, amener, justement, un os … | ⭐⭐ | <span class="daymark" data-day="86"></span> |
+| [Day 87](每日单词_Daily/Day_87.md) | mince, fermé / fermée, falloir, lever … | ⭐⭐ | <span class="daymark" data-day="87"></span> |
+| [Day 88](每日单词_Daily/Day_88.md) | créer, compliqué / compliquée, une page, une naissance … | ⭐⭐ | <span class="daymark" data-day="88"></span> |
+| [Day 89](每日单词_Daily/Day_89.md) | un infirmier / une infirmière, une oreille, un oreiller, fuir … | ⭐⭐ | <span class="daymark" data-day="89"></span> |
+| [Day 90](每日单词_Daily/Day_90.md) | un voleur / une voleuse, le sommeil, un policier, un ours … | ⭐⭐ | <span class="daymark" data-day="90"></span> |
+| [Day 91](每日单词_Daily/Day_91.md) | se garer, délicieux / délicieuse, une ambulance, en espèces / en liquide … | ⭐⭐ | <span class="daymark" data-day="91"></span> |
+| [Day 92](每日单词_Daily/Day_92.md) | laver, la caisse, un(e) scientifique, une promesse … | ⭐⭐ | <span class="daymark" data-day="92"></span> |
+| [Day 93](每日单词_Daily/Day_93.md) | l'ascenseur (m.), le parking, un prénom, l'océan (m.) … | ⭐⭐ | <span class="daymark" data-day="93"></span> |
+| [Day 94](每日单词_Daily/Day_94.md) | une nana / une meuf, Ça roule ?, un canapé, extraordinaire … | ⭐⭐ | <span class="daymark" data-day="94"></span> |
+| [Day 95](每日单词_Daily/Day_95.md) | précis / précise, un chiffre, carrément, Ça m'est égal. … | ⭐⭐ | <span class="daymark" data-day="95"></span> |
+| [Day 96](每日单词_Daily/Day_96.md) | une orange, orange, l'huile (f.), large … | ⭐⭐ | <span class="daymark" data-day="96"></span> |
+| [Day 97](每日单词_Daily/Day_97.md) | le stress, un fauteuil, une vague, naturellement … | ⭐⭐ | <span class="daymark" data-day="97"></span> |
+| [Day 98](每日单词_Daily/Day_98.md) | améliorer, une lampe, goûter, généreux / généreuse … | ⭐⭐ ⭐ | <span class="daymark" data-day="98"></span> |
+| [Day 99](每日单词_Daily/Day_99.md) | effectivement, la population, un serveur / une serveuse, un impôt … | ⭐ | <span class="daymark" data-day="99"></span> |
+| [Day 100](每日单词_Daily/Day_100.md) | un texte, décrire, gris / grise, la circulation … | ⭐ | <span class="daymark" data-day="100"></span> |
+| [Day 101](每日单词_Daily/Day_101.md) | une élection, une catastrophe, un(e) dentiste, un ouvrier / une ouvrière … | ⭐ | <span class="daymark" data-day="101"></span> |
+| [Day 102](每日单词_Daily/Day_102.md) | une ordonnance, une mairie, aussitôt, poli / polie … | ⭐ | <span class="daymark" data-day="102"></span> |
+| [Day 103](每日单词_Daily/Day_103.md) | marron, une armoire, un balcon, l'addition (f.) … | ⭐ | <span class="daymark" data-day="103"></span> |
+| [Day 104](每日单词_Daily/Day_104.md) | une cuillère, optimiste / pessimiste, une tomate, un horaire … | ⭐ | <span class="daymark" data-day="104"></span> |
+| [Day 105](每日单词_Daily/Day_105.md) | le poivre, lointain / lointaine, un cahier, une étagère … | ⭐ | <span class="daymark" data-day="105"></span> |
+| [Day 106](每日单词_Daily/Day_106.md) | licencier, cliquer, le réchauffement climatique, la pointure … | ⭐ | <span class="daymark" data-day="106"></span> |

@@ -12,13 +12,13 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_vocab  # noqa: E402
-from build_vocab import AUDIO_DIR, RATE, VOICE, all_words, audio_name, speech_text  # noqa: E402
+from build_vocab import AUDIO_DIR, RATE, VOICE, all_words, audio_name, extra_words, speech_text  # noqa: E402
 
 
 def main():
     os.makedirs(AUDIO_DIR, exist_ok=True)
     made = total = 0
-    for _, _, r in all_words():
+    for r in [r for _, _, r in all_words()] + extra_words():
         total += 1
         path = os.path.join(AUDIO_DIR, audio_name(r["fr"]))
         if os.path.exists(path):

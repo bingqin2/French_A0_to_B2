@@ -1,0 +1,874 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#tags column:3
+#deck column:4
+人 / person	une personne<br><small>⭐⭐⭐</small>[sound:fr_22063e740615.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::01 人与关系 People
+政治家 / politician	un homme / une femme politique<br><small>⭐⭐⭐</small>[sound:fr_1064d10e13be.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::01 人与关系 People
+死亡 / death	la mort<br><small>⭐⭐⭐</small>[sound:fr_dd69d75670c4.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::01 人与关系 People
+死的 / dead	mort / morte<br><small>⭐⭐⭐</small>[sound:fr_ccc30f953a78.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::01 人与关系 People
+人们 / people	les gens (m.)<br><small>⭐⭐⭐</small>[sound:fr_5ac530416d5e.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::01 人与关系 People
+先生 / gentleman	un monsieur<br><small>⭐⭐⭐</small>[sound:fr_7c4a490ab6c4.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::01 人与关系 People
+名字；姓 / name; surname	un nom<br><small>⭐⭐⭐</small>[sound:fr_1e3d406e32e9.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::01 人与关系 People
+孙子 / 孙女 / grandson / granddaughter	un petit-fils / une petite-fille<br><small>⭐⭐⭐</small>[sound:fr_6f790f30ea6f.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::01 人与关系 People
+男朋友 / 女朋友 / boyfriend / girlfriend	un petit ami / une petite amie<br><small>⭐⭐⭐</small>[sound:fr_c31170fc1fc2.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::01 人与关系 People
+爱情 / love	l'amour (m.)<br><small>⭐⭐⭐</small>[sound:fr_ff9f0e83b174.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::01 人与关系 People
+领导；厨师长 / boss; chef	un chef<br><small>⭐⭐⭐</small>[sound:fr_2c485fa0db0f.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::01 人与关系 People
+队；团队 / team	une équipe<br><small>⭐⭐⭐</small>[sound:fr_7675d2450a61.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::01 人与关系 People
+婚礼；婚姻 / wedding; marriage	un mariage<br><small>⭐⭐⭐</small>[sound:fr_fbb94e73d5c8.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::01 人与关系 People
+一群；小组 / group	un groupe<br><small>⭐⭐⭐</small>[sound:fr_4325307af7d0.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::01 人与关系 People
+年龄 / age	l'âge (m.)<br><small>⭐⭐⭐</small>[sound:fr_21179e5bfee6.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::01 人与关系 People
+老板 / boss	un patron / une patronne<br><small>⭐⭐⭐</small>[sound:fr_00f96a5bde69.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::01 人与关系 People
+律师 / lawyer	un avocat / une avocate<br><small>⭐⭐⭐</small>[sound:fr_7b26e5f30b86.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::01 人与关系 People
+活的 / alive	vivant / vivante<br><small>⭐⭐⭐</small>[sound:fr_e99703c244f4.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::01 人与关系 People
+关系 / relationship	une relation<br><small>⭐⭐</small>[sound:fr_80b08dc5b5fc.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::01 人与关系 People
+女士 / lady	une dame<br><small>⭐⭐</small>[sound:fr_5646a117cc40.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::01 人与关系 People
+外国人；陌生人 / foreigner; stranger	un étranger / une étrangère<br><small>⭐⭐</small>[sound:fr_3795ad865b80.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::01 人与关系 People
+恋人 / lover; in love	un(e) amoureux / amoureuse<br><small>⭐⭐</small>[sound:fr_96201f3194e1.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::01 人与关系 People
+经理；校长 / director; manager	un directeur / une directrice<br><small>⭐⭐</small>[sound:fr_824d17779b3c.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::01 人与关系 People
+敌人 / enemy	un(e) ennemi(e)<br><small>⭐⭐</small>[sound:fr_dffb1298a141.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::01 人与关系 People
+客人 / guest	un(e) invité(e)<br><small>⭐⭐</small>[sound:fr_7ba78a8ab58c.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::01 人与关系 People
+夫妻；一对 / couple	un couple<br><small>⭐⭐</small>[sound:fr_b0e5b27ac1cf.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::01 人与关系 People
+士兵 / soldier	un soldat<br><small>⭐⭐</small>[sound:fr_8c70cf6daed1.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::01 人与关系 People
+伴侣；伙伴 / partner	un(e) partenaire<br><small>⭐⭐</small>[sound:fr_7f19184b8aca.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::01 人与关系 People
+成员 / member	un membre<br><small>⭐⭐</small>[sound:fr_323de60c2e6c.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::01 人与关系 People
+出生 / birth	une naissance<br><small>⭐⭐</small>[sound:fr_e5fc737f932a.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::01 人与关系 People
+护士 / nurse	un infirmier / une infirmière<br><small>⭐⭐</small>[sound:fr_eef96087d2c9.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::01 人与关系 People
+警察 / police officer	un policier<br><small>⭐⭐</small>[sound:fr_e76a4a47f6cb.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::01 人与关系 People
+离婚 / divorce	le divorce<br><small>⭐⭐</small>[sound:fr_ed2902bce84e.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::01 人与关系 People
+友谊 / friendship	l'amitié (f.)<br><small>⭐⭐</small>[sound:fr_9782d41b5aae.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::01 人与关系 People
+艺术家 / artist	un(e) artiste<br><small>⭐⭐</small>[sound:fr_359fd14f8949.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::01 人与关系 People
+成年人 / adult	un(e) adulte<br><small>⭐⭐</small>[sound:fr_47b4c6735c0f.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::01 人与关系 People
+科学家 / scientist	un(e) scientifique<br><small>⭐⭐</small>[sound:fr_5fa22068649e.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::01 人与关系 People
+记者 / journalist	un(e) journaliste<br><small>⭐⭐</small>[sound:fr_31df0b95fae6.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::01 人与关系 People
+人群 / crowd	une foule<br><small>⭐⭐</small>[sound:fr_d81265e3a3db.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::01 人与关系 People
+名 / first name	un prénom<br><small>⭐⭐</small>[sound:fr_2295f1b61f70.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::01 人与关系 People
+职员 / employee	un employé / une employée<br><small>⭐⭐</small>[sound:fr_f53330d2559a.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::01 人与关系 People
+陌生人 / stranger	un(e) inconnu(e)<br><small>⭐⭐</small>[sound:fr_b9139b29c777.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::01 人与关系 People
+侄子 / 侄女 / nephew / niece	un neveu / une nièce<br><small>⭐⭐</small>[sound:fr_a1d85e41f1da.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::01 人与关系 People
+居民 / inhabitant	un(e) habitant(e)<br><small>⭐⭐</small>[sound:fr_9fbf272ded56.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::01 人与关系 People
+一代人 / generation	une génération<br><small>⭐</small>[sound:fr_7b6f1668ee53.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::01 人与关系 People
+服务员 / waiter / waitress	un serveur / une serveuse<br><small>⭐</small>[sound:fr_823c57eb5c78.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::01 人与关系 People
+售货员 / salesperson	un vendeur / une vendeuse<br><small>⭐</small>[sound:fr_1befc86186cb.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::01 人与关系 People
+工人 / worker	un ouvrier / une ouvrière<br><small>⭐</small>[sound:fr_e2b6357197c1.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::01 人与关系 People
+青少年 / teenager	un adolescent / une adolescente<br><small>⭐</small>[sound:fr_d15249c4ec91.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::01 人与关系 People
+农民 / farmer	un agriculteur / une agricultrice<br><small>⭐</small>[sound:fr_c8f573a8c598.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::01 人与关系 People
+…疼 / to have a pain in …	avoir mal à …<br><small>⭐⭐⭐</small>[sound:fr_b85f9d537b41.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+头 / head	la tête<br><small>⭐⭐⭐</small>[sound:fr_60f89af8e2bf.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+血 / blood	le sang<br><small>⭐⭐⭐</small>[sound:fr_08a36099d61d.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+身体 / body	le corps<br><small>⭐⭐⭐</small>[sound:fr_dad4c1b098fb.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+眼睛 / eyes / an eye	les yeux (m.) / un œil<br><small>⭐⭐⭐</small>[sound:fr_254c32ddb085.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+手 / hand	une main<br><small>⭐⭐⭐</small>[sound:fr_d7e00b298019.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+胖的；大的 / fat; big	gros / grosse<br><small>⭐⭐⭐</small>[sound:fr_6eff7e0817d3.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+心脏；心 / heart	le cœur<br><small>⭐⭐⭐</small>[sound:fr_c46fec920998.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+手臂 / arm	un bras<br><small>⭐⭐⭐</small>[sound:fr_f2371544b9b0.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+脸 / face	le visage<br><small>⭐⭐⭐</small>[sound:fr_f0ac463e89dd.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+声音；嗓音 / voice	la voix<br><small>⭐⭐⭐</small>[sound:fr_d6962c55d47a.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+背 / back	le dos<br><small>⭐⭐⭐</small>[sound:fr_1d9464127bc0.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+脚 / foot	un pied<br><small>⭐⭐⭐</small>[sound:fr_5ee83ddbf90f.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+感觉 / to feel	se sentir<br><small>⭐⭐⭐</small>[sound:fr_b0abbeb3cd82.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+健康 / health	la santé<br><small>⭐⭐⭐</small>[sound:fr_5a83232d181a.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+嘴 / mouth	la bouche<br><small>⭐⭐</small>[sound:fr_c34fe6f4a733.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+笑 / to laugh	rire<br><small>⭐⭐</small>[sound:fr_cc2262dc155f.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+大脑 / brain	le cerveau<br><small>⭐⭐</small>[sound:fr_8109632486ce.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+皮肤 / skin	la peau<br><small>⭐⭐</small>[sound:fr_62e8892f1b11.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+受伤的 / injured	blessé / blessée<br><small>⭐⭐</small>[sound:fr_be6b8cbd3d1c.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+鼻子 / nose	le nez<br><small>⭐⭐</small>[sound:fr_fb1ae057a91a.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+怀孕的 / pregnant	enceinte<br><small>⭐⭐</small>[sound:fr_e58e997e51a8.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+疼痛 / pain	la douleur<br><small>⭐⭐</small>[sound:fr_bec3f62e6047.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+腿 / leg	une jambe<br><small>⭐⭐</small>[sound:fr_1c45a502248b.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+肚子 / belly	le ventre<br><small>⭐⭐</small>[sound:fr_83b360787c05.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+疾病 / illness	la maladie<br><small>⭐⭐</small>[sound:fr_6efa17e65e4d.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+哭 / to cry	pleurer<br><small>⭐⭐</small>[sound:fr_c931af44a8c8.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+虚弱的；弱的 / weak	faible<br><small>⭐⭐</small>[sound:fr_dab971a46b1c.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+微笑 / to smile	sourire<br><small>⭐⭐</small>[sound:fr_b5a3bc6a9892.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+微笑 / smile	un sourire<br><small>⭐⭐</small>[sound:fr_21f0461e164c.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+手指 / finger	un doigt<br><small>⭐⭐</small>[sound:fr_e3d3c6d22343.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+骨头 / bone	un os<br><small>⭐⭐</small>[sound:fr_62858587ca0a.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+脖子 / neck	le cou<br><small>⭐⭐</small>[sound:fr_d64734d2a544.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+苗条的 / slim	mince<br><small>⭐⭐</small>[sound:fr_5b55160d506b.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+药 / medicine	un médicament<br><small>⭐⭐</small>[sound:fr_e258b36fb342.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+耳朵 / ear	une oreille<br><small>⭐⭐</small>[sound:fr_9b4a700fcead.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+呼吸 / to breathe	respirer<br><small>⭐⭐</small>[sound:fr_ff5beef3f04d.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+睡眠 / sleep	le sommeil<br><small>⭐⭐</small>[sound:fr_9a04bde7cbb2.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+喉咙 / throat	la gorge<br><small>⭐⭐</small>[sound:fr_1854b4d4cf2e.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+伤 / injury	une blessure<br><small>⭐⭐</small>[sound:fr_1a642562074a.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+救护车 / ambulance	une ambulance<br><small>⭐⭐</small>[sound:fr_4ac7214651a1.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+噩梦 / nightmare	un cauchemar<br><small>⭐⭐</small>[sound:fr_6a04b44246be.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+治疗；照顾 / to treat; to look after	soigner<br><small>⭐⭐</small>[sound:fr_feba47ef5717.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+急诊 / emergency room	les urgences (f.)<br><small>⭐⭐</small>[sound:fr_bc0e766387ac.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+发烧 / fever	la fièvre<br><small>⭐⭐</small>[sound:fr_344608c8295f.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+肩膀 / shoulder	une épaule<br><small>⭐⭐</small>[sound:fr_7dbe227aaee4.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+治愈；痊愈 / to cure; to get better	guérir<br><small>⭐⭐</small>[sound:fr_f62b8e80b82d.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+膝盖 / knee	le genou<br><small>⭐</small>[sound:fr_acf85289bfc1.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+牙医 / dentist	un(e) dentiste<br><small>⭐</small>[sound:fr_ba0b89245279.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+流感 / flu	la grippe<br><small>⭐</small>[sound:fr_9d649f3c9105.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+处方 / prescription	une ordonnance<br><small>⭐</small>[sound:fr_802c7dddc124.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+药店 / pharmacy	une pharmacie<br><small>⭐</small>[sound:fr_7a6f17b1c246.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+感冒 / cold	un rhume<br><small>⭐</small>[sound:fr_33490fc4a640.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+咳嗽 / to cough	tousser<br><small>⭐</small>[sound:fr_714ef11e0551.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::02 身体与健康 Body & health
+东西；事情 / thing	une chose<br><small>⭐⭐⭐</small>[sound:fr_56ccf96d0f98.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+门 / door	une porte<br><small>⭐⭐⭐</small>[sound:fr_d69b1d19405d.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+事情 / 我的东西 / matter / my things	une affaire / mes affaires<br><small>⭐⭐⭐</small>[sound:fr_5d4f875826c6.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+餐厅 / dining room	la salle à manger<br><small>⭐⭐⭐</small>[sound:fr_1b68b4deaa3a.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+房间 / room	une pièce<br><small>⭐⭐⭐</small>[sound:fr_09f8c3e62606.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+卡；地图 / card; map	une carte<br><small>⭐⭐⭐</small>[sound:fr_979214a27531.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+背包 / backpack	un sac à dos<br><small>⭐⭐⭐</small>[sound:fr_ca1702ad4c12.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+光；灯 / light	la lumière<br><small>⭐⭐⭐</small>[sound:fr_62a5a954eca4.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+手表 / watch	une montre<br><small>⭐⭐⭐</small>[sound:fr_4fcdd7366221.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+盒子；罐头 / box; can	une boîte<br><small>⭐⭐⭐</small>[sound:fr_15e1031f3950.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+报纸；日记 / newspaper; diary	un journal<br><small>⭐⭐</small>[sound:fr_44277ae9876a.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+墙 / wall	un mur<br><small>⭐⭐</small>[sound:fr_28e8134c3be7.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+地面 / floor; ground	le sol<br><small>⭐⭐</small>[sound:fr_2bebf5c64bb7.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+衣服 / clothes	les vêtements (m.)<br><small>⭐⭐</small>[sound:fr_139d7ccf7625.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+窗户 / window	une fenêtre<br><small>⭐⭐</small>[sound:fr_8e01286a2598.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+肥皂 / soap	le savon<br><small>⭐⭐</small>[sound:fr_a21765a98a31.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+手机 / mobile phone	un portable<br><small>⭐⭐</small>[sound:fr_e37239b6f10a.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+刀 / knife	un couteau<br><small>⭐⭐</small>[sound:fr_020bbeef3956.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+纸 / paper	un papier<br><small>⭐⭐</small>[sound:fr_867cadcf5451.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+相机 / camera	un appareil photo<br><small>⭐⭐</small>[sound:fr_f9859739caa9.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+帽子 / hat	un chapeau<br><small>⭐⭐</small>[sound:fr_c87db071a160.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+毯子；封面 / blanket; cover	une couverture<br><small>⭐⭐</small>[sound:fr_bfd3949b117f.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+屋顶 / roof	le toit<br><small>⭐⭐</small>[sound:fr_31bf84297e95.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+花园 / garden	un jardin<br><small>⭐⭐</small>[sound:fr_3daed29ce47d.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+口袋 / pocket	une poche<br><small>⭐⭐</small>[sound:fr_5289d0b44f7d.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+客厅 / living room	le salon<br><small>⭐⭐</small>[sound:fr_870027fea8b8.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+枕头 / pillow	un oreiller<br><small>⭐⭐</small>[sound:fr_098468812d2d.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+楼房 / apartment building	un immeuble<br><small>⭐⭐</small>[sound:fr_883f4f0e80b1.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+外套；夹克 / jacket	une veste<br><small>⭐⭐</small>[sound:fr_2d0011a67e0e.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+戒指 / ring	une bague<br><small>⭐⭐</small>[sound:fr_1b4fe2b1d52b.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+物品 / object	un objet<br><small>⭐⭐</small>[sound:fr_d503fbf0f51f.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+洗衣机 / washing machine	une machine à laver<br><small>⭐⭐</small>[sound:fr_b4a41e3ff691.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+走廊 / corridor	un couloir<br><small>⭐⭐</small>[sound:fr_6fb7ac049430.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+电梯 / lift; elevator	l'ascenseur (m.)<br><small>⭐⭐</small>[sound:fr_232b34e250ff.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+屏幕 / screen	un écran<br><small>⭐⭐</small>[sound:fr_17d64791d7fb.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+沙发 / sofa	un canapé<br><small>⭐⭐</small>[sound:fr_e5a5ceafc852.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+壁橱 / cupboard	un placard<br><small>⭐⭐</small>[sound:fr_25502910604f.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+镜子 / mirror	un miroir<br><small>⭐⭐</small>[sound:fr_1eba977eea58.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+杂志 / magazine	un magazine<br><small>⭐⭐</small>[sound:fr_4b229c1c72e5.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+浴室 / bathroom	la salle de bains<br><small>⭐⭐</small>[sound:fr_3dd159d7cf1c.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+垃圾桶 / bin	une poubelle<br><small>⭐⭐</small>[sound:fr_440d50f57edc.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+手套 / gloves	des gants (m.)<br><small>⭐⭐</small>[sound:fr_abac2d3b1d2d.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+冰箱 / fridge	un frigo<br><small>⭐⭐</small>[sound:fr_1fd66c826325.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+扶手椅 / armchair	un fauteuil<br><small>⭐⭐</small>[sound:fr_c7cc3ae8c2b0.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+灯 / lamp	une lampe<br><small>⭐⭐</small>[sound:fr_15f962aa915c.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+毛巾；餐巾 / towel; napkin	une serviette<br><small>⭐</small>[sound:fr_c445a98ef2a9.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+烤箱 / oven	un four<br><small>⭐</small>[sound:fr_5dbc87cef9be.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+一张纸；叶子 / sheet; leaf	une feuille<br><small>⭐</small>[sound:fr_aa10a9e98e32.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+家具 / piece of furniture	un meuble<br><small>⭐</small>[sound:fr_138e07fd56a4.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+盘子 / plate	une assiette<br><small>⭐</small>[sound:fr_23c47c80f0a5.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+抽屉 / drawer	un tiroir<br><small>⭐</small>[sound:fr_dd28286c3436.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+天花板 / ceiling	le plafond<br><small>⭐</small>[sound:fr_0345f7f512bb.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+垃圾 / waste	les déchets (m.)<br><small>⭐</small>[sound:fr_be7bbe7cabd0.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+衣柜 / wardrobe	une armoire<br><small>⭐</small>[sound:fr_7f392d308813.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+阳台 / balcony	un balcon<br><small>⭐</small>[sound:fr_39652873d4d8.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+铅笔 / pencil	un crayon<br><small>⭐</small>[sound:fr_f06aaec3ee80.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+勺子 / spoon	une cuillère<br><small>⭐</small>[sound:fr_630c19669844.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+围巾 / scarf	une écharpe<br><small>⭐</small>[sound:fr_6979aca73775.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+叉子 / fork	une fourchette<br><small>⭐</small>[sound:fr_b527349d099e.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+本子 / notebook	un cahier<br><small>⭐</small>[sound:fr_351c96c5d592.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+架子 / shelf	une étagère<br><small>⭐</small>[sound:fr_b4fc5472e982.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::03 家与日常用品 Home & things
+菜单 / 套餐 / menu / set menu	la carte / le menu<br><small>⭐⭐⭐</small>[sound:fr_14b5a1ddf517.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+热的 / hot	chaud / chaude<br><small>⭐⭐⭐</small>[sound:fr_565fd5402174.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+冷的 / cold	froid / froide<br><small>⭐⭐⭐</small>[sound:fr_f681354e1c18.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+干杯！ / Cheers!	À la vôtre ! / Santé !<br><small>⭐⭐⭐</small>[sound:fr_db5cc4c41e21.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+上菜；服务 / to serve	servir<br><small>⭐⭐</small>[sound:fr_4bc6b8e9cce9.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+前菜；入口 / starter; entrance	une entrée<br><small>⭐⭐</small>[sound:fr_2917bbcff773.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+食物 / food	la nourriture<br><small>⭐⭐</small>[sound:fr_53d1aefdb1de.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+准备 / to prepare	préparer<br><small>⭐⭐</small>[sound:fr_f8d3c40ea381.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+一顿饭 / meal	un repas<br><small>⭐⭐</small>[sound:fr_65fe734575db.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+新鲜的；凉的 / fresh; cool	frais / fraîche<br><small>⭐⭐</small>[sound:fr_52eaa45e6b7f.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+味道 / taste	le goût<br><small>⭐⭐</small>[sound:fr_b898863f719e.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+蛋糕 / cake	un gâteau<br><small>⭐⭐</small>[sound:fr_27fcb5e7b7b2.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+鸡肉 / chicken	le poulet<br><small>⭐⭐</small>[sound:fr_933c0a48c065.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+点菜；订购 / to order	commander<br><small>⭐⭐</small>[sound:fr_8fd859c77a29.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+一道菜；盘子 / dish	un plat<br><small>⭐⭐</small>[sound:fr_09e62d4e5772.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+美味的 / delicious	délicieux / délicieuse<br><small>⭐⭐</small>[sound:fr_4c8abad2a95d.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+猪肉 / pork	le porc<br><small>⭐⭐</small>[sound:fr_a7c6caad6053.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+橙子 / orange	une orange<br><small>⭐⭐</small>[sound:fr_f7884ce4c6fb.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+油 / oil	l'huile (f.)<br><small>⭐⭐</small>[sound:fr_cc0eec4dc913.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+土豆 / potato	une pomme de terre<br><small>⭐⭐</small>[sound:fr_dd14f86dc3a1.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+沙拉；生菜 / salad; lettuce	la salade<br><small>⭐⭐</small>[sound:fr_e0a24a2e37b7.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+品尝 / to taste	goûter<br><small>⭐⭐</small>[sound:fr_f2947e861052.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+祝你好胃口！ / Enjoy your meal!	Bon appétit !<br><small>⭐⭐</small>[sound:fr_c49f470aa429.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+甜点 / dessert	un dessert<br><small>⭐</small>[sound:fr_696a9e442fb1.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+洋葱 / onion	un oignon<br><small>⭐</small>[sound:fr_0b5515607a4d.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+薯条 / fries	les frites (f.)<br><small>⭐</small>[sound:fr_bac389395d07.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+食谱 / recipe	une recette<br><small>⭐</small>[sound:fr_3f3ed699212c.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+煮；烤 / to cook	cuire<br><small>⭐</small>[sound:fr_e9846c38b3f3.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+柠檬 / lemon	le citron<br><small>⭐</small>[sound:fr_7c4aa70aed9d.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+香蕉 / banana	une banane<br><small>⭐</small>[sound:fr_764d82351730.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+火腿 / ham	le jambon<br><small>⭐</small>[sound:fr_21138ded9f9d.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+账单 / the bill	l'addition (f.)<br><small>⭐</small>[sound:fr_532681a2eb6a.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+小费 / tip	le pourboire<br><small>⭐</small>[sound:fr_edc492637f6b.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+牛肉 / beef	le bœuf<br><small>⭐</small>[sound:fr_b2da2b1a3f0a.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+西红柿 / tomato	une tomate<br><small>⭐</small>[sound:fr_619be710e971.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+果酱 / jam	la confiture<br><small>⭐</small>[sound:fr_95b33904551b.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+面粉 / flour	la farine<br><small>⭐</small>[sound:fr_458ccb544f57.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+长棍面包 / baguette	une baguette<br><small>⭐</small>[sound:fr_0c52d2f64e89.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+胡萝卜 / carrot	une carotte<br><small>⭐</small>[sound:fr_a1e2b313671d.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+胡椒 / pepper	le poivre<br><small>⭐</small>[sound:fr_bcc5b48b93d0.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+草莓 / strawberry	une fraise<br><small>⭐</small>[sound:fr_3b39e891e6d1.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+甜的 / sweet	sucré / sucrée<br><small>⭐</small>[sound:fr_a13350a3dc2d.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+面包店 / bakery	la boulangerie<br><small>⭐</small>[sound:fr_3d3268cf0d2f.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+咸的 / salty	salé / salée<br><small>⭐</small>[sound:fr_775e5ea0bc8a.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+羊角面包 / croissant	un croissant<br><small>⭐</small>[sound:fr_26bb568618fa.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::04 吃喝 Food & drink
+车站 / (bus) stop	un arrêt (de bus)<br><small>⭐⭐⭐</small>[sound:fr_4a7603fb1100.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+准时 / on time	à l'heure<br><small>⭐⭐⭐</small>[sound:fr_a87c29ee9d70.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+广场；座位 / square; seat	une place<br><small>⭐⭐⭐</small>[sound:fr_8661d311d7b9.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+迷路 / to get lost	se perdre<br><small>⭐⭐⭐</small>[sound:fr_f6e6e2cd68ac.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+一直往前 / straight ahead	tout droit<br><small>⭐⭐⭐</small>[sound:fr_628e0e23e89b.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+红绿灯 / traffic light	un feu (rouge)<br><small>⭐⭐⭐</small>[sound:fr_894a105485b6.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+单程 / 往返 / one-way / return ticket	un aller simple / un aller-retour<br><small>⭐⭐⭐</small>[sound:fr_86fa771d072f.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+地图；计划 / map; plan	un plan<br><small>⭐⭐⭐</small>[sound:fr_6063f990360d.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+监狱 / prison	une prison<br><small>⭐⭐⭐</small>[sound:fr_f0c2c5c63d0e.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+公路 / road	une route<br><small>⭐⭐⭐</small>[sound:fr_0d7f7d44d26f.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+市场 / market	un marché<br><small>⭐⭐⭐</small>[sound:fr_5c615a5b3ebb.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+小路；路线 / path; way	un chemin<br><small>⭐⭐⭐</small>[sound:fr_81f8dd49d158.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+迟到 / 提前 / late / early	en retard / en avance<br><small>⭐⭐⭐</small>[sound:fr_48c867698f26.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+街道 / street	la rue<br><small>⭐⭐⭐</small>[sound:fr_af5463fd1eeb.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+船 / boat	un bateau<br><small>⭐⭐⭐</small>[sound:fr_7384be7b9133.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+向右 / 向左 / right / left	à droite / à gauche<br><small>⭐⭐⭐</small>[sound:fr_196e75f01023.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+跟随；沿着 / to follow	suivre<br><small>⭐⭐⭐</small>[sound:fr_29837f3f46b0.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+角落；街角 / corner	un coin<br><small>⭐⭐⭐</small>[sound:fr_b899685b0213.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+邮局 / post office	la poste<br><small>⭐⭐⭐</small>[sound:fr_bf74afbf8bb4.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+航班；偷窃 / flight; theft	un vol<br><small>⭐⭐</small>[sound:fr_c14ecdfe9c2d.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+北 / 南 / north / south	le nord / le sud<br><small>⭐⭐</small>[sound:fr_f369c6e29f18.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+教堂 / church	une église<br><small>⭐⭐</small>[sound:fr_45515502e50f.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+转弯；转 / to turn	tourner<br><small>⭐⭐</small>[sound:fr_9d27690d68bd.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+卡车 / lorry; truck	un camion<br><small>⭐⭐</small>[sound:fr_fdd1a1f1edb7.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+出租车 / taxi	un taxi<br><small>⭐⭐</small>[sound:fr_027543274dd4.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+方向 / direction	la direction<br><small>⭐⭐</small>[sound:fr_ddfe39d2b8a8.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+桥 / bridge	un pont<br><small>⭐⭐</small>[sound:fr_85a67b010a4b.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+东 / 西 / east / west	l'est (m.), l'ouest (m.)<br><small>⭐⭐</small>[sound:fr_5e6ced4c7e9e.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+建筑物 / building	un bâtiment<br><small>⭐⭐</small>[sound:fr_8ab2f36fccfe.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+机场 / airport	l'aéroport (m.)<br><small>⭐⭐</small>[sound:fr_954aa4539427.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+剧院 / theatre	un théâtre<br><small>⭐⭐</small>[sound:fr_93b41b1e7c2d.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+停车 / to park	se garer<br><small>⭐⭐</small>[sound:fr_e8150de94436.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+汽油 / petrol	l'essence (f.)<br><small>⭐⭐</small>[sound:fr_4ade8568826e.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+游泳池 / swimming pool	une piscine<br><small>⭐⭐</small>[sound:fr_02ffbe5aa940.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+小商店 / shop	une boutique<br><small>⭐⭐</small>[sound:fr_1ccf5c230c44.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+停车场 / car park	le parking<br><small>⭐⭐</small>[sound:fr_85dc70f7e648.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+摩托车 / motorbike	une moto<br><small>⭐⭐</small>[sound:fr_1ed994b31a6a.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+体育场 / stadium	un stade<br><small>⭐⭐</small>[sound:fr_53de1e68132a.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+故障 / breakdown	une panne<br><small>⭐⭐</small>[sound:fr_210407b83d68.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+警察局 / police station	le commissariat<br><small>⭐⭐</small>[sound:fr_a48842a51fb4.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+地铁 / underground; subway	un métro<br><small>⭐⭐</small>[sound:fr_e246287582e1.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+购物中心 / shopping centre	un centre commercial<br><small>⭐</small>[sound:fr_d219c54d4e14.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+大街 / avenue	une avenue<br><small>⭐</small>[sound:fr_5d849c350a20.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+票 / ticket	un ticket<br><small>⭐</small>[sound:fr_cf2b548b8dab.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+高速公路 / motorway	une autoroute<br><small>⭐</small>[sound:fr_3feff5dce26b.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+交通 / traffic	la circulation<br><small>⭐</small>[sound:fr_dd7cd1095d1a.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+首都 / capital	la capitale<br><small>⭐</small>[sound:fr_aedc984bcdbb.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+站台；河岸 / platform; quay	un quai<br><small>⭐</small>[sound:fr_a73469613039.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+市政府 / town hall	une mairie<br><small>⭐</small>[sound:fr_4162e48d94cc.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+人行道 / pavement	le trottoir<br><small>⭐</small>[sound:fr_aef87c14e7f6.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+郊区 / suburbs	la banlieue<br><small>⭐</small>[sound:fr_67c0ca5b348e.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+十字路口 / crossroads	un carrefour<br><small>⭐</small>[sound:fr_6f3582c471ec.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+有轨电车 / tram	un tram<br><small>⭐</small>[sound:fr_0349a0681766.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::05 城市与交通 City & transport
+空气 / air	l'air (m.)<br><small>⭐⭐⭐</small>[sound:fr_19dfd66fd109.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+地球；土地 / earth; land	la terre<br><small>⭐⭐⭐</small>[sound:fr_78e417f5bdf3.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+火 / fire	le feu<br><small>⭐⭐⭐</small>[sound:fr_a70eecd9ee00.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+树林；木头 / wood	un bois<br><small>⭐⭐⭐</small>[sound:fr_f77ecd0bfaf4.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+天空 / sky	le ciel<br><small>⭐⭐⭐</small>[sound:fr_b1624e685e7f.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+马 / horse	un cheval<br><small>⭐⭐</small>[sound:fr_44559d2a0840.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+月亮 / moon	la lune<br><small>⭐⭐</small>[sound:fr_2e57960168b6.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+冰 / ice	la glace<br><small>⭐⭐</small>[sound:fr_8591f57db1d4.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+大自然 / nature	la nature<br><small>⭐⭐</small>[sound:fr_9b6ac3be57c0.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+石头 / stone	une pierre<br><small>⭐⭐</small>[sound:fr_7f33b05d701b.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+树 / tree	un arbre<br><small>⭐⭐</small>[sound:fr_3e96d9b48f08.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+田地 / field	un champ<br><small>⭐⭐</small>[sound:fr_4952280583b0.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+鸟 / bird	un oiseau<br><small>⭐⭐</small>[sound:fr_9efaf3fa0199.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+老鼠；鼠标 / mouse	une souris<br><small>⭐⭐</small>[sound:fr_06e381cbf945.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+星星 / star	une étoile<br><small>⭐⭐</small>[sound:fr_3ea1ba6c7349.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+熊 / bear	un ours<br><small>⭐⭐</small>[sound:fr_f501007924c5.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+河 / river	une rivière<br><small>⭐⭐</small>[sound:fr_daf4005c5fbb.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+奶牛 / cow	une vache<br><small>⭐⭐</small>[sound:fr_ab99cf9871f3.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+炎热 / heat	la chaleur<br><small>⭐⭐</small>[sound:fr_0fa1e5186d2e.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+草 / grass	l'herbe (f.)<br><small>⭐⭐</small>[sound:fr_47b699a798f7.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+兔子 / rabbit	un lapin<br><small>⭐⭐</small>[sound:fr_7e1867cc4df2.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+海洋 / ocean	l'océan (m.)<br><small>⭐⭐</small>[sound:fr_187a6e6e3572.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+暴风雨 / storm	une tempête<br><small>⭐⭐</small>[sound:fr_62c2970bd4ae.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+蛇 / snake	un serpent<br><small>⭐⭐</small>[sound:fr_5719ea877a62.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+猪 / pig	un cochon<br><small>⭐⭐</small>[sound:fr_9603f9d07173.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+母鸡 / hen	une poule<br><small>⭐⭐</small>[sound:fr_b9b784ed7746.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+沙子 / sand	le sable<br><small>⭐⭐</small>[sound:fr_6ee86a0fcebb.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+温度 / temperature	la température<br><small>⭐⭐</small>[sound:fr_98a98edaa46f.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+浪 / wave	une vague<br><small>⭐⭐</small>[sound:fr_5b15044c9891.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+狮子 / lion	le lion<br><small>⭐</small>[sound:fr_15a82b1e4325.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+植物 / plant	une plante<br><small>⭐</small>[sound:fr_bdae38de5fad.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+小山 / hill	une colline<br><small>⭐</small>[sound:fr_ca627afeaad0.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+大河 / (large) river	un fleuve<br><small>⭐</small>[sound:fr_69af60814566.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+昆虫 / insect	un insecte<br><small>⭐</small>[sound:fr_9c1dbeeee920.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+雾 / fog	le brouillard<br><small>⭐</small>[sound:fr_2c14f06cb1dd.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+羊 / sheep	un mouton<br><small>⭐</small>[sound:fr_d95d87c0c937.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+风景 / landscape	le paysage<br><small>⭐</small>[sound:fr_a6af1c9aa851.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+气候 / climate	le climat<br><small>⭐</small>[sound:fr_3f6b89d50c50.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::06 自然与动物 Nature & animals
+最多 / at most	au plus / au maximum<br><small>⭐⭐⭐</small>[sound:fr_ee52a77cb894.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+现在 / now	maintenant<br><small>⭐⭐⭐</small>[sound:fr_5eb45c006f32.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+时不时 / from time to time	de temps en temps<br><small>⭐⭐⭐</small>[sound:fr_53b64c326752.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+一直 / all the time	tout le temps<br><small>⭐⭐⭐</small>[sound:fr_cfdcb8b75519.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+同时 / at the same time	en même temps<br><small>⭐⭐⭐</small>[sound:fr_c2a1bf8c15d8.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+一次 / once; time	une fois<br><small>⭐⭐⭐</small>[sound:fr_cdd9ba98e938.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+同时 / at once; both	à la fois<br><small>⭐⭐⭐</small>[sound:fr_bf1d3d222137.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+过去 / the past	le passé<br><small>⭐⭐⭐</small>[sound:fr_60bed0522db7.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+至少 / at least	au moins<br><small>⭐⭐⭐</small>[sound:fr_719aa7b44b2b.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+其余 / the rest	le reste<br><small>⭐⭐⭐</small>[sound:fr_d86f5bb5ca5f.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+刚才；待会儿 / just now; later	tout à l'heure<br><small>⭐⭐⭐</small>[sound:fr_c52a5367a5d0.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+第一 / first	premier / première<br><small>⭐⭐⭐</small>[sound:fr_b9ee011d6c38.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+结束 / end	la fin<br><small>⭐⭐⭐</small>[sound:fr_06df49ea0567.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+差不多 / roughly	à peu près<br><small>⭐⭐⭐</small>[sound:fr_a799c1c44708.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+一会儿 / moment	un instant<br><small>⭐⭐⭐</small>[sound:fr_65c0cd3c45a4.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+升 / litre	un litre<br><small>⭐⭐⭐</small>[sound:fr_1b594cb43992.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+迟早 / sooner or later	tôt ou tard<br><small>⭐⭐⭐</small>[sound:fr_8233887a662b.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+第二 / second	deuxième / second(e)<br><small>⭐⭐⭐</small>[sound:fr_77a5e70e196e.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+延误 / delay	un retard<br><small>⭐⭐⭐</small>[sound:fr_0b3b17a17be3.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+开始 / beginning	le début<br><small>⭐⭐⭐</small>[sound:fr_084551d83e49.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+现在 / the present	le présent<br><small>⭐⭐⭐</small>[sound:fr_fb3787ef7235.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+一半 / half	une moitié<br><small>⭐⭐⭐</small>[sound:fr_477bbf24bba5.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+一千 / thousand	mille<br><small>⭐⭐⭐</small>[sound:fr_00b123c191bc.mp3]	French::B1_extra importance::1_core day::78	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+中间 / middle	le milieu<br><small>⭐⭐</small>[sound:fr_94a7df6a390c.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+时代 / period; era	une époque<br><small>⭐⭐</small>[sound:fr_d86e6015a309.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+大约 / about	environ<br><small>⭐⭐</small>[sound:fr_dd13ce1c45ec.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+大部分时间 / most of the time	la plupart du temps<br><small>⭐⭐</small>[sound:fr_32a3b974a54f.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+大多数 / most (of)	la plupart (de)<br><small>⭐⭐</small>[sound:fr_2e542eb2d0af.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+将来 / the future	le futur<br><small>⭐⭐</small>[sound:fr_05445eb99d0c.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+尺寸；身高 / size; height	la taille<br><small>⭐⭐</small>[sound:fr_5c75add0f92e.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+两倍 / double	le double<br><small>⭐⭐</small>[sound:fr_153d48dcaae8.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+日期 / date	une date<br><small>⭐⭐</small>[sound:fr_10b7dce9e2c8.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+数目 / number	un nombre<br><small>⭐⭐</small>[sound:fr_0ad9487b5477.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+米 / metre	un mètre<br><small>⭐⭐</small>[sound:fr_b5844505c50c.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+重量 / weight	le poids<br><small>⭐⭐</small>[sound:fr_bed67fa6a120.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+百分之一 / one per cent	un pour cent<br><small>⭐⭐</small>[sound:fr_a9e77634b750.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+从此以后 / from now on	désormais<br><small>⭐⭐</small>[sound:fr_67fc12bd2928.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+时期 / period	une période<br><small>⭐⭐</small>[sound:fr_82e777f2e3be.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+一百左右 / about a hundred	une centaine<br><small>⭐⭐</small>[sound:fr_3099fb6b480e.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+公里 / kilometre	un kilomètre<br><small>⭐⭐</small>[sound:fr_4858308b672f.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+数字 / figure; digit	un chiffre<br><small>⭐⭐</small>[sound:fr_fadb90acf7a9.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+十亿 / billion	un milliard<br><small>⭐⭐</small>[sound:fr_325442d37cbe.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+四分之一 / a quarter	un quart<br><small>⭐</small>[sound:fr_3b9cdae89129.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+数量 / quantity	une quantité<br><small>⭐</small>[sound:fr_0e58c44366aa.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+一打 / a dozen	une douzaine<br><small>⭐</small>[sound:fr_424ab3ff023c.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+长度 / length	la longueur<br><small>⭐</small>[sound:fr_596c9c4e3f53.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+立刻 / immediately	aussitôt<br><small>⭐</small>[sound:fr_8cc3dd1cd4ed.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+今后 / henceforth	dorénavant<br><small>⭐</small>[sound:fr_5638bfa9edc7.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+三分之一 / a third	un tiers<br><small>⭐</small>[sound:fr_50842bce0566.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::07 时间与数量 Time & quantity
+历史；故事 / history; story	l'histoire (f.)<br><small>⭐⭐⭐</small>[sound:fr_b222541e77e1.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+生意 / business	une affaire (commerce)<br><small>⭐⭐⭐</small>[sound:fr_b649edc2c076.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+密码 / password	un mot de passe<br><small>⭐⭐⭐</small>[sound:fr_5169cd480e72.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+错误；过错 / mistake; fault	une faute<br><small>⭐⭐⭐</small>[sound:fr_e8ef3a4b6e7c.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+服务；部门 / service; department	un service<br><small>⭐⭐⭐</small>[sound:fr_373b7ff09891.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+作业；义务 / homework; duty	un devoir<br><small>⭐⭐⭐</small>[sound:fr_dabfdbe6d31b.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+题目；主语 / subject; topic	un sujet<br><small>⭐⭐⭐</small>[sound:fr_085ead3c4d4e.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+报告；关系 / report; relation	un rapport<br><small>⭐⭐⭐</small>[sound:fr_20f053ab02fe.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+错误 / mistake	une erreur<br><small>⭐⭐⭐</small>[sound:fr_77fdb72e8294.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+小学老师 / primary teacher	un maître / une maîtresse<br><small>⭐⭐⭐</small>[sound:fr_7ba32004af85.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+任务；使命 / mission	une mission<br><small>⭐⭐⭐</small>[sound:fr_86850d96b54f.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+研究；寻找 / research; search	la recherche<br><small>⭐⭐⭐</small>[sound:fr_e4a166b2d18d.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+文件夹；档案 / file	un dossier<br><small>⭐⭐⭐</small>[sound:fr_52169a7a4f29.mp3]	French::B1_extra importance::1_core day::78	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+签字 / to sign	signer<br><small>⭐⭐</small>[sound:fr_86e8478ca920.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+客户 / client	un client<br><small>⭐⭐</small>[sound:fr_62f4024ce70c.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+公司 / company	une société (entreprise)<br><small>⭐⭐</small>[sound:fr_f6a4d732769f.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+水平 / level	un niveau<br><small>⭐⭐</small>[sound:fr_9309ad5fdc2f.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+笔记本电脑 / laptop	l'ordinateur portable (m.)<br><small>⭐⭐</small>[sound:fr_0483d429bbfe.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+合同 / contract	un contrat<br><small>⭐⭐</small>[sound:fr_fc84e1206915.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+职业生涯 / career	une carrière<br><small>⭐⭐</small>[sound:fr_bee459ae144a.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+管理 / to manage	gérer<br><small>⭐⭐</small>[sound:fr_badeeef93850.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+页 / page	une page<br><small>⭐⭐</small>[sound:fr_beabf15f9fd6.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+退休 / retirement	la retraite<br><small>⭐⭐</small>[sound:fr_62f15163b5f4.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+分数；笔记 / mark; note	une note<br><small>⭐⭐</small>[sound:fr_9c747bec4878.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+互联网 / the Internet	Internet (m.)<br><small>⭐⭐</small>[sound:fr_aed37e830ecf.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+课 / lesson	une leçon<br><small>⭐⭐</small>[sound:fr_6feeeeb38745.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+领导；管理 / to manage; to lead	diriger<br><small>⭐⭐</small>[sound:fr_ceef594307bb.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+网站 / website	un site (web)<br><small>⭐⭐</small>[sound:fr_8327d0ccc02b.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+工作；职位 / job	un emploi<br><small>⭐⭐</small>[sound:fr_2d65f3bc0e47.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+任务 / task	une tâche<br><small>⭐⭐</small>[sound:fr_3e226d5f532f.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+填写；装满 / to fill in; to fill	remplir<br><small>⭐⭐</small>[sound:fr_43f980f0d177.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+中小学生 / pupil	un(e) élève<br><small>⭐⭐</small>[sound:fr_3927982d60c8.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+工资 / salary	un salaire<br><small>⭐⭐</small>[sound:fr_e735905e740a.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+面试 / interview	un entretien<br><small>⭐⭐</small>[sound:fr_0d122ccd168f.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+组织 / to organise	organiser<br><small>⭐⭐</small>[sound:fr_ee6a30f2206a.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+文件 / document	un document<br><small>⭐⭐</small>[sound:fr_5819a4eef9f4.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+科目；材料 / subject; material	une matière<br><small>⭐⭐</small>[sound:fr_fbc33d8abe67.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+假期 / leave; time off	un congé<br><small>⭐⭐</small>[sound:fr_071fb77b61cb.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+练习 / exercise	un exercice<br><small>⭐⭐</small>[sound:fr_2d7662913ee0.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+奖学金 / scholarship	une bourse<br><small>⭐⭐</small>[sound:fr_aabbec735384.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+保存；录音 / to save; to record	enregistrer<br><small>⭐⭐</small>[sound:fr_545b704c2fb2.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+培训 / training	la formation<br><small>⭐⭐</small>[sound:fr_beae9646ef77.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+句子 / sentence	une phrase<br><small>⭐⭐</small>[sound:fr_59cf7bb72e46.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+数学 / maths	les mathématiques / les maths (f.)<br><small>⭐</small>[sound:fr_20202f417c0e.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+文件（电脑） / (computer) file	un fichier<br><small>⭐</small>[sound:fr_d5d9c009f95e.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+文章 / text	un texte<br><small>⭐</small>[sound:fr_aa37f5698d28.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+科学 / science	les sciences (f.)<br><small>⭐</small>[sound:fr_3ceaf619c9ff.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+职业 / profession	une profession<br><small>⭐</small>[sound:fr_f0df105b6d4b.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+雇用 / to hire	embaucher<br><small>⭐</small>[sound:fr_e05118c9c6d9.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+改正 / to correct	corriger<br><small>⭐</small>[sound:fr_cbcb33df061f.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+时间表 / timetable	un horaire<br><small>⭐</small>[sound:fr_93683d829f77.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+老师 / teacher	un(e) enseignant(e)<br><small>⭐</small>[sound:fr_26f0fcf1631d.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+打印 / to print	imprimer<br><small>⭐</small>[sound:fr_38e76ab34509.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+词典 / dictionary	un dictionnaire<br><small>⭐</small>[sound:fr_f6b5629cb688.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+下载 / to download	télécharger<br><small>⭐</small>[sound:fr_44949557ff30.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+解雇 / to dismiss	licencier<br><small>⭐</small>[sound:fr_b6fadb71449e.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+点击 / to click	cliquer<br><small>⭐</small>[sound:fr_c14f5c6c5096.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+地理 / geography	la géographie<br><small>⭐</small>[sound:fr_5c96178eef96.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::08 学习与工作 Study & work
+贵的 / expensive	cher / chère<br><small>⭐⭐⭐</small>[sound:fr_725a049c4b93.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+账户 / account	un compte<br><small>⭐⭐⭐</small>[sound:fr_4a4d114cd373.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+付钱 / to pay	payer<br><small>⭐⭐⭐</small>[sound:fr_f07962d8c189.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+便宜的 / cheap	bon marché<br><small>⭐⭐⭐</small>[sound:fr_6f36c04624d9.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+收据 / receipt	un reçu / un ticket de caisse<br><small>⭐⭐⭐</small>[sound:fr_fab72044cc2a.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+交换；调换 / to exchange	échanger<br><small>⭐⭐</small>[sound:fr_224e7fb05ca9.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+订单 / order	une commande<br><small>⭐⭐</small>[sound:fr_9659ea46e4dd.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+销售 / sale	la vente<br><small>⭐⭐</small>[sound:fr_d664a4f5a612.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+价值；花费 / to cost	coûter<br><small>⭐⭐</small>[sound:fr_40222d39dd42.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+用现金 / in cash	en espèces / en liquide<br><small>⭐⭐</small>[sound:fr_28529968fcb1.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+收银台 / checkout	la caisse<br><small>⭐⭐</small>[sound:fr_fbf33a351e6a.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+零钱 / change; coins	la monnaie<br><small>⭐⭐</small>[sound:fr_f2b86b433c6c.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+送货 / delivery	la livraison<br><small>⭐⭐</small>[sound:fr_fa98422c2d79.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+免费的 / free	gratuit / gratuite<br><small>⭐⭐</small>[sound:fr_d55a963605dc.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+债务 / debt	une dette<br><small>⭐⭐</small>[sound:fr_eb40dae59d69.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+租 / to rent	louer<br><small>⭐⭐</small>[sound:fr_1d389029591d.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+税 / tax	un impôt<br><small>⭐</small>[sound:fr_7047ccd5d11f.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+发票；账单 / invoice; bill	une facture<br><small>⭐</small>[sound:fr_3e8ab621851e.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+花钱 / to spend	dépenser<br><small>⭐</small>[sound:fr_9ec26baefc7c.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+包裹 / parcel	un colis<br><small>⭐</small>[sound:fr_400169dbe9ce.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+租赁 / rental	la location<br><small>⭐</small>[sound:fr_5ad8512db8a7.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+购买的东西 / purchase	un achat<br><small>⭐</small>[sound:fr_4919b79436fb.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+银行卡 / bank card	une carte bancaire<br><small>⭐</small>[sound:fr_7bb298d5a07b.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+鞋码 / shoe size	la pointure<br><small>⭐</small>[sound:fr_138b0729e3ef.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+打折季 / the sales	les soldes (m.)<br><small>⭐</small>[sound:fr_285341bd3294.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::09 钱与购物 Money & shopping
+事实 / fact	un fait<br><small>⭐⭐⭐</small>[sound:fr_34623fb716d9.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+上帝 / God	Dieu<br><small>⭐⭐⭐</small>[sound:fr_193a2973f95b.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+杀 / to kill	tuer<br><small>⭐⭐⭐</small>[sound:fr_c44a28ef16a9.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+警察 / police	la police<br><small>⭐⭐⭐</small>[sound:fr_750505e271f4.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+权力 / power	un pouvoir<br><small>⭐⭐⭐</small>[sound:fr_8241cf55c268.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+消息 / piece of news	une nouvelle<br><small>⭐⭐⭐</small>[sound:fr_6cb001f0962a.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+权利；法律 / right; law	le droit<br><small>⭐⭐⭐</small>[sound:fr_ac594f14dd33.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+武器 / weapon	une arme<br><small>⭐⭐⭐</small>[sound:fr_f87487e433f0.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+国家；政府 / the State	l'État (m.)<br><small>⭐⭐⭐</small>[sound:fr_8ec214cf8d00.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+劳动市场 / job market	le marché du travail<br><small>⭐⭐⭐</small>[sound:fr_78c206ad2347.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+军队 / army	une armée<br><small>⭐⭐⭐</small>[sound:fr_341299fa8a15.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+罪行 / crime	un crime<br><small>⭐⭐⭐</small>[sound:fr_48719a0442ce.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+偷；飞 / to steal; to fly	voler<br><small>⭐⭐⭐</small>[sound:fr_486261b2292d.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+法律 / law	une loi<br><small>⭐⭐⭐</small>[sound:fr_323bfbdd7182.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+危险 / danger	le danger<br><small>⭐⭐⭐</small>[sound:fr_456d02c0b062.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+危险的 / dangerous	dangereux / dangereuse<br><small>⭐⭐⭐</small>[sound:fr_665d6edb20ee.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+法官 / judge	un juge<br><small>⭐⭐⭐</small>[sound:fr_4afd6c9c8fc8.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+公共的 / public	public / publique<br><small>⭐⭐</small>[sound:fr_29a92bacc094.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+政府 / government	le gouvernement<br><small>⭐⭐</small>[sound:fr_d79a52c32b03.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+正义；司法 / justice	la justice<br><small>⭐⭐</small>[sound:fr_f8ab24f02072.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+审判 / trial	un procès<br><small>⭐⭐</small>[sound:fr_2f5a0ec93940.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+广播 / radio	la radio<br><small>⭐⭐</small>[sound:fr_162efdacaaaa.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+新闻界 / the press	la presse<br><small>⭐⭐</small>[sound:fr_ede1ecbc670e.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+信息 / 新闻 / information / the news	l'information (f.) / les infos<br><small>⭐⭐</small>[sound:fr_36950494a6c3.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+能源 / energy	l'énergie (f.)<br><small>⭐⭐</small>[sound:fr_c7cb9f8764e4.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+政治；政策 / politics; policy	la politique<br><small>⭐⭐</small>[sound:fr_4f4b37496772.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+危机 / crisis	une crise<br><small>⭐⭐</small>[sound:fr_0ae6d6e55ea5.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+私人的 / private	privé / privée<br><small>⭐⭐</small>[sound:fr_9dc1f8b97002.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+文章；商品 / article	un article<br><small>⭐⭐</small>[sound:fr_8a591cdaa5da.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+节目 / programme	une émission<br><small>⭐⭐</small>[sound:fr_6f25b65da988.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+小偷 / thief	un voleur / une voleuse<br><small>⭐⭐</small>[sound:fr_bba547ab6767.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+罪犯 / criminal	un(e) criminel(le)<br><small>⭐⭐</small>[sound:fr_4e1a2cfe7db1.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+投票 / to vote	voter<br><small>⭐⭐</small>[sound:fr_8bad9a0ad818.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+火灾 / fire	un incendie<br><small>⭐⭐</small>[sound:fr_a8d812a188d0.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+技术 / technology	la technologie<br><small>⭐⭐</small>[sound:fr_854823bb22a7.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+国家的 / national	national / nationale<br><small>⭐⭐</small>[sound:fr_d1c7552b4128.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+进步 / progress	le progrès<br><small>⭐⭐</small>[sound:fr_817eaac412d5.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+文化 / culture	la culture<br><small>⭐⭐</small>[sound:fr_a0f3d2431a9a.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+宗教 / religion	la religion<br><small>⭐⭐</small>[sound:fr_d8730d83ad8f.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+传统 / tradition	une tradition<br><small>⭐⭐</small>[sound:fr_822cac9cc448.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+事件 / event	un événement<br><small>⭐⭐</small>[sound:fr_39d5ce14893a.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+公民 / citizen	un citoyen / une citoyenne<br><small>⭐</small>[sound:fr_1812dbc7962f.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+人口 / population	la population<br><small>⭐</small>[sound:fr_f51ef48dbcaf.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+广告 / advertisement	une publicité<br><small>⭐</small>[sound:fr_b85b9199e0ea.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+经济 / economy	l'économie (f.)<br><small>⭐</small>[sound:fr_5a98bdeb3a13.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+选举 / election	une élection<br><small>⭐</small>[sound:fr_7e9d5e1d47f4.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+灾难 / disaster	une catastrophe<br><small>⭐</small>[sound:fr_1c7f4fffd161.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+国际的 / international	international / internationale<br><small>⭐</small>[sound:fr_1005e2b124d5.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+移民 / immigration	l'immigration (f.)<br><small>⭐</small>[sound:fr_9b5a213e31c3.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+全球变暖 / global warming	le réchauffement climatique<br><small>⭐</small>[sound:fr_f3c21f63e856.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+回收 / to recycle	recycler<br><small>⭐</small>[sound:fr_b275b6452d86.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::10 社会与新闻 Society & news
+孤独的；独自 / alone; lonely	seul / seule<br><small>⭐⭐⭐</small>[sound:fr_815e0134e3cc.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+恐惧 / fear	la peur<br><small>⭐⭐⭐</small>[sound:fr_363e562c2b96.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+信任 / trust	la confiance<br><small>⭐⭐⭐</small>[sound:fr_57737dd28db0.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+信任 / to trust	faire confiance à<br><small>⭐⭐⭐</small>[sound:fr_3fa6be38d667.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+疯狂的 / mad; crazy	fou / folle<br><small>⭐⭐⭐</small>[sound:fr_ffc3ec7f8963.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+乐趣 / pleasure	le plaisir<br><small>⭐⭐⭐</small>[sound:fr_b0e0787c3fb8.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+乐意 / with pleasure	avec plaisir<br><small>⭐⭐⭐</small>[sound:fr_240e44c9e1c7.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+担心的 / worried	inquiet / inquiète<br><small>⭐⭐⭐</small>[sound:fr_07c6e5ae9c70.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+认真的；严重的 / serious	sérieux / sérieuse<br><small>⭐⭐⭐</small>[sound:fr_8139c1078821.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+傻的 / idiotic	idiot / idiote<br><small>⭐⭐⭐</small>[sound:fr_ec679e5983d9.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+惊喜；惊讶 / surprise	la surprise<br><small>⭐⭐⭐</small>[sound:fr_26b6e2187451.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+惊讶的 / surprised	surpris / surprise<br><small>⭐⭐⭐</small>[sound:fr_07039291d167.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+愤怒 / anger	la colère<br><small>⭐⭐⭐</small>[sound:fr_c8c1bcc552f4.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+生气的 / angry	en colère<br><small>⭐⭐⭐</small>[sound:fr_6d5177675970.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+安静的；平静的 / quiet; calm	tranquille<br><small>⭐⭐⭐</small>[sound:fr_d66565195be0.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+羞耻 / shame	la honte<br><small>⭐⭐</small>[sound:fr_0d84203ac45f.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+感到羞耻 / to be ashamed (of)	avoir honte (de)<br><small>⭐⭐</small>[sound:fr_9d480ad1d905.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+爱上…的 / in love (with)	amoureux / amoureuse (de)<br><small>⭐⭐</small>[sound:fr_c02c8812fa64.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+坠入爱河 / to fall in love	tomber amoureux / amoureuse<br><small>⭐⭐</small>[sound:fr_3379e0c5e817.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+笨的 / stupid	bête<br><small>⭐⭐</small>[sound:fr_6f0ce990ad9d.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+希望 / hope	l'espoir (m.)<br><small>⭐⭐</small>[sound:fr_57d899443b21.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+诚实的 / honest	honnête<br><small>⭐⭐</small>[sound:fr_8e4ca1dbb773.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+感情 / feeling	un sentiment<br><small>⭐⭐</small>[sound:fr_6a0d5310efa7.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+勇气 / courage	le courage<br><small>⭐⭐</small>[sound:fr_8c3ed4a25586.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+幸福 / happiness	le bonheur<br><small>⭐⭐</small>[sound:fr_70c650a0aac6.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+快乐 / joy	la joie<br><small>⭐⭐</small>[sound:fr_a41e93d1ac24.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+坏的；凶的 / nasty; mean	méchant / méchante<br><small>⭐⭐</small>[sound:fr_1f85b3d613f3.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+担心 / to worry	s'inquiéter<br><small>⭐⭐</small>[sound:fr_b4ad38d3e83d.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+紧张的 / nervous	nerveux / nerveuse<br><small>⭐⭐</small>[sound:fr_2b264773acee.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+嫉妒的 / jealous	jaloux / jalouse<br><small>⭐⭐</small>[sound:fr_1f354278ba4e.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+好奇的 / curious	curieux / curieuse<br><small>⭐⭐</small>[sound:fr_b3bf626ef3a2.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+不幸 / misfortune	le malheur<br><small>⭐⭐</small>[sound:fr_60b883853e3e.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+压力 / stress	le stress<br><small>⭐⭐</small>[sound:fr_2f3cacc3dd15.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+生气的 / angry; cross	fâché / fâchée<br><small>⭐⭐</small>[sound:fr_33a5cc6e155c.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+性格 / character	le caractère<br><small>⭐⭐</small>[sound:fr_9d4727a9b41e.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+慷慨的 / generous	généreux / généreuse<br><small>⭐⭐</small>[sound:fr_d81677a3a81f.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+和蔼的 / kind; friendly	aimable<br><small>⭐</small>[sound:fr_2eee238b1f98.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+悲伤 / sadness	la tristesse<br><small>⭐</small>[sound:fr_ea175e1ff649.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+有礼貌的 / polite	poli / polie<br><small>⭐</small>[sound:fr_29ded8fa0143.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+无聊 / to be bored	s'ennuyer<br><small>⭐</small>[sound:fr_35a8cb18a642.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+友好的 / nice; friendly	sympathique<br><small>⭐</small>[sound:fr_a2776a50c5f1.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+勤劳的 / hard-working	travailleur / travailleuse<br><small>⭐</small>[sound:fr_56ff6b27329d.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+乐观的 / 悲观的 / optimistic / pessimistic	optimiste / pessimiste<br><small>⭐</small>[sound:fr_688e21058bd8.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+有压力的 / stressed	stressé / stressée<br><small>⭐</small>[sound:fr_e3b644d9b250.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+懒惰的 / lazy	paresseux / paresseuse<br><small>⭐</small>[sound:fr_477342f8b01a.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::11 感情与性格 Feelings & character
+看起来 / to seem; to look	avoir l'air<br><small>⭐⭐⭐</small>[sound:fr_7dc69ba33e22.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+协议；同意 / agreement	un accord<br><small>⭐⭐⭐</small>[sound:fr_57ca497baeb9.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+相信；认为 / to believe; to think	croire<br><small>⭐⭐⭐</small>[sound:fr_b806ef3251b2.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+想；认为 / to think	penser<br><small>⭐⭐⭐</small>[sound:fr_8e964921f7e6.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+理由 / reason	une raison<br><small>⭐⭐⭐</small>[sound:fr_773719041b3e.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+想法；主意 / idea	une idée<br><small>⭐⭐⭐</small>[sound:fr_7c5c21224a35.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+意思；方向 / meaning; sense	le sens<br><small>⭐⭐⭐</small>[sound:fr_5243af42c371.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+请求 / request	une demande<br><small>⭐⭐⭐</small>[sound:fr_ecf3d2d2b19f.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+注意 / to pay attention (to)	faire attention (à)<br><small>⭐⭐⭐</small>[sound:fr_0e9672b17e0b.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+似乎 / to seem	sembler<br><small>⭐⭐⭐</small>[sound:fr_a4efeef71ce3.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+选择 / choice	un choix<br><small>⭐⭐⭐</small>[sound:fr_3d841f0acf04.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+怀疑 / doubt	un doute<br><small>⭐⭐⭐</small>[sound:fr_623159a413e7.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+头脑；精神 / mind; spirit	l'esprit (m.)<br><small>⭐⭐⭐</small>[sound:fr_8183f4ca724a.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+假设 / to suppose	supposer<br><small>⭐⭐⭐</small>[sound:fr_4dcf139d22f5.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+电话；呼唤 / call	un appel<br><small>⭐⭐⭐</small>[sound:fr_b0f94ea27216.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+秘密 / secret	un secret<br><small>⭐⭐⭐</small>[sound:fr_319304b7c0a0.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+决定 / decision	une décision<br><small>⭐⭐</small>[sound:fr_c22a062de301.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+做决定 / to make a decision	prendre une décision<br><small>⭐⭐</small>[sound:fr_646112cbc5f2.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+恭喜！ / Congratulations!	Félicitations !<br><small>⭐⭐</small>[sound:fr_ddd724411521.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+显得 / to appear	paraître<br><small>⭐⭐</small>[sound:fr_8cacab1ccf40.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+值得 / to deserve	mériter<br><small>⭐⭐</small>[sound:fr_dd9d9b13a5d9.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+证明 / to prove	prouver<br><small>⭐⭐</small>[sound:fr_4959986ac2b2.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+讨论；聊天 / to discuss; to chat	discuter<br><small>⭐⭐</small>[sound:fr_6b15c14acc64.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+解决办法 / solution	une solution<br><small>⭐⭐</small>[sound:fr_fb876b743016.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+记得 / to remember	se rappeler<br><small>⭐⭐</small>[sound:fr_b3e10614c226.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+谈话 / conversation	une conversation<br><small>⭐⭐</small>[sound:fr_24185c0560cb.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+记忆 / memory	la mémoire<br><small>⭐⭐</small>[sound:fr_d64e68ffb6b5.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+注意到 / to notice	remarquer<br><small>⭐⭐</small>[sound:fr_80d525a99569.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+感谢 / to thank	remercier<br><small>⭐⭐</small>[sound:fr_f957b43aca83.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+思想 / thought	une pensée<br><small>⭐⭐</small>[sound:fr_4ccfec571527.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+猜 / to guess	deviner<br><small>⭐⭐</small>[sound:fr_6021c042ddb3.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+诺言 / promise	une promesse<br><small>⭐⭐</small>[sound:fr_9aea398ab68a.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+投诉 / complaint	une plainte<br><small>⭐⭐</small>[sound:fr_5f4f80d38e56.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+意见 / opinion	une opinion<br><small>⭐⭐</small>[sound:fr_e95ae7a5198e.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+讨论 / discussion	une discussion<br><small>⭐⭐</small>[sound:fr_ae529551d265.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+解释 / explanation	une explication<br><small>⭐⭐</small>[sound:fr_5404bb782770.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+承认 / to confess	avouer<br><small>⭐⭐</small>[sound:fr_90864559b2f5.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+提议 / proposal	une proposition<br><small>⭐⭐</small>[sound:fr_1971f4cb45ad.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+故意 / to do on purpose	faire exprès<br><small>⭐⭐</small>[sound:fr_f121ddc17832.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+坚持 / to insist	insister<br><small>⭐</small>[sound:fr_635096c221f5.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+描述 / to describe	décrire<br><small>⭐</small>[sound:fr_2161d97a10d8.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+打招呼 / to greet	saluer<br><small>⭐</small>[sound:fr_78f3daf52b7a.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+比较 / to compare	comparer<br><small>⭐</small>[sound:fr_a1dad683d3d4.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+否认 / to deny	nier<br><small>⭐</small>[sound:fr_e6dccb67e2ef.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+预计；计划 / to foresee; to plan	prévoir<br><small>⭐</small>[sound:fr_e25c57d75e5f.mp3]	French::B1_extra importance::3_extra day::102	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+祝贺 / to congratulate	féliciter<br><small>⭐</small>[sound:fr_b107549ccc8d.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+闲聊 / to chat	bavarder<br><small>⭐</small>[sound:fr_2db93acfc19b.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::12 思考与交流 Thinking & talking
+做 / to do; to make	faire<br><small>⭐⭐⭐</small>[sound:fr_68408f0664da.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+是；在 / to be	être<br><small>⭐⭐⭐</small>[sound:fr_47105d8b0c1d.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+有 / to have	avoir<br><small>⭐⭐⭐</small>[sound:fr_beea9a8440dc.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+去 / to go	aller<br><small>⭐⭐⭐</small>[sound:fr_9ecd79764630.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+不需要 / to do without	se passer de<br><small>⭐⭐⭐</small>[sound:fr_3c81c83ff308.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+试图 / to try to	chercher à<br><small>⭐⭐⭐</small>[sound:fr_1553c22263c7.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+放置 / to place	placer<br><small>⭐⭐⭐</small>[sound:fr_5804cc7130dc.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+生活；活 / to live	vivre<br><small>⭐⭐⭐</small>[sound:fr_a28f1c45529a.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+走；运转 / to walk; to work	marcher<br><small>⭐⭐⭐</small>[sound:fr_0cb305da54e3.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+改变 / to change	changer<br><small>⭐⭐⭐</small>[sound:fr_20182d9c244f.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+意识到 / to realise	se rendre compte (de)<br><small>⭐⭐⭐</small>[sound:fr_a5e48b47d07e.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+前往 / to go (to)	se rendre (à)<br><small>⭐⭐⭐</small>[sound:fr_05dc417ce2e7.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+足够 / to be enough	suffire<br><small>⭐⭐⭐</small>[sound:fr_fb7ae0bc7bae.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+关 / to close	fermer<br><small>⭐⭐⭐</small>[sound:fr_6d85fef8d37a.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+负责 / to take care of it	s'en occuper / s'en charger<br><small>⭐⭐⭐</small>[sound:fr_11e102b032cf.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+缺少；错过 / to miss; to lack	manquer<br><small>⭐⭐⭐</small>[sound:fr_f4b8a836cccd.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+继续 / to continue	continuer<br><small>⭐⭐⭐</small>[sound:fr_8f580fcf8e61.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+赢；挣钱 / to win; to earn	gagner<br><small>⭐⭐⭐</small>[sound:fr_cf445cd66aed.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+拉；开枪 / to pull; to shoot	tirer<br><small>⭐⭐⭐</small>[sound:fr_ca7d256c3e36.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+讨厌 / to hate	détester<br><small>⭐⭐⭐</small>[sound:fr_de228993b452.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+重新找到；会面 / to find again; to meet up	retrouver<br><small>⭐⭐⭐</small>[sound:fr_2bcdbb7ed747.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+使用 / to use	utiliser<br><small>⭐⭐⭐</small>[sound:fr_ddd001c27579.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+打架；奋斗 / to fight	se battre<br><small>⭐⭐⭐</small>[sound:fr_851f2b420854.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+打；打败 / to beat	battre<br><small>⭐⭐⭐</small>[sound:fr_11663d507614.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+结束 / to finish	terminer<br><small>⭐⭐⭐</small>[sound:fr_36361ddb9ca5.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+拿着；握住 / to hold	tenir<br><small>⭐⭐⭐</small>[sound:fr_6bc938b93fe7.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+珍惜；坚持要 / to care about; to insist on	tenir à<br><small>⭐⭐⭐</small>[sound:fr_8326cd2d151e.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+前进 / to move forward	avancer<br><small>⭐⭐⭐</small>[sound:fr_d227c312b7f9.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+放；提（问题） / to put; to ask (a question)	poser<br><small>⭐⭐⭐</small>[sound:fr_6b6103c61e18.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+攻击 / to attack	attaquer<br><small>⭐⭐⭐</small>[sound:fr_8a35d3602b1e.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+触摸 / to touch	toucher<br><small>⭐⭐⭐</small>[sound:fr_96f3ba9d0c5e.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+闻；感觉 / to smell; to feel	sentir<br><small>⭐⭐⭐</small>[sound:fr_a01b00dbeea1.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+带走（人） / to take (someone)	emmener<br><small>⭐⭐</small>[sound:fr_05aacd2c2761.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+笑话 / joke	une blague<br><small>⭐⭐</small>[sound:fr_21f48b54a8c2.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+存在 / to exist	exister<br><small>⭐⭐</small>[sound:fr_c08f361208c0.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+藏 / to hide	cacher<br><small>⭐⭐</small>[sound:fr_29ab8274effb.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+使用 / to use	se servir de<br><small>⭐⭐</small>[sound:fr_e055926e8486.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+扔 / to throw (away)	jeter<br><small>⭐⭐</small>[sound:fr_1b5ba7e12ef0.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+检查 / to check	vérifier<br><small>⭐⭐</small>[sound:fr_56fa06a196d5.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+靠近 / to come closer	s'approcher (de)<br><small>⭐⭐</small>[sound:fr_8226836f1999.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+阻止 / to prevent	empêcher (de)<br><small>⭐⭐</small>[sound:fr_ea4717dca786.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+清空 / to empty	vider<br><small>⭐⭐</small>[sound:fr_6498245d9deb.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+欣赏；喜欢 / to appreciate; to like	apprécier<br><small>⭐⭐</small>[sound:fr_8132113eaa04.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+做准备 / to get ready	se préparer<br><small>⭐⭐</small>[sound:fr_97c0586a44ae.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+去掉；脱下 / to remove; to take off	enlever<br><small>⭐⭐</small>[sound:fr_62f91f779e61.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+接受 / to accept	accepter<br><small>⭐⭐</small>[sound:fr_fa24cb36df53.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+跳 / to jump	sauter<br><small>⭐⭐</small>[sound:fr_61eb4cd853f1.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+持续 / to last	durer<br><small>⭐⭐</small>[sound:fr_ee2518fbf8fa.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+切；剪 / to cut	couper<br><small>⭐⭐</small>[sound:fr_03408e8bdbea.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+带来（物） / to bring	apporter<br><small>⭐⭐</small>[sound:fr_71d9f39ac55e.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+和…会合 / to join	rejoindre<br><small>⭐⭐</small>[sound:fr_4f0a5de4cfe6.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+敲；打 / to knock; to hit	frapper<br><small>⭐⭐</small>[sound:fr_489563de0095.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+抓住 / to catch	attraper<br><small>⭐⭐</small>[sound:fr_a596decc5222.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+带来（人） / to bring (someone)	amener<br><small>⭐⭐</small>[sound:fr_88f1e8049400.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+取决于 / to depend (on)	dépendre (de)<br><small>⭐⭐</small>[sound:fr_ab8e5625b9d9.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+威胁 / to threaten	menacer<br><small>⭐⭐</small>[sound:fr_31c5f4fbe59c.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+发生 / to happen	se produire<br><small>⭐⭐</small>[sound:fr_5121ff18bc3f.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+生产 / to produce	produire<br><small>⭐⭐</small>[sound:fr_1ba218aaa54b.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+修理 / to repair	réparer<br><small>⭐⭐</small>[sound:fr_c28695f13bac.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+必须 / to be necessary	falloir<br><small>⭐⭐</small>[sound:fr_d92f43456b11.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+举起 / to raise	lever<br><small>⭐⭐</small>[sound:fr_70eb98cd1892.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+逃脱 / to escape	s'échapper<br><small>⭐⭐</small>[sound:fr_d0a3446363cf.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+分享 / to share	partager<br><small>⭐⭐</small>[sound:fr_e9fc74f41d5e.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+创造 / to create	créer<br><small>⭐⭐</small>[sound:fr_57659b0d2f41.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+亲吻；拥抱 / to kiss; to hug	embrasser<br><small>⭐⭐</small>[sound:fr_580e7759effe.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+投；启动 / to throw; to launch	lancer<br><small>⭐⭐</small>[sound:fr_48930a1e66e5.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+假装 / to pretend	faire semblant (de)<br><small>⭐⭐</small>[sound:fr_22edd91d4e6d.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+忍受 / to stand; to bear	supporter<br><small>⭐⭐</small>[sound:fr_879cd1a1426c.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+逃离 / to flee	fuir<br><small>⭐⭐</small>[sound:fr_c58194f3a253.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+保卫；禁止 / to defend; to forbid	défendre<br><small>⭐⭐</small>[sound:fr_0205129fc918.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+允许 / to allow	permettre (de)<br><small>⭐⭐</small>[sound:fr_bd266af2334c.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+离婚 / to divorce	divorcer<br><small>⭐⭐</small>[sound:fr_3eb61a3ab6e3.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+推；生长 / to push; to grow	pousser<br><small>⭐⭐</small>[sound:fr_5ad3182da7e8.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+开玩笑 / to joke	plaisanter<br><small>⭐⭐</small>[sound:fr_182533a3a31a.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+后退 / to move back	reculer<br><small>⭐⭐</small>[sound:fr_f51e14c9555f.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+洗 / to wash	laver<br><small>⭐⭐</small>[sound:fr_7fa051d7de64.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+欺骗 / to deceive	tromper<br><small>⭐⭐</small>[sound:fr_fef88fd70565.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+弄错 / to get the wrong …	se tromper de<br><small>⭐⭐</small>[sound:fr_67c8cd6106c4.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+引导 / to lead	mener<br><small>⭐⭐</small>[sound:fr_553d5da3d928.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+替换 / to replace	remplacer<br><small>⭐⭐</small>[sound:fr_353075d5b32d.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+安装；安置 / to install; to set up	installer<br><small>⭐⭐</small>[sound:fr_6be71b2d7343.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+陪伴 / to go with	accompagner<br><small>⭐⭐</small>[sound:fr_9e22ffc973f0.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+远离 / to move away	s'éloigner (de)<br><small>⭐⭐</small>[sound:fr_703cd39068da.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+开（灯）/ 关（灯） / to switch on / off	allumer / éteindre<br><small>⭐⭐</small>[sound:fr_35031af642c0.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+带走（物） / to take away	emporter<br><small>⭐⭐</small>[sound:fr_3709e99e22d3.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+改善 / to improve	améliorer<br><small>⭐⭐</small>[sound:fr_b8a360be1f2c.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+放松 / to relax	se détendre<br><small>⭐⭐</small>[sound:fr_45551e249804.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+握手 / to shake hands	serrer la main<br><small>⭐</small>[sound:fr_468b0d2d9cee.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+入睡 / to fall asleep	s'endormir<br><small>⭐</small>[sound:fr_cdcb7902df49.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+制造 / to make; to manufacture	fabriquer<br><small>⭐</small>[sound:fr_1aff6c36e2a8.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+观察 / to observe	observer<br><small>⭐</small>[sound:fr_f5c0084256de.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+增加 / 减少 / to increase / to decrease	augmenter / diminuer<br><small>⭐</small>[sound:fr_111d6b76e295.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+发展 / to develop	développer<br><small>⭐</small>[sound:fr_91f77f9c7969.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+适应 / to adapt	s'adapter<br><small>⭐</small>[sound:fr_5bb7a0f0b402.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+晒干；弄干 / to dry	sécher<br><small>⭐</small>[sound:fr_d9954bbfa0fd.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+变老 / to grow old	vieillir<br><small>⭐</small>[sound:fr_75c9c6732072.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+属于 / to belong (to)	appartenir (à)<br><small>⭐</small>[sound:fr_3bc4eb09e976.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::13 常用动词 Common verbs
+硬的；难的 / hard	dur / dure<br><small>⭐⭐⭐</small>[sound:fr_4fe63c2cdf10.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+公正的；正确的 / fair; right	juste<br><small>⭐⭐⭐</small>[sound:fr_3ec8a7daf057.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+别的 / other	autre<br><small>⭐⭐⭐</small>[sound:fr_1e37bde60f4f.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+安全的 / safe	sûr / sûre (sans danger)<br><small>⭐⭐⭐</small>[sound:fr_c0e96afdf230.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+真的 / true	vrai / vraie<br><small>⭐⭐⭐</small>[sound:fr_5c062d7964a1.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+超棒的 / great	super<br><small>⭐⭐⭐</small>[sound:fr_30a95bf525cc.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+准备好的 / ready	prêt / prête<br><small>⭐⭐⭐</small>[sound:fr_553bdc3c8e1c.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+可能的 / 不可能的 / possible / impossible	possible / impossible<br><small>⭐⭐⭐</small>[sound:fr_0fdf2c23ebfa.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+满的 / full	plein / pleine<br><small>⭐⭐⭐</small>[sound:fr_f64577ecfe75.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+完美的 / perfect	parfait / parfaite<br><small>⭐⭐⭐</small>[sound:fr_053ccb0404cc.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+低的 / low	bas / basse<br><small>⭐⭐⭐</small>[sound:fr_2adebafae9bd.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+干净的；自己的 / clean; own	propre<br><small>⭐⭐⭐</small>[sound:fr_cc36f3e50771.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+奇怪的 / strange / weird	étrange / bizarre<br><small>⭐⭐⭐</small>[sound:fr_ac8e07d9f422.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+高的 / high	haut / haute<br><small>⭐⭐⭐</small>[sound:fr_200b6582e7db.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+简单的 / simple	simple<br><small>⭐⭐⭐</small>[sound:fr_c977eb25c842.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+严重的 / serious	grave<br><small>⭐⭐⭐</small>[sound:fr_2a08c3e4d347.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+假的；错的 / false; wrong	faux / fausse<br><small>⭐⭐⭐</small>[sound:fr_07637cd01b75.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+一般的 / general	général / générale<br><small>⭐⭐⭐</small>[sound:fr_953ab0027b29.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+长的 / long	long / longue<br><small>⭐⭐⭐</small>[sound:fr_a34076fc1a72.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+难以置信的 / incredible	incroyable<br><small>⭐⭐⭐</small>[sound:fr_375875de1b03.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+脏的 / dirty	sale<br><small>⭐⭐⭐</small>[sound:fr_225d617a400f.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+自由的；空闲的 / free	libre<br><small>⭐⭐⭐</small>[sound:fr_d6ac0dce7f5f.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+清楚的；浅色的 / clear; light	clair / claire<br><small>⭐⭐⭐</small>[sound:fr_e1c3badbd3bf.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+壮丽的 / magnificent	magnifique<br><small>⭐⭐⭐</small>[sound:fr_fba780916268.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+一样的 / the same; alike	pareil / pareille<br><small>⭐⭐⭐</small>[sound:fr_df185acf04a1.mp3]	French::B1_extra importance::1_core day::76	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+正常的 / normal	normal / normale<br><small>⭐⭐⭐</small>[sound:fr_062ccf2168d7.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+不同的 / different	différent / différente<br><small>⭐⭐</small>[sound:fr_9540757068d0.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+很差的 / rubbish; useless	nul / nulle<br><small>⭐⭐</small>[sound:fr_37167ac19ae4.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+外国的 / foreign	étranger / étrangère<br><small>⭐⭐</small>[sound:fr_6e5ee2b14788.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+开着的 / open	ouvert / ouverte<br><small>⭐⭐</small>[sound:fr_98709a7a6306.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+可怕的 / horrible	horrible<br><small>⭐⭐</small>[sound:fr_6816cc547e4f.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+有用的 / 没用的 / useful / useless	utile / inutile<br><small>⭐⭐</small>[sound:fr_2b2c214222c9.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+可怕的；极好的 / terrible; terrific	terrible<br><small>⭐⭐</small>[sound:fr_be216d918be4.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+人类的 / human	humain / humaine<br><small>⭐⭐</small>[sound:fr_d61de1cb6ff6.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+忙的；占用的 / busy; taken	occupé / occupée<br><small>⭐⭐</small>[sound:fr_f1d5fb996b38.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+空的 / empty	vide<br><small>⭐⭐</small>[sound:fr_816c17f5b2a7.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+个人的 / personal	personnel / personnelle<br><small>⭐⭐</small>[sound:fr_e8faadebf7ac.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+特别的 / special	spécial / spéciale<br><small>⭐⭐</small>[sound:fr_8a836b2a89a4.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+近的 / close	proche<br><small>⭐⭐</small>[sound:fr_3d260b710586.mp3]	French::B1_extra importance::2_common day::81	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+美妙的 / wonderful	merveilleux / merveilleuse<br><small>⭐⭐</small>[sound:fr_b9e4cbca9c7c.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+粉色的 / pink	rose<br><small>⭐⭐</small>[sound:fr_2c5bb282735b.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+短的 / short	court / courte<br><small>⭐⭐</small>[sound:fr_12121e04c57e.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+古老的；以前的 / old; former	ancien / ancienne<br><small>⭐⭐</small>[sound:fr_53cb506edbc9.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+优秀的 / excellent	excellent / excellente<br><small>⭐⭐</small>[sound:fr_3495fc2622a5.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+整个的 / whole	entier / entière<br><small>⭐⭐</small>[sound:fr_61384d027670.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+颜色 / colour	la couleur<br><small>⭐⭐</small>[sound:fr_519a563a8e4a.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+关着的 / closed	fermé / fermée<br><small>⭐⭐</small>[sound:fr_932e8581bd10.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+复杂的 / complicated	compliqué / compliquée<br><small>⭐⭐</small>[sound:fr_745c2535b0d9.mp3]	French::B1_extra importance::2_common day::88	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+主要的 / main	principal / principale<br><small>⭐⭐</small>[sound:fr_11c73656da51.mp3]	French::B1_extra importance::2_common day::90	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+特殊的 / particular	particulier / particulière<br><small>⭐⭐</small>[sound:fr_a95d4df0e40b.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+暗的 / dark	sombre<br><small>⭐⭐</small>[sound:fr_07237f528df5.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+重的 / heavy	lourd / lourde<br><small>⭐⭐</small>[sound:fr_4466277a5001.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+方便的 / practical; handy	pratique<br><small>⭐⭐</small>[sound:fr_de98632ba0d5.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+深的 / deep	profond / profonde<br><small>⭐⭐</small>[sound:fr_aad1fb5aa54a.mp3]	French::B1_extra importance::2_common day::93	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+非凡的 / extraordinary	extraordinaire<br><small>⭐⭐</small>[sound:fr_52403364f06c.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+自然的 / natural	naturel / naturelle<br><small>⭐⭐</small>[sound:fr_3f406385806a.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+黄色的 / yellow	jaune<br><small>⭐⭐</small>[sound:fr_f7e9ab9a4b5f.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+精确的 / precise	précis / précise<br><small>⭐⭐</small>[sound:fr_b4c3a1482c03.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+橙色的 / orange	orange<br><small>⭐⭐</small>[sound:fr_9fef652c3977.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+宽的 / wide	large<br><small>⭐⭐</small>[sound:fr_c0333d8c17bf.mp3]	French::B1_extra importance::2_common day::96	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+轻的 / light	léger / légère<br><small>⭐⭐</small>[sound:fr_fa6a1f47501c.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+社会的 / social	social / sociale<br><small>⭐⭐</small>[sound:fr_c7ac0ecf746b.mp3]	French::B1_extra importance::2_common day::98	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+现代的 / modern	moderne<br><small>⭐</small>[sound:fr_74d05fdc3515.mp3]	French::B1_extra importance::3_extra day::98	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+当地的 / local	local / locale<br><small>⭐</small>[sound:fr_d8aad7fdf33c.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+灰色的 / grey	gris / grise<br><small>⭐</small>[sound:fr_af369376a5c1.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+安静的 / silent	silencieux / silencieuse<br><small>⭐</small>[sound:fr_33c165985728.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+紫色的 / purple	violet / violette<br><small>⭐</small>[sound:fr_fed3ec25d2d2.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+当前的 / current	actuel / actuelle<br><small>⭐</small>[sound:fr_9bf0375dfe3d.mp3]	French::B1_extra importance::3_extra day::101	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+棕色的 / brown	marron<br><small>⭐</small>[sound:fr_a56b8c0ecb66.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+软的 / soft	mou / molle<br><small>⭐</small>[sound:fr_9402294cc0a3.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+最近的 / recent	récent / récente<br><small>⭐</small>[sound:fr_b8d6e99b104e.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+吵闹的 / noisy	bruyant / bruyante<br><small>⭐</small>[sound:fr_fb40e80ef948.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+遥远的 / distant	lointain / lointaine<br><small>⭐</small>[sound:fr_c947291c0c97.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+窄的 / narrow	étroit / étroite<br><small>⭐</small>[sound:fr_fcdd15e063bc.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::14 常用形容词 Common adjectives
+这 / 那 / this / that	ceci / cela / ça<br><small>⭐⭐⭐</small>[sound:fr_d4ab2060c57b.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::15 小词 Little words
+或者 / or else	ou bien<br><small>⭐⭐⭐</small>[sound:fr_0d2e3b71fd2b.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::15 小词 Little words
+是 / 不 / 不，是的（反驳否定） / yes / no / yes (contradicting)	oui / non / si<br><small>⭐⭐⭐</small>[sound:fr_8b458c49dac6.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::15 小词 Little words
+也不 / neither	non plus<br><small>⭐⭐⭐</small>[sound:fr_be80aca656c2.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::15 小词 Little words
+一切；所有 / all; everything	tout / tous / toute / toutes<br><small>⭐⭐⭐</small>[sound:fr_54759cf4cd00.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::15 小词 Little words
+在…下 / 在…上 / under / on	sous / sur<br><small>⭐⭐⭐</small>[sound:fr_be5104a59356.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::15 小词 Little words
+那里；这里 / there; here	là<br><small>⭐⭐⭐</small>[sound:fr_747e1bdc5e14.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::15 小词 Little words
+真的不 / really not	vraiment pas<br><small>⭐⭐⭐</small>[sound:fr_30346fd56fff.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::15 小词 Little words
+甚至不 / not even	même pas<br><small>⭐⭐⭐</small>[sound:fr_0d9e9a2d0357.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::15 小词 Little words
+还是；毕竟 / all the same	tout de même<br><small>⭐⭐⭐</small>[sound:fr_6cba28837745.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::15 小词 Little words
+别的东西 / something else	autre chose<br><small>⭐⭐⭐</small>[sound:fr_f353ff90f581.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::15 小词 Little words
+某个…的东西 / something …	quelque chose de …<br><small>⭐⭐⭐</small>[sound:fr_5366eba12f1a.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::15 小词 Little words
+根据 / according to	selon / d'après<br><small>⭐⭐⭐</small>[sound:fr_58f6f0541899.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::15 小词 Little words
+这就是；瞧 / here is; there you go	voilà<br><small>⭐⭐⭐</small>[sound:fr_516598b8f9ec.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::15 小词 Little words
+要么…要么… / either … or …	soit … soit …<br><small>⭐⭐⭐</small>[sound:fr_ea48d7ceddcf.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::15 小词 Little words
+在…之间 / between	entre<br><small>⭐⭐⭐</small>[sound:fr_c84ea82a48c9.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::15 小词 Little words
+只要；当…时 / as long as	tant que<br><small>⭐⭐⭐</small>[sound:fr_c7c0f3a7ce94.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::15 小词 Little words
+这么多 / so much	tant<br><small>⭐⭐⭐</small>[sound:fr_ad8365d707a9.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::15 小词 Little words
+反对；靠着 / against	contre<br><small>⭐⭐⭐</small>[sound:fr_9296ff76dc95.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::15 小词 Little words
+随便怎样 / any old how	n'importe comment<br><small>⭐⭐⭐</small>[sound:fr_2104ed4e1a93.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::15 小词 Little words
+无论如何 / in any case	en tout cas<br><small>⭐⭐⭐</small>[sound:fr_f977c75f2169.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::15 小词 Little words
+包括 / including	y compris<br><small>⭐⭐⭐</small>[sound:fr_1779c8ca9d90.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::15 小词 Little words
+既不…也不… / neither … nor …	ni … ni …<br><small>⭐⭐⭐</small>[sound:fr_67038655f37d.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::15 小词 Little words
+反正 / anyway	de toute façon<br><small>⭐⭐⭐</small>[sound:fr_2c22c43322e3.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::15 小词 Little words
+朝着；大约 / towards; around	vers<br><small>⭐⭐⭐</small>[sound:fr_22fd12f8ffb0.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::15 小词 Little words
+在…前面 / 在…后面 / in front of / behind	devant / derrière<br><small>⭐⭐⭐</small>[sound:fr_4405fd3c21a4.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::15 小词 Little words
+近 / 远 / near / far	près (de) / loin (de)<br><small>⭐⭐⭐</small>[sound:fr_f5fcb481e52e.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::15 小词 Little words
+宁可；相当 / rather	plutôt<br><small>⭐⭐⭐</small>[sound:fr_4dbe82394748.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::15 小词 Little words
+这个人 / 那个 / the one(s)	celui / celle / ceux / celles<br><small>⭐⭐⭐</small>[sound:fr_452de525ad7e.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::15 小词 Little words
+这一个 / 那一个 / this one / that one	celui-ci / celui-là<br><small>⭐⭐⭐</small>[sound:fr_8df00d789301.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::15 小词 Little words
+在里面 / 在外面 / inside / outside	dedans / dehors<br><small>⭐⭐⭐</small>[sound:fr_95e4a0f28a00.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::15 小词 Little words
+顺便说；关于 / by the way; about	à propos<br><small>⭐⭐⭐</small>[sound:fr_803376cb2048.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::15 小词 Little words
+在上面 / 在下面 / on top / underneath	dessus / dessous<br><small>⭐⭐⭐</small>[sound:fr_228a0e0d133b.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::15 小词 Little words
+在…上方 / 在…下方 / above / below	au-dessus (de) / au-dessous (de)<br><small>⭐⭐⭐</small>[sound:fr_becdcf30631a.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::15 小词 Little words
+正是 / exactly	exactement<br><small>⭐⭐⭐</small>[sound:fr_ebcd1c8ae5b4.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::15 小词 Little words
+以及 / as well as	ainsi que<br><small>⭐⭐⭐</small>[sound:fr_c7b56d49ff8a.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::15 小词 Little words
+同样多 / as much	autant<br><small>⭐⭐⭐</small>[sound:fr_3d4f87409a21.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::15 小词 Little words
+几乎不；刚刚 / hardly; barely	à peine<br><small>⭐⭐⭐</small>[sound:fr_29559f6fd614.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::15 小词 Little words
+在上面 / 在下面 / upstairs; at the top / downstairs	en haut / en bas<br><small>⭐⭐⭐</small>[sound:fr_21ed8bf61374.mp3]	French::B1_extra importance::1_core day::71	法语 French::B1 补充 Extra::15 小词 Little words
+从…起 / from; as early as	dès<br><small>⭐⭐⭐</small>[sound:fr_a227cafea488.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::15 小词 Little words
+肯定；大概 / surely; probably	sûrement<br><small>⭐⭐⭐</small>[sound:fr_a6f93020a99b.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::15 小词 Little words
+除了 / except	sauf<br><small>⭐⭐⭐</small>[sound:fr_a977bcdb6bd9.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::15 小词 Little words
+尤其 / especially	surtout<br><small>⭐⭐⭐</small>[sound:fr_5b7b0a3f67dd.mp3]	French::B1_extra importance::1_core day::73	法语 French::B1 补充 Extra::15 小词 Little words
+一般来说 / in general	en général<br><small>⭐⭐⭐</small>[sound:fr_7b1ff9da8f9f.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::15 小词 Little words
+沿着 / along	le long de<br><small>⭐⭐⭐</small>[sound:fr_ceeefc4498a2.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::15 小词 Little words
+可能 / probably	probablement<br><small>⭐⭐⭐</small>[sound:fr_6e0d050c1aa7.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::15 小词 Little words
+在别处 / elsewhere	ailleurs<br><small>⭐⭐⭐</small>[sound:fr_13eb86064a77.mp3]	French::B1_extra importance::1_core day::74	法语 French::B1 补充 Extra::15 小词 Little words
+仅仅；简单地 / simply	simplement<br><small>⭐⭐⭐</small>[sound:fr_6514b950f918.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::15 小词 Little words
+绝对 / absolutely	absolument<br><small>⭐⭐⭐</small>[sound:fr_89147a8b7b51.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::15 小词 Little words
+在…周围 / around	autour (de)<br><small>⭐⭐⭐</small>[sound:fr_dff3bc40b072.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::15 小词 Little words
+在…深处；其实 / at the bottom of; deep down	au fond (de)<br><small>⭐⭐⭐</small>[sound:fr_3e902bacb34b.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::15 小词 Little words
+在…外 / out of	hors de<br><small>⭐⭐⭐</small>[sound:fr_b6de21d1dc0f.mp3]	French::B1_extra importance::1_core day::75	法语 French::B1 补充 Extra::15 小词 Little words
+站着 / standing	debout<br><small>⭐⭐⭐</small>[sound:fr_9cb22954c317.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::15 小词 Little words
+穿过 / through	à travers<br><small>⭐⭐⭐</small>[sound:fr_c8c202a77448.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::15 小词 Little words
+在…中间 / in the middle of	au milieu de<br><small>⭐⭐</small>[sound:fr_911e0ded057b.mp3]	French::B1_extra importance::2_common day::78	法语 French::B1 补充 Extra::15 小词 Little words
+显然；看来 / apparently	apparemment<br><small>⭐⭐</small>[sound:fr_be1ad3733486.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::15 小词 Little words
+当然；肯定 / certainly	certainement<br><small>⭐⭐</small>[sound:fr_3f5cc22dead5.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::15 小词 Little words
+对于 / towards; regarding	vis-à-vis de<br><small>⭐⭐</small>[sound:fr_0c6c5fd2f539.mp3]	French::B1_extra importance::2_common day::82	法语 French::B1 补充 Extra::15 小词 Little words
+对于（态度） / towards (someone)	envers<br><small>⭐⭐</small>[sound:fr_1443f7ac9b2c.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::15 小词 Little words
+在…期间 / during	durant<br><small>⭐⭐</small>[sound:fr_7ab9cc65a04a.mp3]	French::B1_extra importance::2_common day::83	法语 French::B1 补充 Extra::15 小词 Little words
+在…之中 / among	parmi<br><small>⭐⭐</small>[sound:fr_2956590e1d54.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::15 小词 Little words
+从那时起 / from then on	dès lors<br><small>⭐⭐</small>[sound:fr_310632365d4b.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::15 小词 Little words
+完全地 / totally	totalement<br><small>⭐⭐</small>[sound:fr_7607b27c8258.mp3]	French::B1_extra importance::2_common day::85	法语 French::B1 补充 Extra::15 小词 Little words
+正是；恰好 / exactly; precisely	justement<br><small>⭐⭐</small>[sound:fr_3a8617525538.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::15 小词 Little words
+同样；也 / also; equally	également<br><small>⭐⭐</small>[sound:fr_1fdf0cd82f04.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::15 小词 Little words
+直接地 / directly	directement<br><small>⭐⭐</small>[sound:fr_b89380072175.mp3]	French::B1_extra importance::2_common day::87	法语 French::B1 补充 Extra::15 小词 Little words
+容易地 / easily	facilement<br><small>⭐⭐</small>[sound:fr_70d77963c118.mp3]	French::B1_extra importance::2_common day::89	法语 French::B1 补充 Extra::15 小词 Little words
+特别是 / in particular	en particulier<br><small>⭐⭐</small>[sound:fr_d60bc74c9771.mp3]	French::B1_extra importance::2_common day::91	法语 French::B1 补充 Extra::15 小词 Little words
+更多 / more	davantage<br><small>⭐⭐</small>[sound:fr_298b98219cad.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::15 小词 Little words
+至于 / as for	quant à<br><small>⭐⭐</small>[sound:fr_9bd9622152bd.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::15 小词 Little words
+故意 / on purpose	exprès<br><small>⭐⭐</small>[sound:fr_913b14f6adf1.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::15 小词 Little words
+自然地；当然 / naturally; of course	naturellement<br><small>⭐⭐</small>[sound:fr_c0f1126bdcd4.mp3]	French::B1_extra importance::2_common day::97	法语 French::B1 补充 Extra::15 小词 Little words
+确实 / indeed	effectivement<br><small>⭐</small>[sound:fr_bb707345a998.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::15 小词 Little words
+故意地 / deliberately	volontairement<br><small>⭐</small>[sound:fr_bebaae1babe7.mp3]	French::B1_extra importance::3_extra day::104	法语 French::B1 补充 Extra::15 小词 Little words
+分开地 / separately	séparément<br><small>⭐</small>[sound:fr_19b23aab8f68.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::15 小词 Little words
+就是这样！ / That's it!	C'est ça !<br><small>⭐⭐⭐</small>[sound:fr_31cfff4a4e76.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::16 口语 Spoken French
+不客气。 / You're welcome.	Il n'y a pas de quoi. / De rien.<br><small>⭐⭐⭐</small>[sound:fr_a5c556ebadd9.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::16 口语 Spoken French
+我想（做）。 / I'm up for it.	Ça me dit.<br><small>⭐⭐⭐</small>[sound:fr_722c14559aba.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::16 口语 Spoken French
+你想不想…？ / Do you fancy …?	Ça te dit de … ?<br><small>⭐⭐⭐</small>[sound:fr_3d8737aa9224.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::16 口语 Spoken French
+没关系。 / It doesn't matter.	Ça ne fait rien.<br><small>⭐⭐⭐</small>[sound:fr_1d9bf8577fd7.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::16 口语 Spoken French
+什么？请再说一遍 / Sorry? Pardon?	Comment ? / Pardon ?<br><small>⭐⭐⭐</small>[sound:fr_aad08b186148.mp3]	French::B1_extra importance::1_core day::63	法语 French::B1 补充 Extra::16 口语 Spoken French
+好吧 / OK; right	bon<br><small>⭐⭐⭐</small>[sound:fr_dea7ff3b4b52.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::16 口语 Spoken French
+加油！走吧！ / Come on!	Allez !<br><small>⭐⭐⭐</small>[sound:fr_9b26fba341c7.mp3]	French::B1_extra importance::1_core day::64	法语 French::B1 补充 Extra::16 口语 Spoken French
+是啊 / yeah	ouais<br><small>⭐⭐⭐</small>[sound:fr_b45ba75245d0.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::16 口语 Spoken French
+真的吗？ / Really?	C'est vrai ?<br><small>⭐⭐⭐</small>[sound:fr_5ef184c8fe11.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::16 口语 Spoken French
+不错 / not bad	pas mal<br><small>⭐⭐⭐</small>[sound:fr_17404c18184a.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::16 口语 Spoken French
+喂！哎呀！ / Hey! Wow!	Dis donc !<br><small>⭐⭐⭐</small>[sound:fr_abdb15147802.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::16 口语 Spoken French
+好像；类似 / like; kind of	genre<br><small>⭐⭐⭐</small>[sound:fr_414c44a4c4e9.mp3]	French::B1_extra importance::1_core day::65	法语 French::B1 补充 Extra::16 口语 Spoken French
+晚安！ / Good night!	Bonne nuit !<br><small>⭐⭐⭐</small>[sound:fr_96fab15767c6.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::16 口语 Spoken French
+我来了！ / Coming!	J'arrive !<br><small>⭐⭐⭐</small>[sound:fr_22eb7c2dddaf.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::16 口语 Spoken French
+小伙子 / guy	un gars<br><small>⭐⭐⭐</small>[sound:fr_6115b5051ede.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::16 口语 Spoken French
+祝好运！ / Good luck!	Bonne chance !<br><small>⭐⭐⭐</small>[sound:fr_398fffa5bf20.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::16 口语 Spoken French
+真走运！ / How lucky!	Quelle chance !<br><small>⭐⭐⭐</small>[sound:fr_ecd50e5ac33f.mp3]	French::B1_extra importance::1_core day::66	法语 French::B1 补充 Extra::16 口语 Spoken French
+回头见！/ 明天见！ / See you soon! / See you tomorrow!	À bientôt ! / À demain !<br><small>⭐⭐⭐</small>[sound:fr_0ae88d0ea816.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::16 口语 Spoken French
+啊？；对吧？ / eh?; right?	hein ?<br><small>⭐⭐⭐</small>[sound:fr_54f123bc3df3.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::16 口语 Spoken French
+太好了！ / So much the better!	Tant mieux !<br><small>⭐⭐⭐</small>[sound:fr_60806be6cf1e.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::16 口语 Spoken French
+好久不见！ / Long time no see!	Ça fait longtemps !<br><small>⭐⭐⭐</small>[sound:fr_dc71f5385cf0.mp3]	French::B1_extra importance::1_core day::67	法语 French::B1 补充 Extra::16 口语 Spoken French
+拿着！哎！ / Here! Look!	Tiens !<br><small>⭐⭐⭐</small>[sound:fr_3d16256f0b72.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::16 口语 Spoken French
+对不起！借过！ / Sorry! Excuse me!	Pardon !<br><small>⭐⭐⭐</small>[sound:fr_388de21d0a37.mp3]	French::B1_extra importance::1_core day::68	法语 French::B1 补充 Extra::16 口语 Spoken French
+呃 / um; er	euh<br><small>⭐⭐⭐</small>[sound:fr_b86751821553.mp3]	French::B1_extra importance::1_core day::69	法语 French::B1 补充 Extra::16 口语 Spoken French
+不客气；请。 / You're welcome; please do.	Je t'en prie. / Je vous en prie.<br><small>⭐⭐⭐</small>[sound:fr_c17405b1c72d.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::16 口语 Spoken French
+嗯；那个 / well	bah / ben<br><small>⭐⭐⭐</small>[sound:fr_f052655beada.mp3]	French::B1_extra importance::1_core day::70	法语 French::B1 补充 Extra::16 口语 Spoken French
+够了！ / That's enough!	Ça suffit !<br><small>⭐⭐⭐</small>[sound:fr_c1e6c5baca91.mp3]	French::B1_extra importance::1_core day::72	法语 French::B1 补充 Extra::16 口语 Spoken French
+警察 / cop	un flic<br><small>⭐⭐⭐</small>[sound:fr_66a98893f0e0.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::16 口语 Spoken French
+小孩 / kid	un gamin / une gamine<br><small>⭐⭐⭐</small>[sound:fr_380dc8784f13.mp3]	French::B1_extra importance::1_core day::77	法语 French::B1 补充 Extra::16 口语 Spoken French
+不是吧！ / No kidding!	Sans blague !<br><small>⭐⭐</small>[sound:fr_0835c5f6b85d.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::16 口语 Spoken French
+我不在乎。 / I don't care.	Je m'en fiche.<br><small>⭐⭐</small>[sound:fr_34bf07204d27.mp3]	French::B1_extra importance::2_common day::79	法语 French::B1 补充 Extra::16 口语 Spoken French
+真可惜！ / What a pity!	Quel dommage !<br><small>⭐⭐</small>[sound:fr_9c13af251b74.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::16 口语 Spoken French
+救命！ / Help!	Au secours !<br><small>⭐⭐</small>[sound:fr_41cf7e7dfe98.mp3]	French::B1_extra importance::2_common day::80	法语 French::B1 补充 Extra::16 口语 Spoken French
+加油！ / Good luck!	Bon courage !<br><small>⭐⭐</small>[sound:fr_e7448af86b20.mp3]	French::B1_extra importance::2_common day::84	法语 French::B1 补充 Extra::16 口语 Spoken French
+看你。 / It's up to you.	Ça dépend de toi.<br><small>⭐⭐</small>[sound:fr_b77dcdbc7722.mp3]	French::B1_extra importance::2_common day::86	法语 French::B1 补充 Extra::16 口语 Spoken French
+算了！ / Too bad!	Tant pis !<br><small>⭐⭐</small>[sound:fr_d19a8a087b05.mp3]	French::B1_extra importance::2_common day::92	法语 French::B1 补充 Extra::16 口语 Spoken French
+女孩 / girl	une nana / une meuf<br><small>⭐⭐</small>[sound:fr_50b3e11b6eb8.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::16 口语 Spoken French
+怎么样？ / How's it going?	Ça roule ?<br><small>⭐⭐</small>[sound:fr_02207226134c.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::16 口语 Spoken French
+吃的 / 吃 / food / to eat	la bouffe / bouffer<br><small>⭐⭐</small>[sound:fr_199355683590.mp3]	French::B1_extra importance::2_common day::94	法语 French::B1 补充 Extra::16 口语 Spoken French
+完全；干脆 / totally; straight out	carrément<br><small>⭐⭐</small>[sound:fr_f0c17179b26d.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::16 口语 Spoken French
+我无所谓。 / I don't mind.	Ça m'est égal.<br><small>⭐⭐</small>[sound:fr_2d020188d959.mp3]	French::B1_extra importance::2_common day::95	法语 French::B1 补充 Extra::16 口语 Spoken French
+汽车 / car	une bagnole<br><small>⭐</small>[sound:fr_c51d570cc399.mp3]	French::B1_extra importance::3_extra day::99	法语 French::B1 补充 Extra::16 口语 Spoken French
+衣服 / clothes	fringues (f.)<br><small>⭐</small>[sound:fr_fc7463e79c0d.mp3]	French::B1_extra importance::3_extra day::100	法语 French::B1 补充 Extra::16 口语 Spoken French
+书 / book	un bouquin<br><small>⭐</small>[sound:fr_67e733cac936.mp3]	French::B1_extra importance::3_extra day::103	法语 French::B1 补充 Extra::16 口语 Spoken French
+完美；干净 / spotless; perfect	nickel<br><small>⭐</small>[sound:fr_abd06a4a1549.mp3]	French::B1_extra importance::3_extra day::105	法语 French::B1 补充 Extra::16 口语 Spoken French
+懒得 / can't be bothered	la flemme / avoir la flemme<br><small>⭐</small>[sound:fr_683ab97e18ff.mp3]	French::B1_extra importance::3_extra day::106	法语 French::B1 补充 Extra::16 口语 Spoken French

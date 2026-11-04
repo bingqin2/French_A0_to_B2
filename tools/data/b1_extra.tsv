@@ -1,0 +1,883 @@
+# B1 extra words: common French words the 80 lessons do not teach.
+# Columns: French<TAB>中文<TAB>English<TAB>theme. Lines starting with # are ignored.
+# Words that are already in a lesson are skipped automatically by build_vocab.py.
+les gens (m.)	人们	people	人与关系 People
+une personne	人	person	人与关系 People
+un monsieur	先生	gentleman	人与关系 People
+une dame	女士	lady	人与关系 People
+un petit-fils / une petite-fille	孙子 / 孙女	grandson / granddaughter	人与关系 People
+un neveu / une nièce	侄子 / 侄女	nephew / niece	人与关系 People
+un couple	夫妻；一对	couple	人与关系 People
+un mariage	婚礼；婚姻	wedding; marriage	人与关系 People
+le divorce	离婚	divorce	人与关系 People
+un(e) partenaire	伴侣；伙伴	partner	人与关系 People
+un(e) adulte	成年人	adult	人与关系 People
+un adolescent / une adolescente	青少年	teenager	人与关系 People
+une génération	一代人	generation	人与关系 People
+un(e) habitant(e)	居民	inhabitant	人与关系 People
+un patron / une patronne	老板	boss	人与关系 People
+un chef	领导；厨师长	boss; chef	人与关系 People
+un(e) invité(e)	客人	guest	人与关系 People
+un étranger / une étrangère	外国人；陌生人	foreigner; stranger	人与关系 People
+un(e) inconnu(e)	陌生人	stranger	人与关系 People
+un(e) ennemi(e)	敌人	enemy	人与关系 People
+une relation	关系	relationship	人与关系 People
+l'amitié (f.)	友谊	friendship	人与关系 People
+l'amour (m.)	爱情	love	人与关系 People
+un(e) amoureux / amoureuse	恋人	lover; in love	人与关系 People
+un petit ami / une petite amie	男朋友 / 女朋友	boyfriend / girlfriend	人与关系 People
+un groupe	一群；小组	group	人与关系 People
+une équipe	队；团队	team	人与关系 People
+un membre	成员	member	人与关系 People
+une foule	人群	crowd	人与关系 People
+un nom	名字；姓	name; surname	人与关系 People
+un prénom	名	first name	人与关系 People
+l'âge (m.)	年龄	age	人与关系 People
+une naissance	出生	birth	人与关系 People
+la mort	死亡	death	人与关系 People
+mort / morte	死的	dead	人与关系 People
+vivant / vivante	活的	alive	人与关系 People
+un homme / une femme politique	政治家	politician	人与关系 People
+un policier	警察	police officer	人与关系 People
+un avocat / une avocate	律师	lawyer	人与关系 People
+un(e) journaliste	记者	journalist	人与关系 People
+un infirmier / une infirmière	护士	nurse	人与关系 People
+un(e) artiste	艺术家	artist	人与关系 People
+un(e) scientifique	科学家	scientist	人与关系 People
+un vendeur / une vendeuse	售货员	salesperson	人与关系 People
+un serveur / une serveuse	服务员	waiter / waitress	人与关系 People
+un ouvrier / une ouvrière	工人	worker	人与关系 People
+un employé / une employée	职员	employee	人与关系 People
+un directeur / une directrice	经理；校长	director; manager	人与关系 People
+un agriculteur / une agricultrice	农民	farmer	人与关系 People
+un soldat	士兵	soldier	人与关系 People
+le corps	身体	body	身体与健康 Body & health
+la tête	头	head	身体与健康 Body & health
+le visage	脸	face	身体与健康 Body & health
+les yeux (m.) / un œil	眼睛	eyes / an eye	身体与健康 Body & health
+le nez	鼻子	nose	身体与健康 Body & health
+la bouche	嘴	mouth	身体与健康 Body & health
+une oreille	耳朵	ear	身体与健康 Body & health
+le cou	脖子	neck	身体与健康 Body & health
+la gorge	喉咙	throat	身体与健康 Body & health
+une épaule	肩膀	shoulder	身体与健康 Body & health
+un bras	手臂	arm	身体与健康 Body & health
+une main	手	hand	身体与健康 Body & health
+un doigt	手指	finger	身体与健康 Body & health
+le dos	背	back	身体与健康 Body & health
+le ventre	肚子	belly	身体与健康 Body & health
+une jambe	腿	leg	身体与健康 Body & health
+le genou	膝盖	knee	身体与健康 Body & health
+un pied	脚	foot	身体与健康 Body & health
+le cœur	心脏；心	heart	身体与健康 Body & health
+le sang	血	blood	身体与健康 Body & health
+la peau	皮肤	skin	身体与健康 Body & health
+un os	骨头	bone	身体与健康 Body & health
+le cerveau	大脑	brain	身体与健康 Body & health
+la voix	声音；嗓音	voice	身体与健康 Body & health
+la santé	健康	health	身体与健康 Body & health
+la maladie	疾病	illness	身体与健康 Body & health
+avoir mal à …	…疼	to have a pain in …	身体与健康 Body & health
+la douleur	疼痛	pain	身体与健康 Body & health
+la fièvre	发烧	fever	身体与健康 Body & health
+un rhume	感冒	cold	身体与健康 Body & health
+la grippe	流感	flu	身体与健康 Body & health
+tousser	咳嗽	to cough	身体与健康 Body & health
+une blessure	伤	injury	身体与健康 Body & health
+blessé / blessée	受伤的	injured	身体与健康 Body & health
+un médicament	药	medicine	身体与健康 Body & health
+une pharmacie	药店	pharmacy	身体与健康 Body & health
+une ordonnance	处方	prescription	身体与健康 Body & health
+les urgences (f.)	急诊	emergency room	身体与健康 Body & health
+une ambulance	救护车	ambulance	身体与健康 Body & health
+un(e) dentiste	牙医	dentist	身体与健康 Body & health
+soigner	治疗；照顾	to treat; to look after	身体与健康 Body & health
+guérir	治愈；痊愈	to cure; to get better	身体与健康 Body & health
+se sentir	感觉	to feel	身体与健康 Body & health
+respirer	呼吸	to breathe	身体与健康 Body & health
+pleurer	哭	to cry	身体与健康 Body & health
+rire	笑	to laugh	身体与健康 Body & health
+sourire	微笑	to smile	身体与健康 Body & health
+un sourire	微笑	smile	身体与健康 Body & health
+le sommeil	睡眠	sleep	身体与健康 Body & health
+un cauchemar	噩梦	nightmare	身体与健康 Body & health
+enceinte	怀孕的	pregnant	身体与健康 Body & health
+mince	苗条的	slim	身体与健康 Body & health
+gros / grosse	胖的；大的	fat; big	身体与健康 Body & health
+faible	虚弱的；弱的	weak	身体与健康 Body & health
+une porte	门	door	家与日常用品 Home & things
+une fenêtre	窗户	window	家与日常用品 Home & things
+un mur	墙	wall	家与日常用品 Home & things
+le toit	屋顶	roof	家与日常用品 Home & things
+le sol	地面	floor; ground	家与日常用品 Home & things
+le plafond	天花板	ceiling	家与日常用品 Home & things
+une pièce	房间	room	家与日常用品 Home & things
+le salon	客厅	living room	家与日常用品 Home & things
+la salle de bains	浴室	bathroom	家与日常用品 Home & things
+la salle à manger	餐厅	dining room	家与日常用品 Home & things
+un jardin	花园	garden	家与日常用品 Home & things
+un balcon	阳台	balcony	家与日常用品 Home & things
+un couloir	走廊	corridor	家与日常用品 Home & things
+l'ascenseur (m.)	电梯	lift; elevator	家与日常用品 Home & things
+un immeuble	楼房	apartment building	家与日常用品 Home & things
+un meuble	家具	piece of furniture	家与日常用品 Home & things
+un canapé	沙发	sofa	家与日常用品 Home & things
+un fauteuil	扶手椅	armchair	家与日常用品 Home & things
+une armoire	衣柜	wardrobe	家与日常用品 Home & things
+un placard	壁橱	cupboard	家与日常用品 Home & things
+une étagère	架子	shelf	家与日常用品 Home & things
+un tiroir	抽屉	drawer	家与日常用品 Home & things
+une lampe	灯	lamp	家与日常用品 Home & things
+la lumière	光；灯	light	家与日常用品 Home & things
+un miroir	镜子	mirror	家与日常用品 Home & things
+un frigo	冰箱	fridge	家与日常用品 Home & things
+un four	烤箱	oven	家与日常用品 Home & things
+une machine à laver	洗衣机	washing machine	家与日常用品 Home & things
+une assiette	盘子	plate	家与日常用品 Home & things
+un couteau	刀	knife	家与日常用品 Home & things
+une fourchette	叉子	fork	家与日常用品 Home & things
+une cuillère	勺子	spoon	家与日常用品 Home & things
+une boîte	盒子；罐头	box; can	家与日常用品 Home & things
+un papier	纸	paper	家与日常用品 Home & things
+une feuille	一张纸；叶子	sheet; leaf	家与日常用品 Home & things
+un crayon	铅笔	pencil	家与日常用品 Home & things
+un cahier	本子	notebook	家与日常用品 Home & things
+un journal	报纸；日记	newspaper; diary	家与日常用品 Home & things
+un magazine	杂志	magazine	家与日常用品 Home & things
+une carte	卡；地图	card; map	家与日常用品 Home & things
+un sac à dos	背包	backpack	家与日常用品 Home & things
+une montre	手表	watch	家与日常用品 Home & things
+un portable	手机	mobile phone	家与日常用品 Home & things
+un écran	屏幕	screen	家与日常用品 Home & things
+un appareil photo	相机	camera	家与日常用品 Home & things
+une couverture	毯子；封面	blanket; cover	家与日常用品 Home & things
+un oreiller	枕头	pillow	家与日常用品 Home & things
+une serviette	毛巾；餐巾	towel; napkin	家与日常用品 Home & things
+le savon	肥皂	soap	家与日常用品 Home & things
+une poubelle	垃圾桶	bin	家与日常用品 Home & things
+les déchets (m.)	垃圾	waste	家与日常用品 Home & things
+une chose	东西；事情	thing	家与日常用品 Home & things
+un objet	物品	object	家与日常用品 Home & things
+une affaire / mes affaires	事情 / 我的东西	matter / my things	家与日常用品 Home & things
+les vêtements (m.)	衣服	clothes	家与日常用品 Home & things
+une veste	外套；夹克	jacket	家与日常用品 Home & things
+un chapeau	帽子	hat	家与日常用品 Home & things
+une écharpe	围巾	scarf	家与日常用品 Home & things
+des gants (m.)	手套	gloves	家与日常用品 Home & things
+une poche	口袋	pocket	家与日常用品 Home & things
+une bague	戒指	ring	家与日常用品 Home & things
+un repas	一顿饭	meal	吃喝 Food & drink
+la nourriture	食物	food	吃喝 Food & drink
+un plat	一道菜；盘子	dish	吃喝 Food & drink
+une entrée	前菜；入口	starter; entrance	吃喝 Food & drink
+un dessert	甜点	dessert	吃喝 Food & drink
+la carte / le menu	菜单 / 套餐	menu / set menu	吃喝 Food & drink
+l'addition (f.)	账单	the bill	吃喝 Food & drink
+le pourboire	小费	tip	吃喝 Food & drink
+la boulangerie	面包店	bakery	吃喝 Food & drink
+une baguette	长棍面包	baguette	吃喝 Food & drink
+un croissant	羊角面包	croissant	吃喝 Food & drink
+un gâteau	蛋糕	cake	吃喝 Food & drink
+la confiture	果酱	jam	吃喝 Food & drink
+le poulet	鸡肉	chicken	吃喝 Food & drink
+le bœuf	牛肉	beef	吃喝 Food & drink
+le porc	猪肉	pork	吃喝 Food & drink
+le jambon	火腿	ham	吃喝 Food & drink
+une pomme de terre	土豆	potato	吃喝 Food & drink
+les frites (f.)	薯条	fries	吃喝 Food & drink
+une tomate	西红柿	tomato	吃喝 Food & drink
+une carotte	胡萝卜	carrot	吃喝 Food & drink
+un oignon	洋葱	onion	吃喝 Food & drink
+la salade	沙拉；生菜	salad; lettuce	吃喝 Food & drink
+une orange	橙子	orange	吃喝 Food & drink
+une banane	香蕉	banana	吃喝 Food & drink
+une fraise	草莓	strawberry	吃喝 Food & drink
+le citron	柠檬	lemon	吃喝 Food & drink
+l'huile (f.)	油	oil	吃喝 Food & drink
+le poivre	胡椒	pepper	吃喝 Food & drink
+la farine	面粉	flour	吃喝 Food & drink
+une recette	食谱	recipe	吃喝 Food & drink
+cuire	煮；烤	to cook	吃喝 Food & drink
+préparer	准备	to prepare	吃喝 Food & drink
+goûter	品尝	to taste	吃喝 Food & drink
+le goût	味道	taste	吃喝 Food & drink
+délicieux / délicieuse	美味的	delicious	吃喝 Food & drink
+sucré / sucrée	甜的	sweet	吃喝 Food & drink
+salé / salée	咸的	salty	吃喝 Food & drink
+frais / fraîche	新鲜的；凉的	fresh; cool	吃喝 Food & drink
+chaud / chaude	热的	hot	吃喝 Food & drink
+froid / froide	冷的	cold	吃喝 Food & drink
+servir	上菜；服务	to serve	吃喝 Food & drink
+commander	点菜；订购	to order	吃喝 Food & drink
+Bon appétit !	祝你好胃口！	Enjoy your meal!	吃喝 Food & drink
+À la vôtre ! / Santé !	干杯！	Cheers!	吃喝 Food & drink
+la rue	街道	street	城市与交通 City & transport
+une avenue	大街	avenue	城市与交通 City & transport
+une place	广场；座位	square; seat	城市与交通 City & transport
+un pont	桥	bridge	城市与交通 City & transport
+un coin	角落；街角	corner	城市与交通 City & transport
+un carrefour	十字路口	crossroads	城市与交通 City & transport
+un feu (rouge)	红绿灯	traffic light	城市与交通 City & transport
+le trottoir	人行道	pavement	城市与交通 City & transport
+une route	公路	road	城市与交通 City & transport
+une autoroute	高速公路	motorway	城市与交通 City & transport
+un chemin	小路；路线	path; way	城市与交通 City & transport
+la circulation	交通	traffic	城市与交通 City & transport
+un bâtiment	建筑物	building	城市与交通 City & transport
+une église	教堂	church	城市与交通 City & transport
+une mairie	市政府	town hall	城市与交通 City & transport
+la poste	邮局	post office	城市与交通 City & transport
+un marché	市场	market	城市与交通 City & transport
+une boutique	小商店	shop	城市与交通 City & transport
+un centre commercial	购物中心	shopping centre	城市与交通 City & transport
+un théâtre	剧院	theatre	城市与交通 City & transport
+une piscine	游泳池	swimming pool	城市与交通 City & transport
+un stade	体育场	stadium	城市与交通 City & transport
+une prison	监狱	prison	城市与交通 City & transport
+le commissariat	警察局	police station	城市与交通 City & transport
+la capitale	首都	capital	城市与交通 City & transport
+la banlieue	郊区	suburbs	城市与交通 City & transport
+un métro	地铁	underground; subway	城市与交通 City & transport
+un tram	有轨电车	tram	城市与交通 City & transport
+un taxi	出租车	taxi	城市与交通 City & transport
+un bateau	船	boat	城市与交通 City & transport
+une moto	摩托车	motorbike	城市与交通 City & transport
+un camion	卡车	lorry; truck	城市与交通 City & transport
+l'aéroport (m.)	机场	airport	城市与交通 City & transport
+un vol	航班；偷窃	flight; theft	城市与交通 City & transport
+un arrêt (de bus)	车站	(bus) stop	城市与交通 City & transport
+un quai	站台；河岸	platform; quay	城市与交通 City & transport
+un ticket	票	ticket	城市与交通 City & transport
+un aller simple / un aller-retour	单程 / 往返	one-way / return ticket	城市与交通 City & transport
+en retard / en avance	迟到 / 提前	late / early	城市与交通 City & transport
+à l'heure	准时	on time	城市与交通 City & transport
+le parking	停车场	car park	城市与交通 City & transport
+se garer	停车	to park	城市与交通 City & transport
+l'essence (f.)	汽油	petrol	城市与交通 City & transport
+une panne	故障	breakdown	城市与交通 City & transport
+la direction	方向	direction	城市与交通 City & transport
+tout droit	一直往前	straight ahead	城市与交通 City & transport
+à droite / à gauche	向右 / 向左	right / left	城市与交通 City & transport
+tourner	转弯；转	to turn	城市与交通 City & transport
+suivre	跟随；沿着	to follow	城市与交通 City & transport
+se perdre	迷路	to get lost	城市与交通 City & transport
+un plan	地图；计划	map; plan	城市与交通 City & transport
+le nord / le sud	北 / 南	north / south	城市与交通 City & transport
+l'est (m.), l'ouest (m.)	东 / 西	east / west	城市与交通 City & transport
+la nature	大自然	nature	自然与动物 Nature & animals
+la terre	地球；土地	earth; land	自然与动物 Nature & animals
+le ciel	天空	sky	自然与动物 Nature & animals
+la lune	月亮	moon	自然与动物 Nature & animals
+une étoile	星星	star	自然与动物 Nature & animals
+l'air (m.)	空气	air	自然与动物 Nature & animals
+le feu	火	fire	自然与动物 Nature & animals
+la glace	冰	ice	自然与动物 Nature & animals
+une rivière	河	river	自然与动物 Nature & animals
+un fleuve	大河	(large) river	自然与动物 Nature & animals
+l'océan (m.)	海洋	ocean	自然与动物 Nature & animals
+une vague	浪	wave	自然与动物 Nature & animals
+le sable	沙子	sand	自然与动物 Nature & animals
+une pierre	石头	stone	自然与动物 Nature & animals
+un arbre	树	tree	自然与动物 Nature & animals
+une plante	植物	plant	自然与动物 Nature & animals
+l'herbe (f.)	草	grass	自然与动物 Nature & animals
+un bois	树林；木头	wood	自然与动物 Nature & animals
+une colline	小山	hill	自然与动物 Nature & animals
+un champ	田地	field	自然与动物 Nature & animals
+le paysage	风景	landscape	自然与动物 Nature & animals
+le climat	气候	climate	自然与动物 Nature & animals
+la température	温度	temperature	自然与动物 Nature & animals
+la chaleur	炎热	heat	自然与动物 Nature & animals
+le brouillard	雾	fog	自然与动物 Nature & animals
+une tempête	暴风雨	storm	自然与动物 Nature & animals
+un oiseau	鸟	bird	自然与动物 Nature & animals
+un cheval	马	horse	自然与动物 Nature & animals
+une vache	奶牛	cow	自然与动物 Nature & animals
+un cochon	猪	pig	自然与动物 Nature & animals
+un mouton	羊	sheep	自然与动物 Nature & animals
+une poule	母鸡	hen	自然与动物 Nature & animals
+un lapin	兔子	rabbit	自然与动物 Nature & animals
+une souris	老鼠；鼠标	mouse	自然与动物 Nature & animals
+un insecte	昆虫	insect	自然与动物 Nature & animals
+un serpent	蛇	snake	自然与动物 Nature & animals
+un ours	熊	bear	自然与动物 Nature & animals
+le lion	狮子	lion	自然与动物 Nature & animals
+le temps (durée)	时间	time	时间与数量 Time & quantity
+une fois	一次	once; time	时间与数量 Time & quantity
+une date	日期	date	时间与数量 Time & quantity
+une époque	时代	period; era	时间与数量 Time & quantity
+le passé	过去	the past	时间与数量 Time & quantity
+le présent	现在	the present	时间与数量 Time & quantity
+le futur	将来	the future	时间与数量 Time & quantity
+le début	开始	beginning	时间与数量 Time & quantity
+la fin	结束	end	时间与数量 Time & quantity
+le milieu	中间	middle	时间与数量 Time & quantity
+un instant	一会儿	moment	时间与数量 Time & quantity
+une période	时期	period	时间与数量 Time & quantity
+un retard	延误	delay	时间与数量 Time & quantity
+maintenant	现在	now	时间与数量 Time & quantity
+tout à l'heure	刚才；待会儿	just now; later	时间与数量 Time & quantity
+aussitôt	立刻	immediately	时间与数量 Time & quantity
+désormais	从此以后	from now on	时间与数量 Time & quantity
+dorénavant	今后	henceforth	时间与数量 Time & quantity
+de temps en temps	时不时	from time to time	时间与数量 Time & quantity
+la plupart du temps	大部分时间	most of the time	时间与数量 Time & quantity
+tout le temps	一直	all the time	时间与数量 Time & quantity
+en même temps	同时	at the same time	时间与数量 Time & quantity
+à la fois	同时	at once; both	时间与数量 Time & quantity
+tôt ou tard	迟早	sooner or later	时间与数量 Time & quantity
+un quart	四分之一	a quarter	时间与数量 Time & quantity
+une moitié	一半	half	时间与数量 Time & quantity
+un tiers	三分之一	a third	时间与数量 Time & quantity
+le double	两倍	double	时间与数量 Time & quantity
+un nombre	数目	number	时间与数量 Time & quantity
+un chiffre	数字	figure; digit	时间与数量 Time & quantity
+une quantité	数量	quantity	时间与数量 Time & quantity
+une douzaine	一打	a dozen	时间与数量 Time & quantity
+une centaine	一百左右	about a hundred	时间与数量 Time & quantity
+mille	一千	thousand	时间与数量 Time & quantity
+un milliard	十亿	billion	时间与数量 Time & quantity
+un pour cent	百分之一	one per cent	时间与数量 Time & quantity
+un mètre	米	metre	时间与数量 Time & quantity
+un kilomètre	公里	kilometre	时间与数量 Time & quantity
+un litre	升	litre	时间与数量 Time & quantity
+la taille	尺寸；身高	size; height	时间与数量 Time & quantity
+le poids	重量	weight	时间与数量 Time & quantity
+la longueur	长度	length	时间与数量 Time & quantity
+la plupart (de)	大多数	most (of)	时间与数量 Time & quantity
+le reste	其余	the rest	时间与数量 Time & quantity
+environ	大约	about	时间与数量 Time & quantity
+à peu près	差不多	roughly	时间与数量 Time & quantity
+au moins	至少	at least	时间与数量 Time & quantity
+au plus / au maximum	最多	at most	时间与数量 Time & quantity
+premier / première	第一	first	时间与数量 Time & quantity
+deuxième / second(e)	第二	second	时间与数量 Time & quantity
+un(e) élève	中小学生	pupil	学习与工作 Study & work
+un(e) enseignant(e)	老师	teacher	学习与工作 Study & work
+un maître / une maîtresse	小学老师	primary teacher	学习与工作 Study & work
+une leçon	课	lesson	学习与工作 Study & work
+un exercice	练习	exercise	学习与工作 Study & work
+un devoir	作业；义务	homework; duty	学习与工作 Study & work
+une note	分数；笔记	mark; note	学习与工作 Study & work
+une erreur	错误	mistake	学习与工作 Study & work
+une faute	错误；过错	mistake; fault	学习与工作 Study & work
+corriger	改正	to correct	学习与工作 Study & work
+un dictionnaire	词典	dictionary	学习与工作 Study & work
+une page	页	page	学习与工作 Study & work
+une phrase	句子	sentence	学习与工作 Study & work
+un texte	文章	text	学习与工作 Study & work
+un sujet	题目；主语	subject; topic	学习与工作 Study & work
+une matière	科目；材料	subject; material	学习与工作 Study & work
+les mathématiques / les maths (f.)	数学	maths	学习与工作 Study & work
+l'histoire (f.)	历史；故事	history; story	学习与工作 Study & work
+la géographie	地理	geography	学习与工作 Study & work
+les sciences (f.)	科学	science	学习与工作 Study & work
+la recherche	研究；寻找	research; search	学习与工作 Study & work
+une bourse	奖学金	scholarship	学习与工作 Study & work
+un niveau	水平	level	学习与工作 Study & work
+la formation	培训	training	学习与工作 Study & work
+un emploi	工作；职位	job	学习与工作 Study & work
+un salaire	工资	salary	学习与工作 Study & work
+un contrat	合同	contract	学习与工作 Study & work
+un entretien	面试	interview	学习与工作 Study & work
+une carrière	职业生涯	career	学习与工作 Study & work
+une profession	职业	profession	学习与工作 Study & work
+une société (entreprise)	公司	company	学习与工作 Study & work
+une affaire (commerce)	生意	business	学习与工作 Study & work
+un client	客户	client	学习与工作 Study & work
+un service	服务；部门	service; department	学习与工作 Study & work
+un dossier	文件夹；档案	file	学习与工作 Study & work
+un document	文件	document	学习与工作 Study & work
+un rapport	报告；关系	report; relation	学习与工作 Study & work
+une tâche	任务	task	学习与工作 Study & work
+une mission	任务；使命	mission	学习与工作 Study & work
+un horaire	时间表	timetable	学习与工作 Study & work
+un congé	假期	leave; time off	学习与工作 Study & work
+la retraite	退休	retirement	学习与工作 Study & work
+embaucher	雇用	to hire	学习与工作 Study & work
+licencier	解雇	to dismiss	学习与工作 Study & work
+diriger	领导；管理	to manage; to lead	学习与工作 Study & work
+gérer	管理	to manage	学习与工作 Study & work
+organiser	组织	to organise	学习与工作 Study & work
+remplir	填写；装满	to fill in; to fill	学习与工作 Study & work
+signer	签字	to sign	学习与工作 Study & work
+l'ordinateur portable (m.)	笔记本电脑	laptop	学习与工作 Study & work
+un fichier	文件（电脑）	(computer) file	学习与工作 Study & work
+un site (web)	网站	website	学习与工作 Study & work
+Internet (m.)	互联网	the Internet	学习与工作 Study & work
+un mot de passe	密码	password	学习与工作 Study & work
+télécharger	下载	to download	学习与工作 Study & work
+cliquer	点击	to click	学习与工作 Study & work
+enregistrer	保存；录音	to save; to record	学习与工作 Study & work
+imprimer	打印	to print	学习与工作 Study & work
+un prix (coût)	价格	price	钱与购物 Money & shopping
+payer	付钱	to pay	钱与购物 Money & shopping
+coûter	价值；花费	to cost	钱与购物 Money & shopping
+dépenser	花钱	to spend	钱与购物 Money & shopping
+la monnaie	零钱	change; coins	钱与购物 Money & shopping
+une pièce (de monnaie)	硬币	coin	钱与购物 Money & shopping
+un billet (de banque)	纸币	banknote	钱与购物 Money & shopping
+une carte bancaire	银行卡	bank card	钱与购物 Money & shopping
+en espèces / en liquide	用现金	in cash	钱与购物 Money & shopping
+un compte	账户	account	钱与购物 Money & shopping
+une dette	债务	debt	钱与购物 Money & shopping
+un impôt	税	tax	钱与购物 Money & shopping
+une facture	发票；账单	invoice; bill	钱与购物 Money & shopping
+un reçu / un ticket de caisse	收据	receipt	钱与购物 Money & shopping
+la caisse	收银台	checkout	钱与购物 Money & shopping
+les soldes (m.)	打折季	the sales	钱与购物 Money & shopping
+gratuit / gratuite	免费的	free	钱与购物 Money & shopping
+cher / chère	贵的	expensive	钱与购物 Money & shopping
+bon marché	便宜的	cheap	钱与购物 Money & shopping
+la pointure	鞋码	shoe size	钱与购物 Money & shopping
+échanger	交换；调换	to exchange	钱与购物 Money & shopping
+une commande	订单	order	钱与购物 Money & shopping
+un colis	包裹	parcel	钱与购物 Money & shopping
+la livraison	送货	delivery	钱与购物 Money & shopping
+louer	租	to rent	钱与购物 Money & shopping
+la location	租赁	rental	钱与购物 Money & shopping
+la vente	销售	sale	钱与购物 Money & shopping
+un achat	购买的东西	purchase	钱与购物 Money & shopping
+l'État (m.)	国家；政府	the State	社会与新闻 Society & news
+le gouvernement	政府	government	社会与新闻 Society & news
+la politique	政治；政策	politics; policy	社会与新闻 Society & news
+une élection	选举	election	社会与新闻 Society & news
+voter	投票	to vote	社会与新闻 Society & news
+un citoyen / une citoyenne	公民	citizen	社会与新闻 Society & news
+une loi	法律	law	社会与新闻 Society & news
+le droit	权利；法律	right; law	社会与新闻 Society & news
+la justice	正义；司法	justice	社会与新闻 Society & news
+un juge	法官	judge	社会与新闻 Society & news
+un procès	审判	trial	社会与新闻 Society & news
+un crime	罪行	crime	社会与新闻 Society & news
+un(e) criminel(le)	罪犯	criminal	社会与新闻 Society & news
+un voleur / une voleuse	小偷	thief	社会与新闻 Society & news
+voler	偷；飞	to steal; to fly	社会与新闻 Society & news
+tuer	杀	to kill	社会与新闻 Society & news
+une arme	武器	weapon	社会与新闻 Society & news
+la police	警察	police	社会与新闻 Society & news
+arrêter (qqn)	逮捕	to arrest	社会与新闻 Society & news
+le danger	危险	danger	社会与新闻 Society & news
+dangereux / dangereuse	危险的	dangerous	社会与新闻 Society & news
+une armée	军队	army	社会与新闻 Society & news
+un pouvoir	权力	power	社会与新闻 Society & news
+une crise	危机	crisis	社会与新闻 Society & news
+l'économie (f.)	经济	economy	社会与新闻 Society & news
+le marché du travail	劳动市场	job market	社会与新闻 Society & news
+l'immigration (f.)	移民	immigration	社会与新闻 Society & news
+la culture	文化	culture	社会与新闻 Society & news
+une tradition	传统	tradition	社会与新闻 Society & news
+la religion	宗教	religion	社会与新闻 Society & news
+Dieu	上帝	God	社会与新闻 Society & news
+l'information (f.) / les infos	信息 / 新闻	information / the news	社会与新闻 Society & news
+une nouvelle	消息	piece of news	社会与新闻 Society & news
+un article	文章；商品	article	社会与新闻 Society & news
+la presse	新闻界	the press	社会与新闻 Society & news
+la radio	广播	radio	社会与新闻 Society & news
+une émission	节目	programme	社会与新闻 Society & news
+une publicité	广告	advertisement	社会与新闻 Society & news
+un événement	事件	event	社会与新闻 Society & news
+un fait	事实	fact	社会与新闻 Society & news
+un incendie	火灾	fire	社会与新闻 Society & news
+une catastrophe	灾难	disaster	社会与新闻 Society & news
+le réchauffement climatique	全球变暖	global warming	社会与新闻 Society & news
+l'énergie (f.)	能源	energy	社会与新闻 Society & news
+recycler	回收	to recycle	社会与新闻 Society & news
+la technologie	技术	technology	社会与新闻 Society & news
+le progrès	进步	progress	社会与新闻 Society & news
+la population	人口	population	社会与新闻 Society & news
+public / publique	公共的	public	社会与新闻 Society & news
+privé / privée	私人的	private	社会与新闻 Society & news
+international / internationale	国际的	international	社会与新闻 Society & news
+national / nationale	国家的	national	社会与新闻 Society & news
+un sentiment	感情	feeling	感情与性格 Feelings & character
+la joie	快乐	joy	感情与性格 Feelings & character
+le bonheur	幸福	happiness	感情与性格 Feelings & character
+le malheur	不幸	misfortune	感情与性格 Feelings & character
+la tristesse	悲伤	sadness	感情与性格 Feelings & character
+la colère	愤怒	anger	感情与性格 Feelings & character
+en colère	生气的	angry	感情与性格 Feelings & character
+la peur	恐惧	fear	感情与性格 Feelings & character
+la honte	羞耻	shame	感情与性格 Feelings & character
+avoir honte (de)	感到羞耻	to be ashamed (of)	感情与性格 Feelings & character
+la confiance	信任	trust	感情与性格 Feelings & character
+faire confiance à	信任	to trust	感情与性格 Feelings & character
+l'espoir (m.)	希望	hope	感情与性格 Feelings & character
+le courage	勇气	courage	感情与性格 Feelings & character
+le plaisir	乐趣	pleasure	感情与性格 Feelings & character
+avec plaisir	乐意	with pleasure	感情与性格 Feelings & character
+la surprise	惊喜；惊讶	surprise	感情与性格 Feelings & character
+le stress	压力	stress	感情与性格 Feelings & character
+stressé / stressée	有压力的	stressed	感情与性格 Feelings & character
+inquiet / inquiète	担心的	worried	感情与性格 Feelings & character
+s'inquiéter	担心	to worry	感情与性格 Feelings & character
+nerveux / nerveuse	紧张的	nervous	感情与性格 Feelings & character
+jaloux / jalouse	嫉妒的	jealous	感情与性格 Feelings & character
+fâché / fâchée	生气的	angry; cross	感情与性格 Feelings & character
+surpris / surprise	惊讶的	surprised	感情与性格 Feelings & character
+seul / seule	孤独的；独自	alone; lonely	感情与性格 Feelings & character
+amoureux / amoureuse (de)	爱上…的	in love (with)	感情与性格 Feelings & character
+tomber amoureux / amoureuse	坠入爱河	to fall in love	感情与性格 Feelings & character
+s'ennuyer	无聊	to be bored	感情与性格 Feelings & character
+le caractère	性格	character	感情与性格 Feelings & character
+méchant / méchante	坏的；凶的	nasty; mean	感情与性格 Feelings & character
+poli / polie	有礼貌的	polite	感情与性格 Feelings & character
+honnête	诚实的	honest	感情与性格 Feelings & character
+généreux / généreuse	慷慨的	generous	感情与性格 Feelings & character
+curieux / curieuse	好奇的	curious	感情与性格 Feelings & character
+paresseux / paresseuse	懒惰的	lazy	感情与性格 Feelings & character
+travailleur / travailleuse	勤劳的	hard-working	感情与性格 Feelings & character
+sérieux / sérieuse	认真的；严重的	serious	感情与性格 Feelings & character
+tranquille	安静的；平静的	quiet; calm	感情与性格 Feelings & character
+fou / folle	疯狂的	mad; crazy	感情与性格 Feelings & character
+bête	笨的	stupid	感情与性格 Feelings & character
+idiot / idiote	傻的	idiotic	感情与性格 Feelings & character
+sympathique	友好的	nice; friendly	感情与性格 Feelings & character
+aimable	和蔼的	kind; friendly	感情与性格 Feelings & character
+optimiste / pessimiste	乐观的 / 悲观的	optimistic / pessimistic	感情与性格 Feelings & character
+une idée	想法；主意	idea	思考与交流 Thinking & talking
+une pensée	思想	thought	思考与交流 Thinking & talking
+une opinion	意见	opinion	思考与交流 Thinking & talking
+une raison	理由	reason	思考与交流 Thinking & talking
+une solution	解决办法	solution	思考与交流 Thinking & talking
+un choix	选择	choice	思考与交流 Thinking & talking
+une décision	决定	decision	思考与交流 Thinking & talking
+prendre une décision	做决定	to make a decision	思考与交流 Thinking & talking
+un doute	怀疑	doubt	思考与交流 Thinking & talking
+un secret	秘密	secret	思考与交流 Thinking & talking
+la mémoire	记忆	memory	思考与交流 Thinking & talking
+l'esprit (m.)	头脑；精神	mind; spirit	思考与交流 Thinking & talking
+le sens	意思；方向	meaning; sense	思考与交流 Thinking & talking
+une explication	解释	explanation	思考与交流 Thinking & talking
+une conversation	谈话	conversation	思考与交流 Thinking & talking
+une discussion	讨论	discussion	思考与交流 Thinking & talking
+discuter	讨论；聊天	to discuss; to chat	思考与交流 Thinking & talking
+bavarder	闲聊	to chat	思考与交流 Thinking & talking
+un appel	电话；呼唤	call	思考与交流 Thinking & talking
+une promesse	诺言	promise	思考与交流 Thinking & talking
+une demande	请求	request	思考与交流 Thinking & talking
+une proposition	提议	proposal	思考与交流 Thinking & talking
+un accord	协议；同意	agreement	思考与交流 Thinking & talking
+croire	相信；认为	to believe; to think	思考与交流 Thinking & talking
+penser	想；认为	to think	思考与交流 Thinking & talking
+supposer	假设	to suppose	思考与交流 Thinking & talking
+deviner	猜	to guess	思考与交流 Thinking & talking
+se rappeler	记得	to remember	思考与交流 Thinking & talking
+remarquer	注意到	to notice	思考与交流 Thinking & talking
+comparer	比较	to compare	思考与交流 Thinking & talking
+décrire	描述	to describe	思考与交流 Thinking & talking
+prouver	证明	to prove	思考与交流 Thinking & talking
+mériter	值得	to deserve	思考与交流 Thinking & talking
+avouer	承认	to confess	思考与交流 Thinking & talking
+nier	否认	to deny	思考与交流 Thinking & talking
+insister	坚持	to insist	思考与交流 Thinking & talking
+une plainte	投诉	complaint	思考与交流 Thinking & talking
+remercier	感谢	to thank	思考与交流 Thinking & talking
+féliciter	祝贺	to congratulate	思考与交流 Thinking & talking
+Félicitations !	恭喜！	Congratulations!	思考与交流 Thinking & talking
+saluer	打招呼	to greet	思考与交流 Thinking & talking
+prévoir	预计；计划	to foresee; to plan	思考与交流 Thinking & talking
+avoir l'air	看起来	to seem; to look	思考与交流 Thinking & talking
+sembler	似乎	to seem	思考与交流 Thinking & talking
+paraître	显得	to appear	思考与交流 Thinking & talking
+faire attention (à)	注意	to pay attention (to)	思考与交流 Thinking & talking
+faire exprès	故意	to do on purpose	思考与交流 Thinking & talking
+être	是；在	to be	常用动词 Common verbs
+avoir	有	to have	常用动词 Common verbs
+faire	做	to do; to make	常用动词 Common verbs
+aller	去	to go	常用动词 Common verbs
+falloir	必须	to be necessary	常用动词 Common verbs
+tenir	拿着；握住	to hold	常用动词 Common verbs
+tenir à	珍惜；坚持要	to care about; to insist on	常用动词 Common verbs
+appartenir (à)	属于	to belong (to)	常用动词 Common verbs
+apporter	带来（物）	to bring	常用动词 Common verbs
+amener	带来（人）	to bring (someone)	常用动词 Common verbs
+emmener	带走（人）	to take (someone)	常用动词 Common verbs
+emporter	带走（物）	to take away	常用动词 Common verbs
+mener	引导	to lead	常用动词 Common verbs
+lever	举起	to raise	常用动词 Common verbs
+poser	放；提（问题）	to put; to ask (a question)	常用动词 Common verbs
+placer	放置	to place	常用动词 Common verbs
+jeter	扔	to throw (away)	常用动词 Common verbs
+lancer	投；启动	to throw; to launch	常用动词 Common verbs
+tirer	拉；开枪	to pull; to shoot	常用动词 Common verbs
+pousser	推；生长	to push; to grow	常用动词 Common verbs
+toucher	触摸	to touch	常用动词 Common verbs
+attraper	抓住	to catch	常用动词 Common verbs
+fermer	关	to close	常用动词 Common verbs
+allumer / éteindre	开（灯）/ 关（灯）	to switch on / off	常用动词 Common verbs
+remplacer	替换	to replace	常用动词 Common verbs
+réparer	修理	to repair	常用动词 Common verbs
+couper	切；剪	to cut	常用动词 Common verbs
+laver	洗	to wash	常用动词 Common verbs
+sécher	晒干；弄干	to dry	常用动词 Common verbs
+cacher	藏	to hide	常用动词 Common verbs
+retrouver	重新找到；会面	to find again; to meet up	常用动词 Common verbs
+rejoindre	和…会合	to join	常用动词 Common verbs
+accompagner	陪伴	to go with	常用动词 Common verbs
+s'approcher (de)	靠近	to come closer	常用动词 Common verbs
+s'éloigner (de)	远离	to move away	常用动词 Common verbs
+avancer	前进	to move forward	常用动词 Common verbs
+reculer	后退	to move back	常用动词 Common verbs
+marcher	走；运转	to walk; to work	常用动词 Common verbs
+sauter	跳	to jump	常用动词 Common verbs
+fuir	逃离	to flee	常用动词 Common verbs
+s'échapper	逃脱	to escape	常用动词 Common verbs
+se battre	打架；奋斗	to fight	常用动词 Common verbs
+battre	打；打败	to beat	常用动词 Common verbs
+gagner	赢；挣钱	to win; to earn	常用动词 Common verbs
+jouer (un rôle)	扮演	to play (a role)	常用动词 Common verbs
+changer	改变	to change	常用动词 Common verbs
+continuer	继续	to continue	常用动词 Common verbs
+terminer	结束	to finish	常用动词 Common verbs
+durer	持续	to last	常用动词 Common verbs
+se passer de	不需要	to do without	常用动词 Common verbs
+se produire	发生	to happen	常用动词 Common verbs
+exister	存在	to exist	常用动词 Common verbs
+manquer	缺少；错过	to miss; to lack	常用动词 Common verbs
+suffire	足够	to be enough	常用动词 Common verbs
+dépendre (de)	取决于	to depend (on)	常用动词 Common verbs
+servir (à)	用于	to be used (for)	常用动词 Common verbs
+utiliser	使用	to use	常用动词 Common verbs
+se servir de	使用	to use	常用动词 Common verbs
+créer	创造	to create	常用动词 Common verbs
+produire	生产	to produce	常用动词 Common verbs
+fabriquer	制造	to make; to manufacture	常用动词 Common verbs
+développer	发展	to develop	常用动词 Common verbs
+augmenter / diminuer	增加 / 减少	to increase / to decrease	常用动词 Common verbs
+améliorer	改善	to improve	常用动词 Common verbs
+enlever	去掉；脱下	to remove; to take off	常用动词 Common verbs
+vider	清空	to empty	常用动词 Common verbs
+partager	分享	to share	常用动词 Common verbs
+accepter	接受	to accept	常用动词 Common verbs
+permettre (de)	允许	to allow	常用动词 Common verbs
+empêcher (de)	阻止	to prevent	常用动词 Common verbs
+défendre	保卫；禁止	to defend; to forbid	常用动词 Common verbs
+attaquer	攻击	to attack	常用动词 Common verbs
+menacer	威胁	to threaten	常用动词 Common verbs
+tromper	欺骗	to deceive	常用动词 Common verbs
+sentir	闻；感觉	to smell; to feel	常用动词 Common verbs
+observer	观察	to observe	常用动词 Common verbs
+vérifier	检查	to check	常用动词 Common verbs
+chercher à	试图	to try to	常用动词 Common verbs
+se préparer	做准备	to get ready	常用动词 Common verbs
+se détendre	放松	to relax	常用动词 Common verbs
+s'endormir	入睡	to fall asleep	常用动词 Common verbs
+vivre	生活；活	to live	常用动词 Common verbs
+vieillir	变老	to grow old	常用动词 Common verbs
+plaisanter	开玩笑	to joke	常用动词 Common verbs
+une blague	笑话	joke	常用动词 Common verbs
+se tromper de	弄错	to get the wrong …	常用动词 Common verbs
+divorcer	离婚	to divorce	常用动词 Common verbs
+embrasser	亲吻；拥抱	to kiss; to hug	常用动词 Common verbs
+serrer la main	握手	to shake hands	常用动词 Common verbs
+frapper	敲；打	to knock; to hit	常用动词 Common verbs
+sonner	响；按铃	to ring	常用动词 Common verbs
+installer	安装；安置	to install; to set up	常用动词 Common verbs
+s'adapter	适应	to adapt	常用动词 Common verbs
+apprécier	欣赏；喜欢	to appreciate; to like	常用动词 Common verbs
+détester	讨厌	to hate	常用动词 Common verbs
+supporter	忍受	to stand; to bear	常用动词 Common verbs
+s'en occuper / s'en charger	负责	to take care of it	常用动词 Common verbs
+faire semblant (de)	假装	to pretend	常用动词 Common verbs
+se rendre compte (de)	意识到	to realise	常用动词 Common verbs
+se rendre (à)	前往	to go (to)	常用动词 Common verbs
+vrai / vraie	真的	true	常用形容词 Common adjectives
+faux / fausse	假的；错的	false; wrong	常用形容词 Common adjectives
+juste	公正的；正确的	fair; right	常用形容词 Common adjectives
+possible / impossible	可能的 / 不可能的	possible / impossible	常用形容词 Common adjectives
+simple	简单的	simple	常用形容词 Common adjectives
+compliqué / compliquée	复杂的	complicated	常用形容词 Common adjectives
+pratique	方便的	practical; handy	常用形容词 Common adjectives
+utile / inutile	有用的 / 没用的	useful / useless	常用形容词 Common adjectives
+prêt / prête	准备好的	ready	常用形容词 Common adjectives
+libre	自由的；空闲的	free	常用形容词 Common adjectives
+occupé / occupée	忙的；占用的	busy; taken	常用形容词 Common adjectives
+plein / pleine	满的	full	常用形容词 Common adjectives
+vide	空的	empty	常用形容词 Common adjectives
+ouvert / ouverte	开着的	open	常用形容词 Common adjectives
+fermé / fermée	关着的	closed	常用形容词 Common adjectives
+propre	干净的；自己的	clean; own	常用形容词 Common adjectives
+sale	脏的	dirty	常用形容词 Common adjectives
+long / longue	长的	long	常用形容词 Common adjectives
+court / courte	短的	short	常用形容词 Common adjectives
+large	宽的	wide	常用形容词 Common adjectives
+étroit / étroite	窄的	narrow	常用形容词 Common adjectives
+haut / haute	高的	high	常用形容词 Common adjectives
+bas / basse	低的	low	常用形容词 Common adjectives
+profond / profonde	深的	deep	常用形容词 Common adjectives
+lourd / lourde	重的	heavy	常用形容词 Common adjectives
+léger / légère	轻的	light	常用形容词 Common adjectives
+dur / dure	硬的；难的	hard	常用形容词 Common adjectives
+mou / molle	软的	soft	常用形容词 Common adjectives
+proche	近的	close	常用形容词 Common adjectives
+lointain / lointaine	遥远的	distant	常用形容词 Common adjectives
+ancien / ancienne	古老的；以前的	old; former	常用形容词 Common adjectives
+moderne	现代的	modern	常用形容词 Common adjectives
+récent / récente	最近的	recent	常用形容词 Common adjectives
+actuel / actuelle	当前的	current	常用形容词 Common adjectives
+autre	别的	other	常用形容词 Common adjectives
+différent / différente	不同的	different	常用形容词 Common adjectives
+pareil / pareille	一样的	the same; alike	常用形容词 Common adjectives
+entier / entière	整个的	whole	常用形容词 Common adjectives
+principal / principale	主要的	main	常用形容词 Common adjectives
+spécial / spéciale	特别的	special	常用形容词 Common adjectives
+particulier / particulière	特殊的	particular	常用形容词 Common adjectives
+général / générale	一般的	general	常用形容词 Common adjectives
+normal / normale	正常的	normal	常用形容词 Common adjectives
+étrange / bizarre	奇怪的	strange / weird	常用形容词 Common adjectives
+incroyable	难以置信的	incredible	常用形容词 Common adjectives
+extraordinaire	非凡的	extraordinary	常用形容词 Common adjectives
+magnifique	壮丽的	magnificent	常用形容词 Common adjectives
+merveilleux / merveilleuse	美妙的	wonderful	常用形容词 Common adjectives
+parfait / parfaite	完美的	perfect	常用形容词 Common adjectives
+terrible	可怕的；极好的	terrible; terrific	常用形容词 Common adjectives
+horrible	可怕的	horrible	常用形容词 Common adjectives
+grave	严重的	serious	常用形容词 Common adjectives
+nul / nulle	很差的	rubbish; useless	常用形容词 Common adjectives
+excellent / excellente	优秀的	excellent	常用形容词 Common adjectives
+super	超棒的	great	常用形容词 Common adjectives
+précis / précise	精确的	precise	常用形容词 Common adjectives
+clair / claire	清楚的；浅色的	clear; light	常用形容词 Common adjectives
+sombre	暗的	dark	常用形容词 Common adjectives
+silencieux / silencieuse	安静的	silent	常用形容词 Common adjectives
+bruyant / bruyante	吵闹的	noisy	常用形容词 Common adjectives
+sûr / sûre (sans danger)	安全的	safe	常用形容词 Common adjectives
+humain / humaine	人类的	human	常用形容词 Common adjectives
+naturel / naturelle	自然的	natural	常用形容词 Common adjectives
+personnel / personnelle	个人的	personal	常用形容词 Common adjectives
+social / sociale	社会的	social	常用形容词 Common adjectives
+local / locale	当地的	local	常用形容词 Common adjectives
+étranger / étrangère	外国的	foreign	常用形容词 Common adjectives
+gris / grise	灰色的	grey	常用形容词 Common adjectives
+jaune	黄色的	yellow	常用形容词 Common adjectives
+rose	粉色的	pink	常用形容词 Common adjectives
+marron	棕色的	brown	常用形容词 Common adjectives
+violet / violette	紫色的	purple	常用形容词 Common adjectives
+orange	橙色的	orange	常用形容词 Common adjectives
+la couleur	颜色	colour	常用形容词 Common adjectives
+oui / non / si	是 / 不 / 不，是的（反驳否定）	yes / no / yes (contradicting)	小词 Little words
+là	那里；这里	there; here	小词 Little words
+voilà	这就是；瞧	here is; there you go	小词 Little words
+dedans / dehors	在里面 / 在外面	inside / outside	小词 Little words
+dessus / dessous	在上面 / 在下面	on top / underneath	小词 Little words
+en haut / en bas	在上面 / 在下面	upstairs; at the top / downstairs	小词 Little words
+devant / derrière	在…前面 / 在…后面	in front of / behind	小词 Little words
+près (de) / loin (de)	近 / 远	near / far	小词 Little words
+sous / sur	在…下 / 在…上	under / on	小词 Little words
+entre	在…之间	between	小词 Little words
+parmi	在…之中	among	小词 Little words
+contre	反对；靠着	against	小词 Little words
+vers	朝着；大约	towards; around	小词 Little words
+envers	对于（态度）	towards (someone)	小词 Little words
+autour (de)	在…周围	around	小词 Little words
+au-dessus (de) / au-dessous (de)	在…上方 / 在…下方	above / below	小词 Little words
+à travers	穿过	through	小词 Little words
+le long de	沿着	along	小词 Little words
+au milieu de	在…中间	in the middle of	小词 Little words
+au fond (de)	在…深处；其实	at the bottom of; deep down	小词 Little words
+hors de	在…外	out of	小词 Little words
+selon / d'après	根据	according to	小词 Little words
+sauf	除了	except	小词 Little words
+y compris	包括	including	小词 Little words
+durant	在…期间	during	小词 Little words
+dès	从…起	from; as early as	小词 Little words
+vis-à-vis de	对于	towards; regarding	小词 Little words
+quant à	至于	as for	小词 Little words
+ou bien	或者	or else	小词 Little words
+ni … ni …	既不…也不…	neither … nor …	小词 Little words
+soit … soit …	要么…要么…	either … or …	小词 Little words
+ainsi que	以及	as well as	小词 Little words
+tant que	只要；当…时	as long as	小词 Little words
+dès lors	从那时起	from then on	小词 Little words
+sûrement	肯定；大概	surely; probably	小词 Little words
+plutôt	宁可；相当	rather	小词 Little words
+si (tellement)	如此	so	小词 Little words
+tant	这么多	so much	小词 Little words
+autant	同样多	as much	小词 Little words
+davantage	更多	more	小词 Little words
+à peine	几乎不；刚刚	hardly; barely	小词 Little words
+même pas	甚至不	not even	小词 Little words
+non plus	也不	neither	小词 Little words
+surtout	尤其	especially	小词 Little words
+justement	正是；恰好	exactly; precisely	小词 Little words
+exactement	正是	exactly	小词 Little words
+simplement	仅仅；简单地	simply	小词 Little words
+directement	直接地	directly	小词 Little words
+facilement	容易地	easily	小词 Little words
+absolument	绝对	absolutely	小词 Little words
+totalement	完全地	totally	小词 Little words
+vraiment pas	真的不	really not	小词 Little words
+probablement	可能	probably	小词 Little words
+certainement	当然；肯定	certainly	小词 Little words
+apparemment	显然；看来	apparently	小词 Little words
+naturellement	自然地；当然	naturally; of course	小词 Little words
+également	同样；也	also; equally	小词 Little words
+ailleurs	在别处	elsewhere	小词 Little words
+séparément	分开地	separately	小词 Little words
+debout	站着	standing	小词 Little words
+volontairement	故意地	deliberately	小词 Little words
+exprès	故意	on purpose	小词 Little words
+en tout cas	无论如何	in any case	小词 Little words
+de toute façon	反正	anyway	小词 Little words
+à propos	顺便说；关于	by the way; about	小词 Little words
+en général	一般来说	in general	小词 Little words
+en particulier	特别是	in particular	小词 Little words
+effectivement	确实	indeed	小词 Little words
+tout de même	还是；毕竟	all the same	小词 Little words
+n'importe comment	随便怎样	any old how	小词 Little words
+celui / celle / ceux / celles	这个人 / 那个	the one(s)	小词 Little words
+celui-ci / celui-là	这一个 / 那一个	this one / that one	小词 Little words
+ceci / cela / ça	这 / 那	this / that	小词 Little words
+tout / tous / toute / toutes	一切；所有	all; everything	小词 Little words
+autre chose	别的东西	something else	小词 Little words
+quelque chose de …	某个…的东西	something …	小词 Little words
+ouais	是啊	yeah	口语 Spoken French
+bah / ben	嗯；那个	well	口语 Spoken French
+euh	呃	um; er	口语 Spoken French
+hein ?	啊？；对吧？	eh?; right?	口语 Spoken French
+bon	好吧	OK; right	口语 Spoken French
+genre	好像；类似	like; kind of	口语 Spoken French
+grave (familier)	超；非常	totally	口语 Spoken French
+carrément	完全；干脆	totally; straight out	口语 Spoken French
+un gars	小伙子	guy	口语 Spoken French
+une nana / une meuf	女孩	girl	口语 Spoken French
+un gamin / une gamine	小孩	kid	口语 Spoken French
+la bouffe / bouffer	吃的 / 吃	food / to eat	口语 Spoken French
+une bagnole	汽车	car	口语 Spoken French
+un flic	警察	cop	口语 Spoken French
+fringues (f.)	衣服	clothes	口语 Spoken French
+un bouquin	书	book	口语 Spoken French
+la flemme / avoir la flemme	懒得	can't be bothered	口语 Spoken French
+nickel	完美；干净	spotless; perfect	口语 Spoken French
+pas mal	不错	not bad	口语 Spoken French
+Ça roule ?	怎么样？	How's it going?	口语 Spoken French
+Comment ? / Pardon ?	什么？请再说一遍	Sorry? Pardon?	口语 Spoken French
+Pardon !	对不起！借过！	Sorry! Excuse me!	口语 Spoken French
+Tant pis !	算了！	Too bad!	口语 Spoken French
+Tant mieux !	太好了！	So much the better!	口语 Spoken French
+Ça suffit !	够了！	That's enough!	口语 Spoken French
+Ça ne fait rien.	没关系。	It doesn't matter.	口语 Spoken French
+Ça m'est égal.	我无所谓。	I don't mind.	口语 Spoken French
+Ça dépend de toi.	看你。	It's up to you.	口语 Spoken French
+C'est ça !	就是这样！	That's it!	口语 Spoken French
+C'est vrai ?	真的吗？	Really?	口语 Spoken French
+Sans blague !	不是吧！	No kidding!	口语 Spoken French
+N'importe quoi !	胡说八道！	Nonsense!	口语 Spoken French
+J'arrive !	我来了！	Coming!	口语 Spoken French
+Je m'en fiche.	我不在乎。	I don't care.	口语 Spoken French
+Il n'y a pas de quoi. / De rien.	不客气。	You're welcome.	口语 Spoken French
+Je t'en prie. / Je vous en prie.	不客气；请。	You're welcome; please do.	口语 Spoken French
+Ça me dit.	我想（做）。	I'm up for it.	口语 Spoken French
+Ça te dit de … ?	你想不想…？	Do you fancy …?	口语 Spoken French
+Dis donc !	喂！哎呀！	Hey! Wow!	口语 Spoken French
+Allez !	加油！走吧！	Come on!	口语 Spoken French
+Tiens !	拿着！哎！	Here! Look!	口语 Spoken French
+Bon courage !	加油！	Good luck!	口语 Spoken French
+Bonne chance !	祝好运！	Good luck!	口语 Spoken French
+Bonne nuit !	晚安！	Good night!	口语 Spoken French
+À bientôt ! / À demain !	回头见！/ 明天见！	See you soon! / See you tomorrow!	口语 Spoken French
+Ça fait longtemps !	好久不见！	Long time no see!	口语 Spoken French
+Quelle chance !	真走运！	How lucky!	口语 Spoken French
+Quel dommage !	真可惜！	What a pity!	口语 Spoken French
+Au secours !	救命！	Help!	口语 Spoken French
